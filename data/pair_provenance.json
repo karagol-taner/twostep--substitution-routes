@@ -1,0 +1,742 @@
+{
+ "all_pairs_by_phenotype": {
+  "different phenotype words": 62,
+  "one or both unclassified": 6932,
+  "same phenotype word: activity": 72,
+  "same phenotype word: binding": 2386,
+  "same phenotype word: expression": 94,
+  "same phenotype word: growth": 38,
+  "same phenotype word: localization": 6
+ },
+ "all_pairs_by_relation": {
+  "same experiment": 10,
+  "same experiment set, different experiment": 104,
+  "shared publication, different experiment set": 128,
+  "unrelated deposits": 9348
+ },
+ "deposit_pairs": 9590,
+ "deposit_pairs_at_one_differing_position": 1565,
+ "deposit_pairs_at_one_differing_position_undirected": 796,
+ "deposit_pairs_undirected": 4831,
+ "one_position_and_one_experiment": 2,
+ "one_position_and_one_experiment_pairs": [
+  {
+   "experiment": "urn:mavedb:00000043-a",
+   "from": "urn:mavedb:00000043-a-1",
+   "publications": [
+    "PubMed:31697803"
+   ],
+   "rows_in_census": 1,
+   "title_from": "Novel Drivers of MPL-dependent Oncogenic Transformation",
+   "title_via": "Novel Modifiers of MPL-dependent Oncogenic Transformation",
+   "via": "urn:mavedb:00000043-a-2"
+  },
+  {
+   "experiment": "urn:mavedb:00000043-a",
+   "from": "urn:mavedb:00000043-a-2",
+   "publications": [
+    "PubMed:31697803"
+   ],
+   "rows_in_census": 1,
+   "title_from": "Novel Modifiers of MPL-dependent Oncogenic Transformation",
+   "title_via": "Novel Drivers of MPL-dependent Oncogenic Transformation",
+   "via": "urn:mavedb:00000043-a-1"
+  }
+ ],
+ "one_position_and_one_experiment_undirected": 1,
+ "one_position_pairs_by_phenotype": {
+  "different phenotype words": 16,
+  "one or both unclassified": 1269,
+  "same phenotype word: activity": 36,
+  "same phenotype word: binding": 216,
+  "same phenotype word: expression": 12,
+  "same phenotype word: growth": 12,
+  "same phenotype word: localization": 4
+ },
+ "one_position_pairs_by_relation": {
+  "same experiment": 2,
+  "same experiment set, different experiment": 92,
+  "shared publication, different experiment set": 20,
+  "unrelated deposits": 1451
+ },
+ "phenotype_word_classes": [
+  "binding",
+  "expression",
+  "growth",
+  "activity",
+  "resistance",
+  "splicing",
+  "localization"
+ ],
+ "provenance_by_target": {
+  "Autolysin": {
+   "deposits": 9,
+   "deposits_with_a_publication": 0,
+   "experiment_sets": [
+    "urn:mavedb:00000344",
+    "urn:mavedb:00000345",
+    "urn:mavedb:00000346"
+   ],
+   "experiment_sets_with_a_publication": [],
+   "publications": []
+  },
+  "Cold shock-like protein CspA": {
+   "deposits": 9,
+   "deposits_with_a_publication": 0,
+   "experiment_sets": [
+    "urn:mavedb:00000307",
+    "urn:mavedb:00000308",
+    "urn:mavedb:00000309"
+   ],
+   "experiment_sets_with_a_publication": [],
+   "publications": []
+  },
+  "DUF4651 domain-containing protein": {
+   "deposits": 6,
+   "deposits_with_a_publication": 0,
+   "experiment_sets": [
+    "urn:mavedb:00000330",
+    "urn:mavedb:00000331"
+   ],
+   "experiment_sets_with_a_publication": [],
+   "publications": []
+  },
+  "FYN SH3 domain": {
+   "deposits": 15,
+   "deposits_with_a_publication": 0,
+   "experiment_sets": [
+    "urn:mavedb:00000116",
+    "urn:mavedb:00000117",
+    "urn:mavedb:00000118",
+    "urn:mavedb:00000119",
+    "urn:mavedb:00000120"
+   ],
+   "experiment_sets_with_a_publication": [],
+   "publications": []
+  },
+  "GLI1 Zinc finger C2H2-type domain": {
+   "deposits": 2,
+   "deposits_with_a_publication": 2,
+   "experiment_sets": [
+    "urn:mavedb:00000830",
+    "urn:mavedb:00000832"
+   ],
+   "experiment_sets_with_a_publication": [
+    "urn:mavedb:00000830",
+    "urn:mavedb:00000832"
+   ],
+   "publications": [
+    "bioRxiv:2024.04.26.591310"
+   ]
+  },
+  "GLI2 Zinc finger C2H2-type domain": {
+   "deposits": 2,
+   "deposits_with_a_publication": 2,
+   "experiment_sets": [
+    "urn:mavedb:00000831",
+    "urn:mavedb:00000832"
+   ],
+   "experiment_sets_with_a_publication": [
+    "urn:mavedb:00000831",
+    "urn:mavedb:00000832"
+   ],
+   "publications": [
+    "bioRxiv:2024.04.26.591310"
+   ]
+  },
+  "GLI3 Zinc finger C2H2-type domain": {
+   "deposits": 3,
+   "deposits_with_a_publication": 3,
+   "experiment_sets": [
+    "urn:mavedb:00000830",
+    "urn:mavedb:00000831",
+    "urn:mavedb:00000832"
+   ],
+   "experiment_sets_with_a_publication": [
+    "urn:mavedb:00000830",
+    "urn:mavedb:00000831",
+    "urn:mavedb:00000832"
+   ],
+   "publications": [
+    "bioRxiv:2024.04.26.591310"
+   ]
+  },
+  "Ice-structuring protein": {
+   "deposits": 6,
+   "deposits_with_a_publication": 0,
+   "experiment_sets": [
+    "urn:mavedb:00000313",
+    "urn:mavedb:00000314"
+   ],
+   "experiment_sets_with_a_publication": [],
+   "publications": []
+  },
+  "Ice-structuring protein RD1": {
+   "deposits": 6,
+   "deposits_with_a_publication": 0,
+   "experiment_sets": [
+    "urn:mavedb:00000203",
+    "urn:mavedb:00000204"
+   ],
+   "experiment_sets_with_a_publication": [],
+   "publications": []
+  },
+  "Ice-structuring protein SP2": {
+   "deposits": 9,
+   "deposits_with_a_publication": 0,
+   "experiment_sets": [
+    "urn:mavedb:00000165",
+    "urn:mavedb:00000166",
+    "urn:mavedb:00000167"
+   ],
+   "experiment_sets_with_a_publication": [],
+   "publications": []
+  },
+  "MPL": {
+   "deposits": 17,
+   "deposits_with_a_publication": 2,
+   "experiment_sets": [
+    "urn:mavedb:00000043",
+    "urn:mavedb:00001214"
+   ],
+   "experiment_sets_with_a_publication": [
+    "urn:mavedb:00000043"
+   ],
+   "publications": [
+    "PubMed:31697803"
+   ]
+  },
+  "N-acetylglucosaminidase": {
+   "deposits": 9,
+   "deposits_with_a_publication": 0,
+   "experiment_sets": [
+    "urn:mavedb:00000278",
+    "urn:mavedb:00000279",
+    "urn:mavedb:00000280"
+   ],
+   "experiment_sets_with_a_publication": [],
+   "publications": []
+  },
+  "NPHP1": {
+   "deposits": 9,
+   "deposits_with_a_publication": 0,
+   "experiment_sets": [
+    "urn:mavedb:00000186",
+    "urn:mavedb:00000187",
+    "urn:mavedb:00000188"
+   ],
+   "experiment_sets_with_a_publication": [],
+   "publications": []
+  },
+  "NfeD domain-containing protein": {
+   "deposits": 9,
+   "deposits_with_a_publication": 0,
+   "experiment_sets": [
+    "urn:mavedb:00000235",
+    "urn:mavedb:00000236",
+    "urn:mavedb:00000237"
+   ],
+   "experiment_sets_with_a_publication": [],
+   "publications": []
+  },
+  "O26789_METTH": {
+   "deposits": 9,
+   "deposits_with_a_publication": 0,
+   "experiment_sets": [
+    "urn:mavedb:00000264",
+    "urn:mavedb:00000265",
+    "urn:mavedb:00000266"
+   ],
+   "experiment_sets_with_a_publication": [],
+   "publications": []
+  },
+  "O59021_PYRHO": {
+   "deposits": 9,
+   "deposits_with_a_publication": 0,
+   "experiment_sets": [
+    "urn:mavedb:00000416",
+    "urn:mavedb:00000417",
+    "urn:mavedb:00000418"
+   ],
+   "experiment_sets_with_a_publication": [],
+   "publications": []
+  },
+  "POU2F1 POU-specific domain": {
+   "deposits": 2,
+   "deposits_with_a_publication": 2,
+   "experiment_sets": [
+    "urn:mavedb:00000967",
+    "urn:mavedb:00000968"
+   ],
+   "experiment_sets_with_a_publication": [
+    "urn:mavedb:00000967",
+    "urn:mavedb:00000968"
+   ],
+   "publications": [
+    "bioRxiv:2024.04.26.591310"
+   ]
+  },
+  "POU2F2 POU-specific domain": {
+   "deposits": 2,
+   "deposits_with_a_publication": 2,
+   "experiment_sets": [
+    "urn:mavedb:00000967",
+    "urn:mavedb:00000968"
+   ],
+   "experiment_sets_with_a_publication": [
+    "urn:mavedb:00000967",
+    "urn:mavedb:00000968"
+   ],
+   "publications": [
+    "bioRxiv:2024.04.26.591310"
+   ]
+  },
+  "POU3F2 Homeobox domain": {
+   "deposits": 2,
+   "deposits_with_a_publication": 2,
+   "experiment_sets": [
+    "urn:mavedb:00000971",
+    "urn:mavedb:00000973"
+   ],
+   "experiment_sets_with_a_publication": [
+    "urn:mavedb:00000971",
+    "urn:mavedb:00000973"
+   ],
+   "publications": [
+    "bioRxiv:2024.04.26.591310"
+   ]
+  },
+  "POU3F3 Homeobox domain": {
+   "deposits": 2,
+   "deposits_with_a_publication": 2,
+   "experiment_sets": [
+    "urn:mavedb:00000971",
+    "urn:mavedb:00000973"
+   ],
+   "experiment_sets_with_a_publication": [
+    "urn:mavedb:00000971",
+    "urn:mavedb:00000973"
+   ],
+   "publications": [
+    "bioRxiv:2024.04.26.591310"
+   ]
+  },
+  "Protein LG": {
+   "deposits": 9,
+   "deposits_with_a_publication": 0,
+   "experiment_sets": [
+    "urn:mavedb:00000370",
+    "urn:mavedb:00000371",
+    "urn:mavedb:00000372"
+   ],
+   "experiment_sets_with_a_publication": [],
+   "publications": []
+  },
+  "S505N MPL": {
+   "deposits": 15,
+   "deposits_with_a_publication": 2,
+   "experiment_sets": [
+    "urn:mavedb:00000043",
+    "urn:mavedb:00001214"
+   ],
+   "experiment_sets_with_a_publication": [
+    "urn:mavedb:00000043"
+   ],
+   "publications": [
+    "PubMed:31697803"
+   ]
+  },
+  "SIX1 Homeobox domain": {
+   "deposits": 2,
+   "deposits_with_a_publication": 2,
+   "experiment_sets": [
+    "urn:mavedb:00001050",
+    "urn:mavedb:00001051"
+   ],
+   "experiment_sets_with_a_publication": [
+    "urn:mavedb:00001050",
+    "urn:mavedb:00001051"
+   ],
+   "publications": [
+    "bioRxiv:2024.04.26.591310"
+   ]
+  },
+  "SIX2 Homeobox domain": {
+   "deposits": 2,
+   "deposits_with_a_publication": 2,
+   "experiment_sets": [
+    "urn:mavedb:00001050",
+    "urn:mavedb:00001051"
+   ],
+   "experiment_sets_with_a_publication": [
+    "urn:mavedb:00001050",
+    "urn:mavedb:00001051"
+   ],
+   "publications": [
+    "bioRxiv:2024.04.26.591310"
+   ]
+  },
+  "SIX3 Homeobox domain": {
+   "deposits": 2,
+   "deposits_with_a_publication": 2,
+   "experiment_sets": [
+    "urn:mavedb:00001052",
+    "urn:mavedb:00001053"
+   ],
+   "experiment_sets_with_a_publication": [
+    "urn:mavedb:00001052",
+    "urn:mavedb:00001053"
+   ],
+   "publications": [
+    "bioRxiv:2024.04.26.591310"
+   ]
+  },
+  "SIX6 Homeobox domain": {
+   "deposits": 2,
+   "deposits_with_a_publication": 2,
+   "experiment_sets": [
+    "urn:mavedb:00001052",
+    "urn:mavedb:00001053"
+   ],
+   "experiment_sets_with_a_publication": [
+    "urn:mavedb:00001052",
+    "urn:mavedb:00001053"
+   ],
+   "publications": [
+    "bioRxiv:2024.04.26.591310"
+   ]
+  },
+  "SPTAN1": {
+   "deposits": 36,
+   "deposits_with_a_publication": 0,
+   "experiment_sets": [
+    "urn:mavedb:00000125",
+    "urn:mavedb:00000126",
+    "urn:mavedb:00000127",
+    "urn:mavedb:00000148",
+    "urn:mavedb:00000149",
+    "urn:mavedb:00000150",
+    "urn:mavedb:00000375",
+    "urn:mavedb:00000376",
+    "urn:mavedb:00000377",
+    "urn:mavedb:00000413",
+    "urn:mavedb:00000414",
+    "urn:mavedb:00000415"
+   ],
+   "experiment_sets_with_a_publication": [],
+   "publications": []
+  },
+  "SRC": {
+   "deposits": 9,
+   "deposits_with_a_publication": 0,
+   "experiment_sets": [
+    "urn:mavedb:00000409",
+    "urn:mavedb:00000410",
+    "urn:mavedb:00000411"
+   ],
+   "experiment_sets_with_a_publication": [],
+   "publications": []
+  },
+  "TEM-1 \u03b2-lactamase": {
+   "deposits": 12,
+   "deposits_with_a_publication": 12,
+   "experiment_sets": [
+    "urn:mavedb:00000070",
+    "urn:mavedb:00000085",
+    "urn:mavedb:00000086"
+   ],
+   "experiment_sets_with_a_publication": [
+    "urn:mavedb:00000070",
+    "urn:mavedb:00000085",
+    "urn:mavedb:00000086"
+   ],
+   "publications": [
+    "PubMed:19502423",
+    "PubMed:23284860",
+    "PubMed:24567513",
+    "PubMed:25723163",
+    "PubMed:27173379"
+   ]
+  },
+  "TEM-15 \u03b2-lactamase": {
+   "deposits": 3,
+   "deposits_with_a_publication": 3,
+   "experiment_sets": [
+    "urn:mavedb:00000085"
+   ],
+   "experiment_sets_with_a_publication": [
+    "urn:mavedb:00000085"
+   ],
+   "publications": [
+    "PubMed:19502423",
+    "PubMed:23284860",
+    "PubMed:24567513",
+    "PubMed:27173379"
+   ]
+  },
+  "TEM-17 \u03b2-lactamase": {
+   "deposits": 3,
+   "deposits_with_a_publication": 3,
+   "experiment_sets": [
+    "urn:mavedb:00000085"
+   ],
+   "experiment_sets_with_a_publication": [
+    "urn:mavedb:00000085"
+   ],
+   "publications": [
+    "PubMed:19502423",
+    "PubMed:23284860",
+    "PubMed:24567513",
+    "PubMed:27173379"
+   ]
+  },
+  "TEM-19 \u03b2-lactamase": {
+   "deposits": 12,
+   "deposits_with_a_publication": 12,
+   "experiment_sets": [
+    "urn:mavedb:00000070",
+    "urn:mavedb:00000085",
+    "urn:mavedb:00000086"
+   ],
+   "experiment_sets_with_a_publication": [
+    "urn:mavedb:00000070",
+    "urn:mavedb:00000085",
+    "urn:mavedb:00000086"
+   ],
+   "publications": [
+    "PubMed:19502423",
+    "PubMed:23284860",
+    "PubMed:24567513",
+    "PubMed:25723163",
+    "PubMed:27173379"
+   ]
+  },
+  "TP53": {
+   "deposits": 15,
+   "deposits_with_a_publication": 15,
+   "experiment_sets": [
+    "urn:mavedb:00000068",
+    "urn:mavedb:00001234",
+    "urn:mavedb:00001235",
+    "urn:mavedb:00001236"
+   ],
+   "experiment_sets_with_a_publication": [
+    "urn:mavedb:00000068",
+    "urn:mavedb:00001234",
+    "urn:mavedb:00001235",
+    "urn:mavedb:00001236"
+   ],
+   "publications": [
+    "PubMed:12826609",
+    "PubMed:30224644",
+    "PubMed:31395785",
+    "PubMed:34273903",
+    "PubMed:34793697"
+   ]
+  },
+  "UBC": {
+   "deposits": 30,
+   "deposits_with_a_publication": 0,
+   "experiment_sets": [
+    "urn:mavedb:00000189",
+    "urn:mavedb:00000190",
+    "urn:mavedb:00000191",
+    "urn:mavedb:00000196",
+    "urn:mavedb:00000197",
+    "urn:mavedb:00000198",
+    "urn:mavedb:00000199",
+    "urn:mavedb:00000200",
+    "urn:mavedb:00000201",
+    "urn:mavedb:00000202"
+   ],
+   "experiment_sets_with_a_publication": [],
+   "publications": []
+  },
+  "Uncharacterized protein MJ1198": {
+   "deposits": 9,
+   "deposits_with_a_publication": 0,
+   "experiment_sets": [
+    "urn:mavedb:00000261",
+    "urn:mavedb:00000262",
+    "urn:mavedb:00000263"
+   ],
+   "experiment_sets_with_a_publication": [],
+   "publications": []
+  },
+  "W515K MPL": {
+   "deposits": 13,
+   "deposits_with_a_publication": 0,
+   "experiment_sets": [
+    "urn:mavedb:00001214"
+   ],
+   "experiment_sets_with_a_publication": [],
+   "publications": []
+  },
+  "cspA": {
+   "deposits": 10,
+   "deposits_with_a_publication": 1,
+   "experiment_sets": [
+    "urn:mavedb:00000160",
+    "urn:mavedb:00000161",
+    "urn:mavedb:00000162",
+    "urn:mavedb:00000752"
+   ],
+   "experiment_sets_with_a_publication": [
+    "urn:mavedb:00000752"
+   ],
+   "publications": [
+    "bioRxiv:2024.04.26.591310"
+   ]
+  },
+  "cspA Cold-shock protein, DNA-binding domain": {
+   "deposits": 7,
+   "deposits_with_a_publication": 1,
+   "experiment_sets": [
+    "urn:mavedb:00000161",
+    "urn:mavedb:00000162",
+    "urn:mavedb:00000752"
+   ],
+   "experiment_sets_with_a_publication": [
+    "urn:mavedb:00000752"
+   ],
+   "publications": [
+    "bioRxiv:2024.04.26.591310"
+   ]
+  },
+  "cspB": {
+   "deposits": 10,
+   "deposits_with_a_publication": 1,
+   "experiment_sets": [
+    "urn:mavedb:00000130",
+    "urn:mavedb:00000131",
+    "urn:mavedb:00000132",
+    "urn:mavedb:00000753"
+   ],
+   "experiment_sets_with_a_publication": [
+    "urn:mavedb:00000753"
+   ],
+   "publications": [
+    "bioRxiv:2024.04.26.591310"
+   ]
+  },
+  "cspB Cold-shock protein, DNA-binding domain": {
+   "deposits": 7,
+   "deposits_with_a_publication": 1,
+   "experiment_sets": [
+    "urn:mavedb:00000131",
+    "urn:mavedb:00000132",
+    "urn:mavedb:00000753"
+   ],
+   "experiment_sets_with_a_publication": [
+    "urn:mavedb:00000753"
+   ],
+   "publications": [
+    "bioRxiv:2024.04.26.591310"
+   ]
+  },
+  "cspLA": {
+   "deposits": 9,
+   "deposits_with_a_publication": 0,
+   "experiment_sets": [
+    "urn:mavedb:00000316",
+    "urn:mavedb:00000317",
+    "urn:mavedb:00000318"
+   ],
+   "experiment_sets_with_a_publication": [],
+   "publications": []
+  },
+  "cylR2": {
+   "deposits": 9,
+   "deposits_with_a_publication": 0,
+   "experiment_sets": [
+    "urn:mavedb:00000319",
+    "urn:mavedb:00000320",
+    "urn:mavedb:00000321"
+   ],
+   "experiment_sets_with_a_publication": [],
+   "publications": []
+  },
+  "entD": {
+   "deposits": 18,
+   "deposits_with_a_publication": 0,
+   "experiment_sets": [
+    "urn:mavedb:00000274",
+    "urn:mavedb:00000275",
+    "urn:mavedb:00000276",
+    "urn:mavedb:00000285",
+    "urn:mavedb:00000286",
+    "urn:mavedb:00000287"
+   ],
+   "experiment_sets_with_a_publication": [],
+   "publications": []
+  },
+  "rplI": {
+   "deposits": 12,
+   "deposits_with_a_publication": 0,
+   "experiment_sets": [
+    "urn:mavedb:00000240",
+    "urn:mavedb:00000241",
+    "urn:mavedb:00000242",
+    "urn:mavedb:00000243"
+   ],
+   "experiment_sets_with_a_publication": [],
+   "publications": []
+  },
+  "spa": {
+   "deposits": 9,
+   "deposits_with_a_publication": 0,
+   "experiment_sets": [
+    "urn:mavedb:00000225",
+    "urn:mavedb:00000226",
+    "urn:mavedb:00000227"
+   ],
+   "experiment_sets_with_a_publication": [],
+   "publications": []
+  },
+  "spg": {
+   "deposits": 45,
+   "deposits_with_a_publication": 0,
+   "experiment_sets": [
+    "urn:mavedb:00000136",
+    "urn:mavedb:00000137",
+    "urn:mavedb:00000138",
+    "urn:mavedb:00000141",
+    "urn:mavedb:00000142",
+    "urn:mavedb:00000143",
+    "urn:mavedb:00000169",
+    "urn:mavedb:00000170",
+    "urn:mavedb:00000171",
+    "urn:mavedb:00000172",
+    "urn:mavedb:00000173",
+    "urn:mavedb:00000174",
+    "urn:mavedb:00000175",
+    "urn:mavedb:00000176",
+    "urn:mavedb:00000177"
+   ],
+   "experiment_sets_with_a_publication": [],
+   "publications": []
+  },
+  "sso7d": {
+   "deposits": 6,
+   "deposits_with_a_publication": 0,
+   "experiment_sets": [
+    "urn:mavedb:00000128",
+    "urn:mavedb:00000129"
+   ],
+   "experiment_sets_with_a_publication": [],
+   "publications": []
+  }
+ },
+ "target_extent": {
+  "accession_match": {
+   "different accessions": 6,
+   "one or both unidentified": 735,
+   "same accession": 55
+  },
+  "median_target_length": 62,
+  "pairs": 796,
+  "pairs_with_target_100_or_fewer": 729,
+  "target_length_q1": 56,
+  "target_length_q3": 69
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "alanine": {
+  "both": 0,
+  "cells": 55,
+  "label": "alanine as intermediate",
+  "magnitude_departing": 4,
+  "median_abs_residual": 0.1589,
+  "median_intermediate_cost": -0.0054,
+  "median_mag_null": 0.159,
+  "median_rank_null": 0.4572,
+  "median_rho": 0.5108,
+  "rank_departing": 1
+ },
+ "all": {
+  "both": 0,
+  "cells": 613,
+  "label": "all common-scale cells",
+  "magnitude_departing": 76,
+  "median_abs_residual": 0.1585,
+  "median_intermediate_cost": -0.0159,
+  "median_mag_null": 0.1586,
+  "median_rank_null": 0.42,
+  "median_rho": 0.4427,
+  "rank_departing": 4
+ },
+ "by_system": [
+  {
+   "both": 0,
+   "cells": 408,
+   "label": "homeobox domain",
+   "magnitude_departing": 40,
+   "median_abs_residual": 0.1593,
+   "median_intermediate_cost": -0.0347,
+   "median_mag_null": 0.1707,
+   "median_rank_null": 0.453,
+   "median_rho": 0.4799,
+   "rank_departing": 3
+  },
+  {
+   "both": 0,
+   "cells": 68,
+   "label": "zinc finger",
+   "magnitude_departing": 5,
+   "median_abs_residual": 0.1505,
+   "median_intermediate_cost": -0.0298,
+   "median_mag_null": 0.1361,
+   "median_rank_null": 0.3498,
+   "median_rho": 0.3498,
+   "rank_departing": 0
+  },
+  {
+   "both": 0,
+   "cells": 60,
+   "label": "influenza NP",
+   "magnitude_departing": 17,
+   "median_abs_residual": 0.2056,
+   "median_intermediate_cost": 0.0508,
+   "median_mag_null": 0.1421,
+   "median_rank_null": -0.0373,
+   "median_rho": 0.0682,
+   "rank_departing": 0
+  },
+  {
+   "both": 0,
+   "cells": 12,
+   "label": "SARS-CoV-2 RBD",
+   "magnitude_departing": 0,
+   "median_abs_residual": 0.1058,
+   "median_intermediate_cost": 0.0547,
+   "median_mag_null": 0.333,
+   "median_rank_null": 0.7234,
+   "median_rho": 0.8514,
+   "rank_departing": 0
+  },
+  {
+   "both": 0,
+   "cells": 10,
+   "label": "MPL",
+   "magnitude_departing": 4,
+   "median_abs_residual": 0.803,
+   "median_intermediate_cost": 0.8498,
+   "median_mag_null": 0.4722,
+   "median_rank_null": 0.3519,
+   "median_rho": 0.4138,
+   "rank_departing": 1
+  }
+ ],
+ "cells_before_dedup": 894,
+ "draws": 10000,
+ "min_targets": 6,
+ "note": "the magnitude statistic is legitimate here because both deposits of a pair come from one laboratory and one assay and therefore share a scale; it is the statistic fixed in the analysis plan and nothing about it is re-chosen",
+ "seed": 20261111,
+ "set_aside": {},
+ "systems_with_at_least_eight_cells": 5,
+ "tiers_counted_as_common_scale": [
+  "same experiment",
+  "same experiment set",
+  "same publication"
+ ]
+}

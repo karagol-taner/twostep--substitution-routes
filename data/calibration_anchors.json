@@ -1,0 +1,196 @@
+{
+ "agree_with_calibrated_test": 6,
+ "cross_phenotype_fits": [
+  0.5483,
+  0.5688,
+  0.6204,
+  0.6206,
+  0.6232,
+  0.6431,
+  0.6512,
+  0.6937,
+  0.7047
+ ],
+ "cross_phenotype_max": 0.7047,
+ "cross_phenotype_min": 0.5483,
+ "min_fit_points": 100,
+ "n_cross_phenotype": 9,
+ "n_same_phenotype": 6,
+ "pairs": [
+  {
+   "fit_n": 3797,
+   "fit_pearson": 0.6431,
+   "from_background": "Wuhan Hu-1",
+   "from_phenotype": "binding",
+   "from_urn": "urn:mavedb:00000044-a-1",
+   "same_phenotype": false,
+   "via_background": "Wuhan Hu-1",
+   "via_phenotype": "expression",
+   "via_urn": "urn:mavedb:00000044-b-2"
+  },
+  {
+   "fit_n": 3517,
+   "fit_pearson": 0.8633,
+   "from_background": "Wuhan Hu-1",
+   "from_phenotype": "binding",
+   "from_urn": "urn:mavedb:00000044-a-1",
+   "same_phenotype": true,
+   "via_background": "BA.1",
+   "via_phenotype": "binding",
+   "via_urn": "urn:mavedb:00000668-a-1"
+  },
+  {
+   "fit_n": 3517,
+   "fit_pearson": 0.5483,
+   "from_background": "Wuhan Hu-1",
+   "from_phenotype": "binding",
+   "from_urn": "urn:mavedb:00000044-a-1",
+   "same_phenotype": false,
+   "via_background": "BA.1",
+   "via_phenotype": "expression",
+   "via_urn": "urn:mavedb:00000669-a-1"
+  },
+  {
+   "fit_n": 3480,
+   "fit_pearson": 0.8602,
+   "from_background": "Wuhan Hu-1",
+   "from_phenotype": "binding",
+   "from_urn": "urn:mavedb:00000044-a-1",
+   "same_phenotype": true,
+   "via_background": "BA.2",
+   "via_phenotype": "binding",
+   "via_urn": "urn:mavedb:00000670-a-1"
+  },
+  {
+   "fit_n": 3480,
+   "fit_pearson": 0.5688,
+   "from_background": "Wuhan Hu-1",
+   "from_phenotype": "binding",
+   "from_urn": "urn:mavedb:00000044-a-1",
+   "same_phenotype": false,
+   "via_background": "BA.2",
+   "via_phenotype": "expression",
+   "via_urn": "urn:mavedb:00000671-a-1"
+  },
+  {
+   "fit_n": 3513,
+   "fit_pearson": 0.6937,
+   "from_background": "Wuhan Hu-1",
+   "from_phenotype": "expression",
+   "from_urn": "urn:mavedb:00000044-b-2",
+   "same_phenotype": false,
+   "via_background": "BA.1",
+   "via_phenotype": "binding",
+   "via_urn": "urn:mavedb:00000668-a-1"
+  },
+  {
+   "fit_n": 3513,
+   "fit_pearson": 0.8784,
+   "from_background": "Wuhan Hu-1",
+   "from_phenotype": "expression",
+   "from_urn": "urn:mavedb:00000044-b-2",
+   "same_phenotype": true,
+   "via_background": "BA.1",
+   "via_phenotype": "expression",
+   "via_urn": "urn:mavedb:00000669-a-1"
+  },
+  {
+   "fit_n": 3476,
+   "fit_pearson": 0.7047,
+   "from_background": "Wuhan Hu-1",
+   "from_phenotype": "expression",
+   "from_urn": "urn:mavedb:00000044-b-2",
+   "same_phenotype": false,
+   "via_background": "BA.2",
+   "via_phenotype": "binding",
+   "via_urn": "urn:mavedb:00000670-a-1"
+  },
+  {
+   "fit_n": 3476,
+   "fit_pearson": 0.906,
+   "from_background": "Wuhan Hu-1",
+   "from_phenotype": "expression",
+   "from_urn": "urn:mavedb:00000044-b-2",
+   "same_phenotype": true,
+   "via_background": "BA.2",
+   "via_phenotype": "expression",
+   "via_urn": "urn:mavedb:00000671-a-1"
+  },
+  {
+   "fit_n": 3819,
+   "fit_pearson": 0.6204,
+   "from_background": "BA.1",
+   "from_phenotype": "binding",
+   "from_urn": "urn:mavedb:00000668-a-1",
+   "same_phenotype": false,
+   "via_background": "BA.1",
+   "via_phenotype": "expression",
+   "via_urn": "urn:mavedb:00000669-a-1"
+  },
+  {
+   "fit_n": 3687,
+   "fit_pearson": 0.9651,
+   "from_background": "BA.1",
+   "from_phenotype": "binding",
+   "from_urn": "urn:mavedb:00000668-a-1",
+   "same_phenotype": true,
+   "via_background": "BA.2",
+   "via_phenotype": "binding",
+   "via_urn": "urn:mavedb:00000670-a-1"
+  },
+  {
+   "fit_n": 3687,
+   "fit_pearson": 0.6232,
+   "from_background": "BA.1",
+   "from_phenotype": "binding",
+   "from_urn": "urn:mavedb:00000668-a-1",
+   "same_phenotype": false,
+   "via_background": "BA.2",
+   "via_phenotype": "expression",
+   "via_urn": "urn:mavedb:00000671-a-1"
+  },
+  {
+   "fit_n": 3687,
+   "fit_pearson": 0.6206,
+   "from_background": "BA.1",
+   "from_phenotype": "expression",
+   "from_urn": "urn:mavedb:00000669-a-1",
+   "same_phenotype": false,
+   "via_background": "BA.2",
+   "via_phenotype": "binding",
+   "via_urn": "urn:mavedb:00000670-a-1"
+  },
+  {
+   "fit_n": 3687,
+   "fit_pearson": 0.9536,
+   "from_background": "BA.1",
+   "from_phenotype": "expression",
+   "from_urn": "urn:mavedb:00000669-a-1",
+   "same_phenotype": true,
+   "via_background": "BA.2",
+   "via_phenotype": "expression",
+   "via_urn": "urn:mavedb:00000671-a-1"
+  },
+  {
+   "fit_n": 3801,
+   "fit_pearson": 0.6512,
+   "from_background": "BA.2",
+   "from_phenotype": "binding",
+   "from_urn": "urn:mavedb:00000670-a-1",
+   "same_phenotype": false,
+   "via_background": "BA.2",
+   "via_phenotype": "expression",
+   "via_urn": "urn:mavedb:00000671-a-1"
+  }
+ ],
+ "same_phenotype_fits": [
+  0.8602,
+  0.8633,
+  0.8784,
+  0.906,
+  0.9536,
+  0.9651
+ ],
+ "same_phenotype_max": 0.9651,
+ "same_phenotype_min": 0.8602
+}

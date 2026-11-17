@@ -1,0 +1,23 @@
+{
+ "background_pairs": 586,
+ "cells_examined": 49562,
+ "cells_with_routes": 47782,
+ "complete_routes": 837538,
+ "distinct_proteins_with_routes": 129,
+ "distinct_sequences": 1241,
+ "max_divergence": 0.25,
+ "pairs_examined": 5215,
+ "pairs_with_routes": 4831,
+ "routes_via_alanine": 102585,
+ "score_sets_read": 688,
+ "score_sets_unreadable": {},
+ "set_aside": {
+  "dna length not a multiple of three": 33,
+  "internal stop": 24,
+  "no sequence": 84,
+  "shorter than 20 residues": 29
+ },
+ "target_gene_records": 3170,
+ "target_genes_retrieved": "2026-11-11",
+ "too_divergent_pairs": 17380
+}

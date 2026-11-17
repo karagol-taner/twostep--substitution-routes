@@ -1,0 +1,99 @@
+{
+ "deposits_checked": 688,
+ "deposits_where_a_second_column_differs": 2,
+ "deposits_with_any_mismatch": 10,
+ "discarded_rows": {
+  "alt not standard Ter": 14885,
+  "no value average": 76,
+  "no value score": 20730,
+  "unparsed NA": 860,
+  "unparsed p....": 554221,
+  "unparsed p.=": 26662,
+  "unparsed p.other": 143900
+ },
+ "effect_column_used": {
+  "average": 2,
+  "score": 686
+ },
+ "mismatch_offsets_if_any": {
+  "None": 10
+ },
+ "reference_residue_matches": 1007148,
+ "reference_residue_mismatches": 188,
+ "second_column_examples": [
+  [
+   "urn:mavedb:00000044-a-1",
+   6949,
+   2.1
+  ],
+  [
+   "urn:mavedb:00000044-b-2",
+   7136,
+   1.74
+  ]
+ ],
+ "variant_rows_kept": 1007336,
+ "variant_rows_seen": 1768670,
+ "worst_deposits": [
+  {
+   "commonest_shift": null,
+   "matched": 7467,
+   "mismatched": 20,
+   "urn": "urn:mavedb:00000068-0-1"
+  },
+  {
+   "commonest_shift": null,
+   "matched": 7467,
+   "mismatched": 20,
+   "urn": "urn:mavedb:00000068-a-1"
+  },
+  {
+   "commonest_shift": null,
+   "matched": 7467,
+   "mismatched": 20,
+   "urn": "urn:mavedb:00000068-b-1"
+  },
+  {
+   "commonest_shift": null,
+   "matched": 7467,
+   "mismatched": 20,
+   "urn": "urn:mavedb:00000068-c-1"
+  },
+  {
+   "commonest_shift": null,
+   "matched": 14508,
+   "mismatched": 20,
+   "urn": "urn:mavedb:00000070-a-1"
+  },
+  {
+   "commonest_shift": null,
+   "matched": 14508,
+   "mismatched": 20,
+   "urn": "urn:mavedb:00000070-a-3"
+  },
+  {
+   "commonest_shift": null,
+   "matched": 7446,
+   "mismatched": 20,
+   "urn": "urn:mavedb:00001235-a-1"
+  },
+  {
+   "commonest_shift": null,
+   "matched": 7482,
+   "mismatched": 20,
+   "urn": "urn:mavedb:00001236-0-1"
+  },
+  {
+   "commonest_shift": null,
+   "matched": 5469,
+   "mismatched": 14,
+   "urn": "urn:mavedb:00000070-a-2"
+  },
+  {
+   "commonest_shift": null,
+   "matched": 5469,
+   "mismatched": 14,
+   "urn": "urn:mavedb:00000070-a-4"
+  }
+ ]
+}

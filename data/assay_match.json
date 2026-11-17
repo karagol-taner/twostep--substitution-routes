@@ -1,0 +1,7947 @@
+{
+ "by_assay": {
+  "different assay": {
+   "pairs": 518,
+   "rho_control": {
+    "above_0.9": 28,
+    "mean": 0.588,
+    "median": 0.6292,
+    "n": 518,
+    "q1": 0.4316,
+    "q3": 0.8018
+   },
+   "rho_test": {
+    "above_0.9": 369,
+    "mean": 0.8226,
+    "median": 0.9567,
+    "n": 518,
+    "q1": 0.8577,
+    "q3": 0.9814
+   },
+   "targets": 38
+  },
+  "same assay": {
+   "pairs": 223,
+   "rho_control": {
+    "above_0.9": 17,
+    "mean": 0.6296,
+    "median": 0.678,
+    "n": 223,
+    "q1": 0.485,
+    "q3": 0.8354
+   },
+   "rho_test": {
+    "above_0.9": 183,
+    "mean": 0.9203,
+    "median": 0.9732,
+    "n": 223,
+    "q1": 0.9384,
+    "q3": 0.9866
+   },
+   "targets": 27
+  },
+  "undetermined": {
+   "pairs": 0,
+   "rho_control": null,
+   "rho_test": null,
+   "targets": 0
+  }
+ },
+ "by_target": [
+  {
+   "above_0.9": 0,
+   "median_rho_control": 0.2015,
+   "median_rho_test": 0.2382,
+   "pairs": 9,
+   "same_assay": 3,
+   "target": "Ice-structuring protein RD1"
+  },
+  {
+   "above_0.9": 0,
+   "median_rho_control": 0.2364,
+   "median_rho_test": 0.2485,
+   "pairs": 11,
+   "same_assay": 0,
+   "target": "TEM-1 \u03b2-lactamase"
+  },
+  {
+   "above_0.9": 0,
+   "median_rho_control": 0.2364,
+   "median_rho_test": 0.2485,
+   "pairs": 11,
+   "same_assay": 0,
+   "target": "TEM-19 \u03b2-lactamase"
+  },
+  {
+   "above_0.9": 1,
+   "median_rho_control": 0.515,
+   "median_rho_test": 0.3189,
+   "pairs": 23,
+   "same_assay": 1,
+   "target": "S505N MPL"
+  },
+  {
+   "above_0.9": 1,
+   "median_rho_control": 0.515,
+   "median_rho_test": 0.3437,
+   "pairs": 45,
+   "same_assay": 1,
+   "target": "MPL"
+  },
+  {
+   "above_0.9": 0,
+   "median_rho_control": 0.5206,
+   "median_rho_test": 0.3446,
+   "pairs": 22,
+   "same_assay": 0,
+   "target": "W515K MPL"
+  },
+  {
+   "above_0.9": 0,
+   "median_rho_control": -0.0057,
+   "median_rho_test": 0.644,
+   "pairs": 18,
+   "same_assay": 6,
+   "target": "O59021_PYRHO"
+  },
+  {
+   "above_0.9": 3,
+   "median_rho_control": 0.3875,
+   "median_rho_test": 0.7038,
+   "pairs": 6,
+   "same_assay": 0,
+   "target": "cspA Cold-shock protein, DNA-binding domain"
+  },
+  {
+   "above_0.9": 3,
+   "median_rho_control": 0.4721,
+   "median_rho_test": 0.7853,
+   "pairs": 6,
+   "same_assay": 0,
+   "target": "cspB Cold-shock protein, DNA-binding domain"
+  },
+  {
+   "above_0.9": 5,
+   "median_rho_control": 0.7408,
+   "median_rho_test": 0.8125,
+   "pairs": 18,
+   "same_assay": 6,
+   "target": "spa"
+  },
+  {
+   "above_0.9": 2,
+   "median_rho_control": 0.2188,
+   "median_rho_test": 0.8782,
+   "pairs": 9,
+   "same_assay": 3,
+   "target": "Ice-structuring protein"
+  },
+  {
+   "above_0.9": 10,
+   "median_rho_control": 0.8615,
+   "median_rho_test": 0.8857,
+   "pairs": 27,
+   "same_assay": 9,
+   "target": "rplI"
+  },
+  {
+   "above_0.9": 9,
+   "median_rho_control": 0.7147,
+   "median_rho_test": 0.9195,
+   "pairs": 18,
+   "same_assay": 6,
+   "target": "cspLA"
+  },
+  {
+   "above_0.9": 18,
+   "median_rho_control": 0.4427,
+   "median_rho_test": 0.9391,
+   "pairs": 24,
+   "same_assay": 6,
+   "target": "cspA"
+  },
+  {
+   "above_0.9": 9,
+   "median_rho_control": 0.645,
+   "median_rho_test": 0.9422,
+   "pairs": 9,
+   "same_assay": 3,
+   "target": "DUF4651 domain-containing protein"
+  },
+  {
+   "above_0.9": 1,
+   "median_rho_control": 0.7714,
+   "median_rho_test": 0.9429,
+   "pairs": 1,
+   "same_assay": 0,
+   "target": "TEM-15 \u03b2-lactamase"
+  },
+  {
+   "above_0.9": 1,
+   "median_rho_control": 0.7714,
+   "median_rho_test": 0.9429,
+   "pairs": 1,
+   "same_assay": 0,
+   "target": "TEM-17 \u03b2-lactamase"
+  },
+  {
+   "above_0.9": 15,
+   "median_rho_control": 0.4974,
+   "median_rho_test": 0.9463,
+   "pairs": 18,
+   "same_assay": 6,
+   "target": "Ice-structuring protein SP2"
+  },
+  {
+   "above_0.9": 14,
+   "median_rho_control": 0.612,
+   "median_rho_test": 0.9494,
+   "pairs": 18,
+   "same_assay": 6,
+   "target": "N-acetylglucosaminidase"
+  },
+  {
+   "above_0.9": 13,
+   "median_rho_control": 0.598,
+   "median_rho_test": 0.9583,
+   "pairs": 18,
+   "same_assay": 6,
+   "target": "Protein LG"
+  },
+  {
+   "above_0.9": 17,
+   "median_rho_control": 0.3782,
+   "median_rho_test": 0.967,
+   "pairs": 18,
+   "same_assay": 6,
+   "target": "NfeD domain-containing protein"
+  },
+  {
+   "above_0.9": 17,
+   "median_rho_control": 0.742,
+   "median_rho_test": 0.967,
+   "pairs": 18,
+   "same_assay": 6,
+   "target": "Autolysin"
+  },
+  {
+   "above_0.9": 90,
+   "median_rho_control": 0.7699,
+   "median_rho_test": 0.969,
+   "pairs": 99,
+   "same_assay": 33,
+   "target": "spg"
+  },
+  {
+   "above_0.9": 18,
+   "median_rho_control": 0.7379,
+   "median_rho_test": 0.969,
+   "pairs": 18,
+   "same_assay": 6,
+   "target": "cylR2"
+  },
+  {
+   "above_0.9": 36,
+   "median_rho_control": 0.885,
+   "median_rho_test": 0.9698,
+   "pairs": 36,
+   "same_assay": 12,
+   "target": "FYN SH3 domain"
+  },
+  {
+   "above_0.9": 70,
+   "median_rho_control": 0.838,
+   "median_rho_test": 0.9732,
+   "pairs": 72,
+   "same_assay": 24,
+   "target": "SPTAN1"
+  },
+  {
+   "above_0.9": 21,
+   "median_rho_control": 0.5258,
+   "median_rho_test": 0.9732,
+   "pairs": 24,
+   "same_assay": 6,
+   "target": "cspB"
+  },
+  {
+   "above_0.9": 53,
+   "median_rho_control": 0.259,
+   "median_rho_test": 0.9735,
+   "pairs": 72,
+   "same_assay": 24,
+   "target": "UBC"
+  },
+  {
+   "above_0.9": 9,
+   "median_rho_control": 0.4644,
+   "median_rho_test": 0.9752,
+   "pairs": 9,
+   "same_assay": 3,
+   "target": "sso7d"
+  },
+  {
+   "above_0.9": 18,
+   "median_rho_control": 0.5722,
+   "median_rho_test": 0.9794,
+   "pairs": 18,
+   "same_assay": 6,
+   "target": "Cold shock-like protein CspA"
+  },
+  {
+   "above_0.9": 18,
+   "median_rho_control": 0.4856,
+   "median_rho_test": 0.9814,
+   "pairs": 18,
+   "same_assay": 6,
+   "target": "O26789_METTH"
+  },
+  {
+   "above_0.9": 14,
+   "median_rho_control": 0.8519,
+   "median_rho_test": 0.9829,
+   "pairs": 18,
+   "same_assay": 6,
+   "target": "SRC"
+  },
+  {
+   "above_0.9": 18,
+   "median_rho_control": 0.7957,
+   "median_rho_test": 0.9845,
+   "pairs": 18,
+   "same_assay": 6,
+   "target": "Uncharacterized protein MJ1198"
+  },
+  {
+   "above_0.9": 32,
+   "median_rho_control": 0.7251,
+   "median_rho_test": 0.9856,
+   "pairs": 36,
+   "same_assay": 12,
+   "target": "entD"
+  },
+  {
+   "above_0.9": 18,
+   "median_rho_control": 0.805,
+   "median_rho_test": 0.9897,
+   "pairs": 18,
+   "same_assay": 6,
+   "target": "NPHP1"
+  },
+  {
+   "above_0.9": 1,
+   "median_rho_control": 0.6987,
+   "median_rho_test": 1.0,
+   "pairs": 1,
+   "same_assay": 0,
+   "target": "GLI1 Zinc finger C2H2-type domain"
+  },
+  {
+   "above_0.9": 2,
+   "median_rho_control": 0.7028,
+   "median_rho_test": 1.0,
+   "pairs": 2,
+   "same_assay": 0,
+   "target": "GLI3 Zinc finger C2H2-type domain"
+  },
+  {
+   "above_0.9": 1,
+   "median_rho_control": 0.7069,
+   "median_rho_test": 1.0,
+   "pairs": 1,
+   "same_assay": 0,
+   "target": "GLI2 Zinc finger C2H2-type domain"
+  },
+  {
+   "above_0.9": 1,
+   "median_rho_control": 0.5088,
+   "median_rho_test": 1.0,
+   "pairs": 1,
+   "same_assay": 0,
+   "target": "POU2F1 POU-specific domain"
+  },
+  {
+   "above_0.9": 1,
+   "median_rho_control": 0.5088,
+   "median_rho_test": 1.0,
+   "pairs": 1,
+   "same_assay": 0,
+   "target": "POU2F2 POU-specific domain"
+  },
+  {
+   "above_0.9": 1,
+   "median_rho_control": 0.5418,
+   "median_rho_test": 1.0,
+   "pairs": 1,
+   "same_assay": 0,
+   "target": "POU3F2 Homeobox domain"
+  },
+  {
+   "above_0.9": 1,
+   "median_rho_control": 0.5418,
+   "median_rho_test": 1.0,
+   "pairs": 1,
+   "same_assay": 0,
+   "target": "POU3F3 Homeobox domain"
+  },
+  {
+   "above_0.9": 1,
+   "median_rho_control": 0.5748,
+   "median_rho_test": 1.0,
+   "pairs": 1,
+   "same_assay": 0,
+   "target": "SIX1 Homeobox domain"
+  },
+  {
+   "above_0.9": 1,
+   "median_rho_control": 0.5748,
+   "median_rho_test": 1.0,
+   "pairs": 1,
+   "same_assay": 0,
+   "target": "SIX2 Homeobox domain"
+  },
+  {
+   "above_0.9": 1,
+   "median_rho_control": 0.5325,
+   "median_rho_test": 1.0,
+   "pairs": 1,
+   "same_assay": 0,
+   "target": "SIX3 Homeobox domain"
+  },
+  {
+   "above_0.9": 1,
+   "median_rho_control": 0.5325,
+   "median_rho_test": 1.0,
+   "pairs": 1,
+   "same_assay": 0,
+   "target": "SIX6 Homeobox domain"
+  }
+ ],
+ "different_assay_examples": [
+  {
+   "from": "Nucleotide fitness scores of TEM-1 \u03b2-lactamase",
+   "pairs": 2,
+   "via": "TEM-19 Amp scores"
+  },
+  {
+   "from": "Amino acid fitness scores of TEM-1 \u03b2-lactamase",
+   "pairs": 2,
+   "via": "TEM-19 Amp scores"
+  },
+  {
+   "from": "TEM-19 Amp scores",
+   "pairs": 1,
+   "via": "TEM-1 10 \u03bcg/ml Amp"
+  },
+  {
+   "from": "TEM-19 Amp scores",
+   "pairs": 1,
+   "via": "TEM-1 39 \u03bcg/ml Amp"
+  },
+  {
+   "from": "TEM-19 Amp scores",
+   "pairs": 1,
+   "via": "TEM-1 156 \u03bcg/ml Amp"
+  },
+  {
+   "from": "TEM-19 Amp scores",
+   "pairs": 1,
+   "via": "TEM-1 625 \u03bcg/ml Amp"
+  },
+  {
+   "from": "TEM-19 Amp scores",
+   "pairs": 1,
+   "via": "TEM-1 2500 \u03bcg/ml Amp"
+  },
+  {
+   "from": "TEM-19 Amp scores",
+   "pairs": 1,
+   "via": "TEM-1 0.15 \u03bcg/ml cefotaxime"
+  },
+  {
+   "from": "TEM-19 Amp scores",
+   "pairs": 1,
+   "via": "TEM-1 unselected"
+  },
+  {
+   "from": "TEM-17 Amp scores",
+   "pairs": 1,
+   "via": "TEM-15 cefotaxime scores"
+  }
+ ],
+ "identity_predicts": 1.0,
+ "one_experiment_median_rho": 0.3498,
+ "one_experiment_pairs": 1,
+ "pairs": 741,
+ "per_pair": [
+  {
+   "assay": "same assay",
+   "assay_basis": "one experiment",
+   "from": "urn:mavedb:00000043-a-1",
+   "pos": 19,
+   "rho_control": 0.35501,
+   "rho_test": 0.34985,
+   "target": "MPL",
+   "via": "urn:mavedb:00000043-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000070-a-1",
+   "pos": 236,
+   "rho_control": 0.64242,
+   "rho_test": 0.27273,
+   "target": "TEM-1 \u03b2-lactamase",
+   "via": "urn:mavedb:00000085-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000070-a-2",
+   "pos": 236,
+   "rho_control": 0.72121,
+   "rho_test": 0.27273,
+   "target": "TEM-1 \u03b2-lactamase",
+   "via": "urn:mavedb:00000085-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000070-a-3",
+   "pos": 236,
+   "rho_control": 0.44374,
+   "rho_test": 0.27273,
+   "target": "TEM-1 \u03b2-lactamase",
+   "via": "urn:mavedb:00000085-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000070-a-4",
+   "pos": 236,
+   "rho_control": 0.62213,
+   "rho_test": 0.27273,
+   "target": "TEM-1 \u03b2-lactamase",
+   "via": "urn:mavedb:00000085-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000085-a-1",
+   "pos": 236,
+   "rho_control": 0.01212,
+   "rho_test": -0.23636,
+   "target": "TEM-19 \u03b2-lactamase",
+   "via": "urn:mavedb:00000086-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000085-a-1",
+   "pos": 236,
+   "rho_control": 0.09697,
+   "rho_test": -0.22424,
+   "target": "TEM-19 \u03b2-lactamase",
+   "via": "urn:mavedb:00000086-b-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000085-a-1",
+   "pos": 236,
+   "rho_control": 0.07273,
+   "rho_test": 0.23636,
+   "target": "TEM-19 \u03b2-lactamase",
+   "via": "urn:mavedb:00000086-c-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000085-a-1",
+   "pos": 236,
+   "rho_control": 0.23636,
+   "rho_test": 0.24848,
+   "target": "TEM-19 \u03b2-lactamase",
+   "via": "urn:mavedb:00000086-d-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000085-a-1",
+   "pos": 236,
+   "rho_control": 0.51899,
+   "rho_test": 0.17576,
+   "target": "TEM-19 \u03b2-lactamase",
+   "via": "urn:mavedb:00000086-e-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000085-a-1",
+   "pos": 236,
+   "rho_control": -0.06673,
+   "rho_test": 0.28485,
+   "target": "TEM-19 \u03b2-lactamase",
+   "via": "urn:mavedb:00000086-f-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000085-a-1",
+   "pos": 236,
+   "rho_control": 0.15152,
+   "rho_test": -0.12727,
+   "target": "TEM-19 \u03b2-lactamase",
+   "via": "urn:mavedb:00000086-g-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000085-b-1",
+   "pos": 236,
+   "rho_control": 0.77143,
+   "rho_test": 0.94286,
+   "target": "TEM-17 \u03b2-lactamase",
+   "via": "urn:mavedb:00000085-d-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000116-0-1",
+   "pos": 24,
+   "rho_control": 0.93498,
+   "rho_test": 0.99794,
+   "target": "FYN SH3 domain",
+   "via": "urn:mavedb:00000117-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000116-0-1",
+   "pos": 24,
+   "rho_control": 0.93808,
+   "rho_test": 0.99174,
+   "target": "FYN SH3 domain",
+   "via": "urn:mavedb:00000117-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000116-0-1",
+   "pos": 24,
+   "rho_control": 0.92879,
+   "rho_test": 0.99587,
+   "target": "FYN SH3 domain",
+   "via": "urn:mavedb:00000117-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000116-0-1",
+   "pos": 20,
+   "rho_control": 0.83591,
+   "rho_test": 0.94634,
+   "target": "FYN SH3 domain",
+   "via": "urn:mavedb:00000118-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000116-0-1",
+   "pos": 20,
+   "rho_control": 0.86894,
+   "rho_test": 0.92982,
+   "target": "FYN SH3 domain",
+   "via": "urn:mavedb:00000118-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000116-0-1",
+   "pos": 20,
+   "rho_control": 0.83695,
+   "rho_test": 0.96904,
+   "target": "FYN SH3 domain",
+   "via": "urn:mavedb:00000118-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000116-0-1",
+   "pos": 7,
+   "rho_control": 0.93189,
+   "rho_test": 0.99381,
+   "target": "FYN SH3 domain",
+   "via": "urn:mavedb:00000119-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000116-0-1",
+   "pos": 7,
+   "rho_control": 0.90815,
+   "rho_test": 0.98968,
+   "target": "FYN SH3 domain",
+   "via": "urn:mavedb:00000119-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000116-0-1",
+   "pos": 7,
+   "rho_control": 0.90815,
+   "rho_test": 0.95872,
+   "target": "FYN SH3 domain",
+   "via": "urn:mavedb:00000119-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000116-0-1",
+   "pos": 55,
+   "rho_control": 0.9375,
+   "rho_test": 0.96078,
+   "target": "FYN SH3 domain",
+   "via": "urn:mavedb:00000120-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000116-0-1",
+   "pos": 55,
+   "rho_control": 0.91422,
+   "rho_test": 0.97059,
+   "target": "FYN SH3 domain",
+   "via": "urn:mavedb:00000120-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000116-0-1",
+   "pos": 55,
+   "rho_control": 0.88971,
+   "rho_test": 0.97059,
+   "target": "FYN SH3 domain",
+   "via": "urn:mavedb:00000120-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000116-a-1",
+   "pos": 24,
+   "rho_control": 0.85243,
+   "rho_test": 0.98142,
+   "target": "FYN SH3 domain",
+   "via": "urn:mavedb:00000117-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000116-a-1",
+   "pos": 24,
+   "rho_control": 0.84417,
+   "rho_test": 0.99174,
+   "target": "FYN SH3 domain",
+   "via": "urn:mavedb:00000117-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000116-a-1",
+   "pos": 24,
+   "rho_control": 0.83385,
+   "rho_test": 0.97936,
+   "target": "FYN SH3 domain",
+   "via": "urn:mavedb:00000117-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000116-a-1",
+   "pos": 20,
+   "rho_control": 0.75748,
+   "rho_test": 0.96285,
+   "target": "FYN SH3 domain",
+   "via": "urn:mavedb:00000118-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000116-a-1",
+   "pos": 20,
+   "rho_control": 0.75748,
+   "rho_test": 0.96698,
+   "target": "FYN SH3 domain",
+   "via": "urn:mavedb:00000118-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000116-a-1",
+   "pos": 20,
+   "rho_control": 0.75955,
+   "rho_test": 0.95046,
+   "target": "FYN SH3 domain",
+   "via": "urn:mavedb:00000118-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000116-a-1",
+   "pos": 7,
+   "rho_control": 0.82869,
+   "rho_test": 0.98555,
+   "target": "FYN SH3 domain",
+   "via": "urn:mavedb:00000119-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000116-a-1",
+   "pos": 7,
+   "rho_control": 0.83488,
+   "rho_test": 0.98555,
+   "target": "FYN SH3 domain",
+   "via": "urn:mavedb:00000119-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000116-a-1",
+   "pos": 7,
+   "rho_control": 0.85552,
+   "rho_test": 0.95459,
+   "target": "FYN SH3 domain",
+   "via": "urn:mavedb:00000119-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000116-a-1",
+   "pos": 55,
+   "rho_control": 0.80025,
+   "rho_test": 0.90441,
+   "target": "FYN SH3 domain",
+   "via": "urn:mavedb:00000120-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000116-a-1",
+   "pos": 55,
+   "rho_control": 0.84191,
+   "rho_test": 0.96324,
+   "target": "FYN SH3 domain",
+   "via": "urn:mavedb:00000120-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000116-a-1",
+   "pos": 55,
+   "rho_control": 0.83824,
+   "rho_test": 0.95588,
+   "target": "FYN SH3 domain",
+   "via": "urn:mavedb:00000120-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000116-a-2",
+   "pos": 24,
+   "rho_control": 0.93189,
+   "rho_test": 0.98762,
+   "target": "FYN SH3 domain",
+   "via": "urn:mavedb:00000117-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000116-a-2",
+   "pos": 24,
+   "rho_control": 0.9257,
+   "rho_test": 0.97317,
+   "target": "FYN SH3 domain",
+   "via": "urn:mavedb:00000117-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000116-a-2",
+   "pos": 24,
+   "rho_control": 0.92879,
+   "rho_test": 0.98968,
+   "target": "FYN SH3 domain",
+   "via": "urn:mavedb:00000117-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000116-a-2",
+   "pos": 20,
+   "rho_control": 0.88029,
+   "rho_test": 0.92982,
+   "target": "FYN SH3 domain",
+   "via": "urn:mavedb:00000118-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000116-a-2",
+   "pos": 20,
+   "rho_control": 0.87203,
+   "rho_test": 0.91744,
+   "target": "FYN SH3 domain",
+   "via": "urn:mavedb:00000118-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000116-a-2",
+   "pos": 20,
+   "rho_control": 0.85965,
+   "rho_test": 0.95872,
+   "target": "FYN SH3 domain",
+   "via": "urn:mavedb:00000118-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000116-a-2",
+   "pos": 7,
+   "rho_control": 0.92776,
+   "rho_test": 0.94221,
+   "target": "FYN SH3 domain",
+   "via": "urn:mavedb:00000119-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000116-a-2",
+   "pos": 7,
+   "rho_control": 0.90918,
+   "rho_test": 0.93189,
+   "target": "FYN SH3 domain",
+   "via": "urn:mavedb:00000119-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000116-a-2",
+   "pos": 7,
+   "rho_control": 0.90918,
+   "rho_test": 0.98762,
+   "target": "FYN SH3 domain",
+   "via": "urn:mavedb:00000119-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000116-a-2",
+   "pos": 55,
+   "rho_control": 0.89461,
+   "rho_test": 0.92157,
+   "target": "FYN SH3 domain",
+   "via": "urn:mavedb:00000120-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000116-a-2",
+   "pos": 55,
+   "rho_control": 0.91176,
+   "rho_test": 0.97549,
+   "target": "FYN SH3 domain",
+   "via": "urn:mavedb:00000120-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000116-a-2",
+   "pos": 55,
+   "rho_control": 0.91176,
+   "rho_test": 0.98039,
+   "target": "FYN SH3 domain",
+   "via": "urn:mavedb:00000120-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000125-0-1",
+   "pos": 47,
+   "rho_control": 0.90712,
+   "rho_test": 0.98555,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000126-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000125-0-1",
+   "pos": 47,
+   "rho_control": 0.91125,
+   "rho_test": 0.97936,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000126-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000125-0-1",
+   "pos": 47,
+   "rho_control": 0.8937,
+   "rho_test": 0.98762,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000126-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000125-0-1",
+   "pos": 5,
+   "rho_control": 0.94221,
+   "rho_test": 0.98762,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000127-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000125-0-1",
+   "pos": 5,
+   "rho_control": 0.92054,
+   "rho_test": 0.93602,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000127-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000125-0-1",
+   "pos": 5,
+   "rho_control": 0.91125,
+   "rho_test": 0.98349,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000127-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000125-a-1",
+   "pos": 47,
+   "rho_control": 0.82869,
+   "rho_test": 0.97317,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000126-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000125-a-1",
+   "pos": 47,
+   "rho_control": 0.8483,
+   "rho_test": 0.97317,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000126-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000125-a-1",
+   "pos": 47,
+   "rho_control": 0.73994,
+   "rho_test": 0.9711,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000126-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000125-a-1",
+   "pos": 5,
+   "rho_control": 0.88029,
+   "rho_test": 0.89267,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000127-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000125-a-1",
+   "pos": 5,
+   "rho_control": 0.86997,
+   "rho_test": 0.86584,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000127-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000125-a-1",
+   "pos": 5,
+   "rho_control": 0.88751,
+   "rho_test": 0.91744,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000127-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000125-a-2",
+   "pos": 47,
+   "rho_control": 0.88442,
+   "rho_test": 0.95666,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000126-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000125-a-2",
+   "pos": 47,
+   "rho_control": 0.88751,
+   "rho_test": 0.96904,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000126-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000125-a-2",
+   "pos": 47,
+   "rho_control": 0.90609,
+   "rho_test": 0.94427,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000126-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000125-a-2",
+   "pos": 5,
+   "rho_control": 0.92466,
+   "rho_test": 0.98968,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000127-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000125-a-2",
+   "pos": 5,
+   "rho_control": 0.93086,
+   "rho_test": 0.96285,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000127-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000125-a-2",
+   "pos": 5,
+   "rho_control": 0.92054,
+   "rho_test": 0.99381,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000127-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000128-0-1",
+   "pos": 34,
+   "rho_control": 0.56863,
+   "rho_test": 0.99587,
+   "target": "sso7d",
+   "via": "urn:mavedb:00000129-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000128-0-1",
+   "pos": 34,
+   "rho_control": 0.44892,
+   "rho_test": 0.99174,
+   "target": "sso7d",
+   "via": "urn:mavedb:00000129-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000128-0-1",
+   "pos": 34,
+   "rho_control": 0.48916,
+   "rho_test": 0.97523,
+   "target": "sso7d",
+   "via": "urn:mavedb:00000129-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000128-a-1",
+   "pos": 34,
+   "rho_control": 0.29412,
+   "rho_test": 0.98555,
+   "target": "sso7d",
+   "via": "urn:mavedb:00000129-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000128-a-1",
+   "pos": 34,
+   "rho_control": 0.44788,
+   "rho_test": 0.98142,
+   "target": "sso7d",
+   "via": "urn:mavedb:00000129-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000128-a-1",
+   "pos": 34,
+   "rho_control": 0.33127,
+   "rho_test": 0.96491,
+   "target": "sso7d",
+   "via": "urn:mavedb:00000129-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000128-a-2",
+   "pos": 34,
+   "rho_control": 0.4644,
+   "rho_test": 0.9711,
+   "target": "sso7d",
+   "via": "urn:mavedb:00000129-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000128-a-2",
+   "pos": 34,
+   "rho_control": 0.50258,
+   "rho_test": 0.96698,
+   "target": "sso7d",
+   "via": "urn:mavedb:00000129-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000128-a-2",
+   "pos": 34,
+   "rho_control": 0.62023,
+   "rho_test": 0.96904,
+   "target": "sso7d",
+   "via": "urn:mavedb:00000129-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000130-0-1",
+   "pos": 49,
+   "rho_control": 0.65325,
+   "rho_test": 0.97317,
+   "target": "cspB",
+   "via": "urn:mavedb:00000131-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000130-0-1",
+   "pos": 49,
+   "rho_control": 0.61816,
+   "rho_test": 0.97523,
+   "target": "cspB",
+   "via": "urn:mavedb:00000131-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000130-0-1",
+   "pos": 49,
+   "rho_control": 0.5129,
+   "rho_test": 0.94427,
+   "target": "cspB",
+   "via": "urn:mavedb:00000131-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000130-0-1",
+   "pos": 9,
+   "rho_control": 0.59133,
+   "rho_test": 0.99587,
+   "target": "cspB",
+   "via": "urn:mavedb:00000132-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000130-0-1",
+   "pos": 9,
+   "rho_control": 0.63571,
+   "rho_test": 0.98968,
+   "target": "cspB",
+   "via": "urn:mavedb:00000132-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000130-0-1",
+   "pos": 9,
+   "rho_control": 0.58927,
+   "rho_test": 0.99587,
+   "target": "cspB",
+   "via": "urn:mavedb:00000132-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000130-a-1",
+   "pos": 49,
+   "rho_control": 0.31682,
+   "rho_test": 0.97317,
+   "target": "cspB",
+   "via": "urn:mavedb:00000131-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000130-a-1",
+   "pos": 49,
+   "rho_control": 0.37874,
+   "rho_test": 0.98968,
+   "target": "cspB",
+   "via": "urn:mavedb:00000131-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000130-a-1",
+   "pos": 49,
+   "rho_control": 0.34572,
+   "rho_test": 0.95666,
+   "target": "cspB",
+   "via": "urn:mavedb:00000131-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000130-a-1",
+   "pos": 9,
+   "rho_control": 0.38596,
+   "rho_test": 0.98968,
+   "target": "cspB",
+   "via": "urn:mavedb:00000132-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000130-a-1",
+   "pos": 9,
+   "rho_control": 0.26625,
+   "rho_test": 0.97936,
+   "target": "cspB",
+   "via": "urn:mavedb:00000132-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000130-a-1",
+   "pos": 9,
+   "rho_control": 0.23426,
+   "rho_test": 0.98968,
+   "target": "cspB",
+   "via": "urn:mavedb:00000132-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000130-a-2",
+   "pos": 49,
+   "rho_control": 0.5676,
+   "rho_test": 0.96904,
+   "target": "cspB",
+   "via": "urn:mavedb:00000131-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000130-a-2",
+   "pos": 49,
+   "rho_control": 0.54799,
+   "rho_test": 0.96491,
+   "target": "cspB",
+   "via": "urn:mavedb:00000131-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000130-a-2",
+   "pos": 49,
+   "rho_control": 0.60062,
+   "rho_test": 0.95666,
+   "target": "cspB",
+   "via": "urn:mavedb:00000131-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000130-a-2",
+   "pos": 9,
+   "rho_control": 0.60062,
+   "rho_test": 0.99381,
+   "target": "cspB",
+   "via": "urn:mavedb:00000132-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000130-a-2",
+   "pos": 9,
+   "rho_control": 0.57792,
+   "rho_test": 0.97936,
+   "target": "cspB",
+   "via": "urn:mavedb:00000132-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000130-a-2",
+   "pos": 9,
+   "rho_control": 0.55624,
+   "rho_test": 0.99381,
+   "target": "cspB",
+   "via": "urn:mavedb:00000132-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000131-0-1",
+   "pos": 49,
+   "rho_control": 0.4128,
+   "rho_test": 0.61816,
+   "target": "cspB",
+   "via": "urn:mavedb:00000753-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000131-a-1",
+   "pos": 49,
+   "rho_control": 0.5387,
+   "rho_test": 0.62642,
+   "target": "cspB",
+   "via": "urn:mavedb:00000753-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000131-a-2",
+   "pos": 49,
+   "rho_control": 0.50568,
+   "rho_test": 0.6677,
+   "target": "cspB",
+   "via": "urn:mavedb:00000753-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000132-0-1",
+   "pos": 9,
+   "rho_control": 0.46336,
+   "rho_test": 0.91744,
+   "target": "cspB",
+   "via": "urn:mavedb:00000753-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000132-a-1",
+   "pos": 9,
+   "rho_control": 0.4582,
+   "rho_test": 0.90299,
+   "target": "cspB",
+   "via": "urn:mavedb:00000753-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000132-a-2",
+   "pos": 9,
+   "rho_control": 0.48091,
+   "rho_test": 0.91744,
+   "target": "cspB",
+   "via": "urn:mavedb:00000753-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000136-0-1",
+   "pos": 7,
+   "rho_control": 0.8194,
+   "rho_test": 0.96285,
+   "target": "spg",
+   "via": "urn:mavedb:00000137-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000136-0-1",
+   "pos": 7,
+   "rho_control": 0.80702,
+   "rho_test": 0.91125,
+   "target": "spg",
+   "via": "urn:mavedb:00000137-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000136-0-1",
+   "pos": 7,
+   "rho_control": 0.81631,
+   "rho_test": 0.9773,
+   "target": "spg",
+   "via": "urn:mavedb:00000137-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000136-0-1",
+   "pos": 54,
+   "rho_control": 0.80186,
+   "rho_test": 0.98762,
+   "target": "spg",
+   "via": "urn:mavedb:00000138-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000136-0-1",
+   "pos": 54,
+   "rho_control": 0.78638,
+   "rho_test": 0.97523,
+   "target": "spg",
+   "via": "urn:mavedb:00000138-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000136-0-1",
+   "pos": 54,
+   "rho_control": 0.76367,
+   "rho_test": 0.9773,
+   "target": "spg",
+   "via": "urn:mavedb:00000138-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000136-a-1",
+   "pos": 7,
+   "rho_control": 0.55212,
+   "rho_test": 0.93189,
+   "target": "spg",
+   "via": "urn:mavedb:00000137-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000136-a-1",
+   "pos": 7,
+   "rho_control": 0.54386,
+   "rho_test": 0.87203,
+   "target": "spg",
+   "via": "urn:mavedb:00000137-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000136-a-1",
+   "pos": 7,
+   "rho_control": 0.4324,
+   "rho_test": 0.95046,
+   "target": "spg",
+   "via": "urn:mavedb:00000137-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000136-a-1",
+   "pos": 54,
+   "rho_control": 0.47265,
+   "rho_test": 0.96904,
+   "target": "spg",
+   "via": "urn:mavedb:00000138-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000136-a-1",
+   "pos": 54,
+   "rho_control": 0.58204,
+   "rho_test": 0.96698,
+   "target": "spg",
+   "via": "urn:mavedb:00000138-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000136-a-1",
+   "pos": 54,
+   "rho_control": 0.42518,
+   "rho_test": 0.95872,
+   "target": "spg",
+   "via": "urn:mavedb:00000138-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000136-a-2",
+   "pos": 7,
+   "rho_control": 0.86687,
+   "rho_test": 0.94014,
+   "target": "spg",
+   "via": "urn:mavedb:00000137-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000136-a-2",
+   "pos": 7,
+   "rho_control": 0.83075,
+   "rho_test": 0.90918,
+   "target": "spg",
+   "via": "urn:mavedb:00000137-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000136-a-2",
+   "pos": 7,
+   "rho_control": 0.84004,
+   "rho_test": 0.95253,
+   "target": "spg",
+   "via": "urn:mavedb:00000137-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000136-a-2",
+   "pos": 54,
+   "rho_control": 0.78122,
+   "rho_test": 0.97936,
+   "target": "spg",
+   "via": "urn:mavedb:00000138-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000136-a-2",
+   "pos": 54,
+   "rho_control": 0.7709,
+   "rho_test": 0.9773,
+   "target": "spg",
+   "via": "urn:mavedb:00000138-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000136-a-2",
+   "pos": 54,
+   "rho_control": 0.74303,
+   "rho_test": 0.96904,
+   "target": "spg",
+   "via": "urn:mavedb:00000138-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000141-0-1",
+   "pos": 27,
+   "rho_control": 0.1517,
+   "rho_test": 1.0,
+   "target": "spg",
+   "via": "urn:mavedb:00000142-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000141-0-1",
+   "pos": 27,
+   "rho_control": 0.12384,
+   "rho_test": 0.97523,
+   "target": "spg",
+   "via": "urn:mavedb:00000142-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000141-0-1",
+   "pos": 27,
+   "rho_control": 0.10939,
+   "rho_test": 0.99794,
+   "target": "spg",
+   "via": "urn:mavedb:00000142-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000141-0-1",
+   "pos": 53,
+   "rho_control": 0.11455,
+   "rho_test": 0.96904,
+   "target": "spg",
+   "via": "urn:mavedb:00000143-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000141-0-1",
+   "pos": 53,
+   "rho_control": 0.07843,
+   "rho_test": 0.92776,
+   "target": "spg",
+   "via": "urn:mavedb:00000143-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000141-0-1",
+   "pos": 53,
+   "rho_control": 0.10526,
+   "rho_test": 0.95459,
+   "target": "spg",
+   "via": "urn:mavedb:00000143-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000141-a-1",
+   "pos": 27,
+   "rho_control": 0.02993,
+   "rho_test": 0.97936,
+   "target": "spg",
+   "via": "urn:mavedb:00000142-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000141-a-1",
+   "pos": 27,
+   "rho_control": 0.06811,
+   "rho_test": 0.98349,
+   "target": "spg",
+   "via": "urn:mavedb:00000142-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000141-a-1",
+   "pos": 27,
+   "rho_control": 0.0805,
+   "rho_test": 0.9773,
+   "target": "spg",
+   "via": "urn:mavedb:00000142-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000141-a-1",
+   "pos": 53,
+   "rho_control": -0.04128,
+   "rho_test": 0.94634,
+   "target": "spg",
+   "via": "urn:mavedb:00000143-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000141-a-1",
+   "pos": 53,
+   "rho_control": 0.02064,
+   "rho_test": 0.85346,
+   "target": "spg",
+   "via": "urn:mavedb:00000143-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000141-a-1",
+   "pos": 53,
+   "rho_control": -0.00516,
+   "rho_test": 0.95046,
+   "target": "spg",
+   "via": "urn:mavedb:00000143-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000141-a-2",
+   "pos": 27,
+   "rho_control": 0.18369,
+   "rho_test": 0.99794,
+   "target": "spg",
+   "via": "urn:mavedb:00000142-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000141-a-2",
+   "pos": 27,
+   "rho_control": 0.09907,
+   "rho_test": 0.9711,
+   "target": "spg",
+   "via": "urn:mavedb:00000142-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000141-a-2",
+   "pos": 27,
+   "rho_control": 0.10423,
+   "rho_test": 0.99587,
+   "target": "spg",
+   "via": "urn:mavedb:00000142-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000141-a-2",
+   "pos": 53,
+   "rho_control": 0.13725,
+   "rho_test": 0.98142,
+   "target": "spg",
+   "via": "urn:mavedb:00000143-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000141-a-2",
+   "pos": 53,
+   "rho_control": 0.13003,
+   "rho_test": 0.93189,
+   "target": "spg",
+   "via": "urn:mavedb:00000143-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000141-a-2",
+   "pos": 53,
+   "rho_control": 0.00826,
+   "rho_test": 0.96285,
+   "target": "spg",
+   "via": "urn:mavedb:00000143-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000148-0-1",
+   "pos": 44,
+   "rho_control": 0.90809,
+   "rho_test": 0.97059,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000149-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000148-0-1",
+   "pos": 44,
+   "rho_control": 0.88848,
+   "rho_test": 0.98039,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000149-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000148-0-1",
+   "pos": 44,
+   "rho_control": 0.88113,
+   "rho_test": 0.93627,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000149-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000148-0-1",
+   "pos": 36,
+   "rho_control": 0.86378,
+   "rho_test": 0.99381,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000150-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000148-0-1",
+   "pos": 36,
+   "rho_control": 0.85139,
+   "rho_test": 0.99381,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000150-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000148-0-1",
+   "pos": 36,
+   "rho_control": 0.81837,
+   "rho_test": 0.98968,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000150-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000148-a-1",
+   "pos": 44,
+   "rho_control": 0.8125,
+   "rho_test": 0.95588,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000149-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000148-a-1",
+   "pos": 44,
+   "rho_control": 0.8223,
+   "rho_test": 0.93137,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000149-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000148-a-1",
+   "pos": 44,
+   "rho_control": 0.84559,
+   "rho_test": 0.91422,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000149-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000148-a-1",
+   "pos": 36,
+   "rho_control": 0.81837,
+   "rho_test": 0.99174,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000150-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000148-a-1",
+   "pos": 36,
+   "rho_control": 0.80083,
+   "rho_test": 0.98555,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000150-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000148-a-1",
+   "pos": 36,
+   "rho_control": 0.83695,
+   "rho_test": 0.99174,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000150-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000148-a-2",
+   "pos": 44,
+   "rho_control": 0.89461,
+   "rho_test": 0.95343,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000149-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000148-a-2",
+   "pos": 44,
+   "rho_control": 0.90686,
+   "rho_test": 0.97549,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000149-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000148-a-2",
+   "pos": 44,
+   "rho_control": 0.88848,
+   "rho_test": 0.93873,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000149-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000148-a-2",
+   "pos": 36,
+   "rho_control": 0.83901,
+   "rho_test": 0.98142,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000150-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000148-a-2",
+   "pos": 36,
+   "rho_control": 0.88338,
+   "rho_test": 0.98142,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000150-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000148-a-2",
+   "pos": 36,
+   "rho_control": 0.82559,
+   "rho_test": 0.98968,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000150-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000160-0-1",
+   "pos": 17,
+   "rho_control": 0.44479,
+   "rho_test": 0.96491,
+   "target": "cspA",
+   "via": "urn:mavedb:00000161-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000160-0-1",
+   "pos": 17,
+   "rho_control": 0.4355,
+   "rho_test": 0.88854,
+   "target": "cspA",
+   "via": "urn:mavedb:00000161-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000160-0-1",
+   "pos": 17,
+   "rho_control": 0.34365,
+   "rho_test": 0.94014,
+   "target": "cspA",
+   "via": "urn:mavedb:00000161-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000160-0-1",
+   "pos": 43,
+   "rho_control": 0.67286,
+   "rho_test": 0.98555,
+   "target": "cspA",
+   "via": "urn:mavedb:00000162-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000160-0-1",
+   "pos": 43,
+   "rho_control": 0.67595,
+   "rho_test": 0.98968,
+   "target": "cspA",
+   "via": "urn:mavedb:00000162-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000160-0-1",
+   "pos": 43,
+   "rho_control": 0.6192,
+   "rho_test": 0.99381,
+   "target": "cspA",
+   "via": "urn:mavedb:00000162-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000160-a-1",
+   "pos": 17,
+   "rho_control": 0.3065,
+   "rho_test": 0.95459,
+   "target": "cspA",
+   "via": "urn:mavedb:00000161-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000160-a-1",
+   "pos": 17,
+   "rho_control": 0.22394,
+   "rho_test": 0.88854,
+   "target": "cspA",
+   "via": "urn:mavedb:00000161-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000160-a-1",
+   "pos": 17,
+   "rho_control": 0.29102,
+   "rho_test": 0.91331,
+   "target": "cspA",
+   "via": "urn:mavedb:00000161-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000160-a-1",
+   "pos": 43,
+   "rho_control": 0.44066,
+   "rho_test": 0.96491,
+   "target": "cspA",
+   "via": "urn:mavedb:00000162-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000160-a-1",
+   "pos": 43,
+   "rho_control": 0.47162,
+   "rho_test": 0.97317,
+   "target": "cspA",
+   "via": "urn:mavedb:00000162-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000160-a-1",
+   "pos": 43,
+   "rho_control": 0.50052,
+   "rho_test": 0.97523,
+   "target": "cspA",
+   "via": "urn:mavedb:00000162-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000160-a-2",
+   "pos": 17,
+   "rho_control": 0.49123,
+   "rho_test": 0.90506,
+   "target": "cspA",
+   "via": "urn:mavedb:00000161-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000160-a-2",
+   "pos": 17,
+   "rho_control": 0.57688,
+   "rho_test": 0.8968,
+   "target": "cspA",
+   "via": "urn:mavedb:00000161-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000160-a-2",
+   "pos": 17,
+   "rho_control": 0.47368,
+   "rho_test": 0.90712,
+   "target": "cspA",
+   "via": "urn:mavedb:00000161-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000160-a-2",
+   "pos": 43,
+   "rho_control": 0.63467,
+   "rho_test": 0.99174,
+   "target": "cspA",
+   "via": "urn:mavedb:00000162-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000160-a-2",
+   "pos": 43,
+   "rho_control": 0.64087,
+   "rho_test": 0.99794,
+   "target": "cspA",
+   "via": "urn:mavedb:00000162-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000160-a-2",
+   "pos": 43,
+   "rho_control": 0.62436,
+   "rho_test": 0.99587,
+   "target": "cspA",
+   "via": "urn:mavedb:00000162-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000161-0-1",
+   "pos": 17,
+   "rho_control": 0.39422,
+   "rho_test": 0.42621,
+   "target": "cspA",
+   "via": "urn:mavedb:00000752-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000161-a-1",
+   "pos": 17,
+   "rho_control": 0.23736,
+   "rho_test": 0.48194,
+   "target": "cspA",
+   "via": "urn:mavedb:00000752-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000161-a-2",
+   "pos": 17,
+   "rho_control": 0.40144,
+   "rho_test": 0.45511,
+   "target": "cspA",
+   "via": "urn:mavedb:00000752-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000162-0-1",
+   "pos": 43,
+   "rho_control": 0.3808,
+   "rho_test": 0.92982,
+   "target": "cspA",
+   "via": "urn:mavedb:00000752-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000162-a-1",
+   "pos": 43,
+   "rho_control": 0.36739,
+   "rho_test": 0.9257,
+   "target": "cspA",
+   "via": "urn:mavedb:00000752-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000162-a-2",
+   "pos": 43,
+   "rho_control": 0.42312,
+   "rho_test": 0.93808,
+   "target": "cspA",
+   "via": "urn:mavedb:00000752-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000165-0-1",
+   "pos": 53,
+   "rho_control": 0.58204,
+   "rho_test": 0.98762,
+   "target": "Ice-structuring protein SP2",
+   "via": "urn:mavedb:00000166-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000165-0-1",
+   "pos": 53,
+   "rho_control": 0.52116,
+   "rho_test": 0.98968,
+   "target": "Ice-structuring protein SP2",
+   "via": "urn:mavedb:00000166-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000165-0-1",
+   "pos": 53,
+   "rho_control": 0.49639,
+   "rho_test": 0.98349,
+   "target": "Ice-structuring protein SP2",
+   "via": "urn:mavedb:00000166-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000165-0-1",
+   "pos": 44,
+   "rho_control": 0.51806,
+   "rho_test": 0.88854,
+   "target": "Ice-structuring protein SP2",
+   "via": "urn:mavedb:00000167-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000165-0-1",
+   "pos": 44,
+   "rho_control": 0.43756,
+   "rho_test": 0.92157,
+   "target": "Ice-structuring protein SP2",
+   "via": "urn:mavedb:00000167-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000165-0-1",
+   "pos": 44,
+   "rho_control": 0.41796,
+   "rho_test": 0.90093,
+   "target": "Ice-structuring protein SP2",
+   "via": "urn:mavedb:00000167-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000165-a-1",
+   "pos": 53,
+   "rho_control": 0.50464,
+   "rho_test": 0.94634,
+   "target": "Ice-structuring protein SP2",
+   "via": "urn:mavedb:00000166-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000165-a-1",
+   "pos": 53,
+   "rho_control": 0.54489,
+   "rho_test": 0.95666,
+   "target": "Ice-structuring protein SP2",
+   "via": "urn:mavedb:00000166-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000165-a-1",
+   "pos": 53,
+   "rho_control": 0.49845,
+   "rho_test": 0.94634,
+   "target": "Ice-structuring protein SP2",
+   "via": "urn:mavedb:00000166-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000165-a-1",
+   "pos": 44,
+   "rho_control": 0.40351,
+   "rho_test": 0.84314,
+   "target": "Ice-structuring protein SP2",
+   "via": "urn:mavedb:00000167-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000165-a-1",
+   "pos": 44,
+   "rho_control": 0.4871,
+   "rho_test": 0.93395,
+   "target": "Ice-structuring protein SP2",
+   "via": "urn:mavedb:00000167-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000165-a-1",
+   "pos": 44,
+   "rho_control": 0.44272,
+   "rho_test": 0.93602,
+   "target": "Ice-structuring protein SP2",
+   "via": "urn:mavedb:00000167-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000165-a-2",
+   "pos": 53,
+   "rho_control": 0.48091,
+   "rho_test": 0.97936,
+   "target": "Ice-structuring protein SP2",
+   "via": "urn:mavedb:00000166-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000165-a-2",
+   "pos": 53,
+   "rho_control": 0.62023,
+   "rho_test": 0.98968,
+   "target": "Ice-structuring protein SP2",
+   "via": "urn:mavedb:00000166-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000165-a-2",
+   "pos": 53,
+   "rho_control": 0.60578,
+   "rho_test": 0.98762,
+   "target": "Ice-structuring protein SP2",
+   "via": "urn:mavedb:00000166-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000165-a-2",
+   "pos": 44,
+   "rho_control": 0.4871,
+   "rho_test": 0.82043,
+   "target": "Ice-structuring protein SP2",
+   "via": "urn:mavedb:00000167-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000165-a-2",
+   "pos": 44,
+   "rho_control": 0.58101,
+   "rho_test": 0.93808,
+   "target": "Ice-structuring protein SP2",
+   "via": "urn:mavedb:00000167-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000165-a-2",
+   "pos": 44,
+   "rho_control": 0.43344,
+   "rho_test": 0.96491,
+   "target": "Ice-structuring protein SP2",
+   "via": "urn:mavedb:00000167-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000169-0-1",
+   "pos": 5,
+   "rho_control": 0.89267,
+   "rho_test": 0.97936,
+   "target": "spg",
+   "via": "urn:mavedb:00000170-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000169-0-1",
+   "pos": 5,
+   "rho_control": 0.89061,
+   "rho_test": 0.93602,
+   "target": "spg",
+   "via": "urn:mavedb:00000170-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000169-0-1",
+   "pos": 5,
+   "rho_control": 0.86687,
+   "rho_test": 0.94014,
+   "target": "spg",
+   "via": "urn:mavedb:00000170-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000169-0-1",
+   "pos": 7,
+   "rho_control": 0.84004,
+   "rho_test": 0.97936,
+   "target": "spg",
+   "via": "urn:mavedb:00000171-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000169-0-1",
+   "pos": 7,
+   "rho_control": 0.81527,
+   "rho_test": 0.96904,
+   "target": "spg",
+   "via": "urn:mavedb:00000171-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000169-0-1",
+   "pos": 7,
+   "rho_control": 0.81837,
+   "rho_test": 0.9711,
+   "target": "spg",
+   "via": "urn:mavedb:00000171-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000169-0-1",
+   "pos": 29,
+   "rho_control": 0.89706,
+   "rho_test": 0.93627,
+   "target": "spg",
+   "via": "urn:mavedb:00000172-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000169-0-1",
+   "pos": 29,
+   "rho_control": 0.66789,
+   "rho_test": 0.62745,
+   "target": "spg",
+   "via": "urn:mavedb:00000172-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000169-0-1",
+   "pos": 29,
+   "rho_control": 0.87377,
+   "rho_test": 0.95343,
+   "target": "spg",
+   "via": "urn:mavedb:00000172-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000169-0-1",
+   "pos": 51,
+   "rho_control": 0.88848,
+   "rho_test": 0.98529,
+   "target": "spg",
+   "via": "urn:mavedb:00000173-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000169-0-1",
+   "pos": 51,
+   "rho_control": 0.90931,
+   "rho_test": 0.97549,
+   "target": "spg",
+   "via": "urn:mavedb:00000173-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000169-0-1",
+   "pos": 51,
+   "rho_control": 0.89216,
+   "rho_test": 0.98039,
+   "target": "spg",
+   "via": "urn:mavedb:00000173-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000169-0-1",
+   "pos": 39,
+   "rho_control": 0.86275,
+   "rho_test": 0.99587,
+   "target": "spg",
+   "via": "urn:mavedb:00000174-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000169-0-1",
+   "pos": 39,
+   "rho_control": 0.84933,
+   "rho_test": 0.98349,
+   "target": "spg",
+   "via": "urn:mavedb:00000174-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000169-0-1",
+   "pos": 39,
+   "rho_control": 0.87307,
+   "rho_test": 0.99587,
+   "target": "spg",
+   "via": "urn:mavedb:00000174-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000169-a-1",
+   "pos": 5,
+   "rho_control": 0.69969,
+   "rho_test": 0.96285,
+   "target": "spg",
+   "via": "urn:mavedb:00000170-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000169-a-1",
+   "pos": 5,
+   "rho_control": 0.66151,
+   "rho_test": 0.99174,
+   "target": "spg",
+   "via": "urn:mavedb:00000170-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000169-a-1",
+   "pos": 5,
+   "rho_control": 0.5934,
+   "rho_test": 0.98555,
+   "target": "spg",
+   "via": "urn:mavedb:00000170-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000169-a-1",
+   "pos": 7,
+   "rho_control": 0.5676,
+   "rho_test": 0.93189,
+   "target": "spg",
+   "via": "urn:mavedb:00000171-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000169-a-1",
+   "pos": 7,
+   "rho_control": 0.60681,
+   "rho_test": 0.95459,
+   "target": "spg",
+   "via": "urn:mavedb:00000171-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000169-a-1",
+   "pos": 7,
+   "rho_control": 0.55728,
+   "rho_test": 0.92776,
+   "target": "spg",
+   "via": "urn:mavedb:00000171-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000169-a-1",
+   "pos": 29,
+   "rho_control": 0.82598,
+   "rho_test": 0.60049,
+   "target": "spg",
+   "via": "urn:mavedb:00000172-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000169-a-1",
+   "pos": 29,
+   "rho_control": 0.69485,
+   "rho_test": 0.44608,
+   "target": "spg",
+   "via": "urn:mavedb:00000172-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000169-a-1",
+   "pos": 29,
+   "rho_control": 0.76225,
+   "rho_test": 0.66912,
+   "target": "spg",
+   "via": "urn:mavedb:00000172-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000169-a-1",
+   "pos": 51,
+   "rho_control": 0.71078,
+   "rho_test": 0.91912,
+   "target": "spg",
+   "via": "urn:mavedb:00000173-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000169-a-1",
+   "pos": 51,
+   "rho_control": 0.76103,
+   "rho_test": 0.91667,
+   "target": "spg",
+   "via": "urn:mavedb:00000173-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000169-a-1",
+   "pos": 51,
+   "rho_control": 0.62745,
+   "rho_test": 0.91667,
+   "target": "spg",
+   "via": "urn:mavedb:00000173-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000169-a-1",
+   "pos": 39,
+   "rho_control": 0.56347,
+   "rho_test": 0.98555,
+   "target": "spg",
+   "via": "urn:mavedb:00000174-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000169-a-1",
+   "pos": 39,
+   "rho_control": 0.59649,
+   "rho_test": 0.9711,
+   "target": "spg",
+   "via": "urn:mavedb:00000174-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000169-a-1",
+   "pos": 39,
+   "rho_control": 0.66047,
+   "rho_test": 0.98349,
+   "target": "spg",
+   "via": "urn:mavedb:00000174-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000169-a-2",
+   "pos": 5,
+   "rho_control": 0.89061,
+   "rho_test": 0.94427,
+   "target": "spg",
+   "via": "urn:mavedb:00000170-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000169-a-2",
+   "pos": 5,
+   "rho_control": 0.90299,
+   "rho_test": 0.97936,
+   "target": "spg",
+   "via": "urn:mavedb:00000170-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000169-a-2",
+   "pos": 5,
+   "rho_control": 0.84417,
+   "rho_test": 0.9773,
+   "target": "spg",
+   "via": "urn:mavedb:00000170-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000169-a-2",
+   "pos": 7,
+   "rho_control": 0.85449,
+   "rho_test": 0.98968,
+   "target": "spg",
+   "via": "urn:mavedb:00000171-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000169-a-2",
+   "pos": 7,
+   "rho_control": 0.81424,
+   "rho_test": 0.9773,
+   "target": "spg",
+   "via": "urn:mavedb:00000171-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000169-a-2",
+   "pos": 7,
+   "rho_control": 0.83075,
+   "rho_test": 0.98142,
+   "target": "spg",
+   "via": "urn:mavedb:00000171-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000169-a-2",
+   "pos": 29,
+   "rho_control": 0.89583,
+   "rho_test": 0.93627,
+   "target": "spg",
+   "via": "urn:mavedb:00000172-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000169-a-2",
+   "pos": 29,
+   "rho_control": 0.65196,
+   "rho_test": 0.61275,
+   "target": "spg",
+   "via": "urn:mavedb:00000172-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000169-a-2",
+   "pos": 29,
+   "rho_control": 0.85417,
+   "rho_test": 0.95833,
+   "target": "spg",
+   "via": "urn:mavedb:00000172-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000169-a-2",
+   "pos": 51,
+   "rho_control": 0.87377,
+   "rho_test": 0.98284,
+   "target": "spg",
+   "via": "urn:mavedb:00000173-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000169-a-2",
+   "pos": 51,
+   "rho_control": 0.91544,
+   "rho_test": 0.97304,
+   "target": "spg",
+   "via": "urn:mavedb:00000173-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000169-a-2",
+   "pos": 51,
+   "rho_control": 0.88848,
+   "rho_test": 0.98284,
+   "target": "spg",
+   "via": "urn:mavedb:00000173-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000169-a-2",
+   "pos": 39,
+   "rho_control": 0.83798,
+   "rho_test": 0.98968,
+   "target": "spg",
+   "via": "urn:mavedb:00000174-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000169-a-2",
+   "pos": 39,
+   "rho_control": 0.84004,
+   "rho_test": 0.9773,
+   "target": "spg",
+   "via": "urn:mavedb:00000174-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000169-a-2",
+   "pos": 39,
+   "rho_control": 0.85655,
+   "rho_test": 0.98968,
+   "target": "spg",
+   "via": "urn:mavedb:00000174-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000175-0-1",
+   "pos": 27,
+   "rho_control": 0.84933,
+   "rho_test": 0.96904,
+   "target": "spg",
+   "via": "urn:mavedb:00000176-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000175-0-1",
+   "pos": 27,
+   "rho_control": 0.78535,
+   "rho_test": 0.97523,
+   "target": "spg",
+   "via": "urn:mavedb:00000176-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000175-0-1",
+   "pos": 27,
+   "rho_control": 0.79567,
+   "rho_test": 0.9711,
+   "target": "spg",
+   "via": "urn:mavedb:00000176-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000175-0-1",
+   "pos": 42,
+   "rho_control": 0.82663,
+   "rho_test": 0.97523,
+   "target": "spg",
+   "via": "urn:mavedb:00000177-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000175-0-1",
+   "pos": 42,
+   "rho_control": 0.76987,
+   "rho_test": 0.90093,
+   "target": "spg",
+   "via": "urn:mavedb:00000177-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000175-0-1",
+   "pos": 42,
+   "rho_control": 0.79257,
+   "rho_test": 0.97936,
+   "target": "spg",
+   "via": "urn:mavedb:00000177-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000175-a-1",
+   "pos": 27,
+   "rho_control": 0.50568,
+   "rho_test": 0.95872,
+   "target": "spg",
+   "via": "urn:mavedb:00000176-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000175-a-1",
+   "pos": 27,
+   "rho_control": 0.54696,
+   "rho_test": 0.96904,
+   "target": "spg",
+   "via": "urn:mavedb:00000176-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000175-a-1",
+   "pos": 27,
+   "rho_control": 0.5387,
+   "rho_test": 0.96078,
+   "target": "spg",
+   "via": "urn:mavedb:00000176-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000175-a-1",
+   "pos": 42,
+   "rho_control": 0.54386,
+   "rho_test": 0.9195,
+   "target": "spg",
+   "via": "urn:mavedb:00000177-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000175-a-1",
+   "pos": 42,
+   "rho_control": 0.47368,
+   "rho_test": 0.93395,
+   "target": "spg",
+   "via": "urn:mavedb:00000177-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000175-a-1",
+   "pos": 42,
+   "rho_control": 0.52425,
+   "rho_test": 0.8968,
+   "target": "spg",
+   "via": "urn:mavedb:00000177-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000175-a-2",
+   "pos": 27,
+   "rho_control": 0.8225,
+   "rho_test": 0.97317,
+   "target": "spg",
+   "via": "urn:mavedb:00000176-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000175-a-2",
+   "pos": 27,
+   "rho_control": 0.81218,
+   "rho_test": 0.97317,
+   "target": "spg",
+   "via": "urn:mavedb:00000176-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000175-a-2",
+   "pos": 27,
+   "rho_control": 0.85139,
+   "rho_test": 0.97523,
+   "target": "spg",
+   "via": "urn:mavedb:00000176-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000175-a-2",
+   "pos": 42,
+   "rho_control": 0.80186,
+   "rho_test": 0.93808,
+   "target": "spg",
+   "via": "urn:mavedb:00000177-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000175-a-2",
+   "pos": 42,
+   "rho_control": 0.72136,
+   "rho_test": 0.84727,
+   "target": "spg",
+   "via": "urn:mavedb:00000177-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000175-a-2",
+   "pos": 42,
+   "rho_control": 0.78431,
+   "rho_test": 0.96078,
+   "target": "spg",
+   "via": "urn:mavedb:00000177-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000186-0-1",
+   "pos": 11,
+   "rho_control": 0.84933,
+   "rho_test": 0.99174,
+   "target": "NPHP1",
+   "via": "urn:mavedb:00000187-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000186-0-1",
+   "pos": 11,
+   "rho_control": 0.83901,
+   "rho_test": 0.99587,
+   "target": "NPHP1",
+   "via": "urn:mavedb:00000187-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000186-0-1",
+   "pos": 11,
+   "rho_control": 0.77709,
+   "rho_test": 0.99174,
+   "target": "NPHP1",
+   "via": "urn:mavedb:00000187-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000186-0-1",
+   "pos": 29,
+   "rho_control": 0.89061,
+   "rho_test": 0.99794,
+   "target": "NPHP1",
+   "via": "urn:mavedb:00000188-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000186-0-1",
+   "pos": 29,
+   "rho_control": 0.82766,
+   "rho_test": 0.98968,
+   "target": "NPHP1",
+   "via": "urn:mavedb:00000188-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000186-0-1",
+   "pos": 29,
+   "rho_control": 0.80289,
+   "rho_test": 0.98762,
+   "target": "NPHP1",
+   "via": "urn:mavedb:00000188-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000186-a-1",
+   "pos": 11,
+   "rho_control": 0.68421,
+   "rho_test": 0.95872,
+   "target": "NPHP1",
+   "via": "urn:mavedb:00000187-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000186-a-1",
+   "pos": 11,
+   "rho_control": 0.62332,
+   "rho_test": 0.9711,
+   "target": "NPHP1",
+   "via": "urn:mavedb:00000187-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000186-a-1",
+   "pos": 11,
+   "rho_control": 0.61713,
+   "rho_test": 0.95872,
+   "target": "NPHP1",
+   "via": "urn:mavedb:00000187-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000186-a-1",
+   "pos": 29,
+   "rho_control": 0.74407,
+   "rho_test": 0.98968,
+   "target": "NPHP1",
+   "via": "urn:mavedb:00000188-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000186-a-1",
+   "pos": 29,
+   "rho_control": 0.71827,
+   "rho_test": 0.99174,
+   "target": "NPHP1",
+   "via": "urn:mavedb:00000188-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000186-a-1",
+   "pos": 29,
+   "rho_control": 0.63777,
+   "rho_test": 0.98349,
+   "target": "NPHP1",
+   "via": "urn:mavedb:00000188-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000186-a-2",
+   "pos": 11,
+   "rho_control": 0.82559,
+   "rho_test": 0.98555,
+   "target": "NPHP1",
+   "via": "urn:mavedb:00000187-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000186-a-2",
+   "pos": 11,
+   "rho_control": 0.86171,
+   "rho_test": 0.99174,
+   "target": "NPHP1",
+   "via": "urn:mavedb:00000187-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000186-a-2",
+   "pos": 11,
+   "rho_control": 0.80702,
+   "rho_test": 0.98555,
+   "target": "NPHP1",
+   "via": "urn:mavedb:00000187-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000186-a-2",
+   "pos": 29,
+   "rho_control": 0.79463,
+   "rho_test": 0.98349,
+   "target": "NPHP1",
+   "via": "urn:mavedb:00000188-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000186-a-2",
+   "pos": 29,
+   "rho_control": 0.84211,
+   "rho_test": 0.99381,
+   "target": "NPHP1",
+   "via": "urn:mavedb:00000188-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000186-a-2",
+   "pos": 29,
+   "rho_control": 0.85139,
+   "rho_test": 0.99381,
+   "target": "NPHP1",
+   "via": "urn:mavedb:00000188-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000189-0-1",
+   "pos": 13,
+   "rho_control": 0.64912,
+   "rho_test": 0.97936,
+   "target": "UBC",
+   "via": "urn:mavedb:00000190-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000189-0-1",
+   "pos": 13,
+   "rho_control": 0.63674,
+   "rho_test": 0.98555,
+   "target": "UBC",
+   "via": "urn:mavedb:00000190-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000189-0-1",
+   "pos": 13,
+   "rho_control": 0.65015,
+   "rho_test": 0.9773,
+   "target": "UBC",
+   "via": "urn:mavedb:00000190-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000189-0-1",
+   "pos": 3,
+   "rho_control": 0.62848,
+   "rho_test": 0.98142,
+   "target": "UBC",
+   "via": "urn:mavedb:00000191-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000189-0-1",
+   "pos": 3,
+   "rho_control": 0.65531,
+   "rho_test": 0.97317,
+   "target": "UBC",
+   "via": "urn:mavedb:00000191-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000189-0-1",
+   "pos": 3,
+   "rho_control": 0.63364,
+   "rho_test": 0.98142,
+   "target": "UBC",
+   "via": "urn:mavedb:00000191-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000189-a-1",
+   "pos": 13,
+   "rho_control": 0.32817,
+   "rho_test": 0.98142,
+   "target": "UBC",
+   "via": "urn:mavedb:00000190-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000189-a-1",
+   "pos": 13,
+   "rho_control": 0.56863,
+   "rho_test": 0.96078,
+   "target": "UBC",
+   "via": "urn:mavedb:00000190-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000189-a-1",
+   "pos": 13,
+   "rho_control": 0.42208,
+   "rho_test": 0.97936,
+   "target": "UBC",
+   "via": "urn:mavedb:00000190-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000189-a-1",
+   "pos": 3,
+   "rho_control": 0.53664,
+   "rho_test": 0.97523,
+   "target": "UBC",
+   "via": "urn:mavedb:00000191-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000189-a-1",
+   "pos": 3,
+   "rho_control": 0.47781,
+   "rho_test": 0.96698,
+   "target": "UBC",
+   "via": "urn:mavedb:00000191-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000189-a-1",
+   "pos": 3,
+   "rho_control": 0.59443,
+   "rho_test": 0.97523,
+   "target": "UBC",
+   "via": "urn:mavedb:00000191-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000189-a-2",
+   "pos": 13,
+   "rho_control": 0.75955,
+   "rho_test": 0.98142,
+   "target": "UBC",
+   "via": "urn:mavedb:00000190-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000189-a-2",
+   "pos": 13,
+   "rho_control": 0.82869,
+   "rho_test": 0.98555,
+   "target": "UBC",
+   "via": "urn:mavedb:00000190-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000189-a-2",
+   "pos": 13,
+   "rho_control": 0.76161,
+   "rho_test": 0.97936,
+   "target": "UBC",
+   "via": "urn:mavedb:00000190-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000189-a-2",
+   "pos": 3,
+   "rho_control": 0.75542,
+   "rho_test": 0.98555,
+   "target": "UBC",
+   "via": "urn:mavedb:00000191-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000189-a-2",
+   "pos": 3,
+   "rho_control": 0.7709,
+   "rho_test": 0.96904,
+   "target": "UBC",
+   "via": "urn:mavedb:00000191-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000189-a-2",
+   "pos": 3,
+   "rho_control": 0.77503,
+   "rho_test": 0.98555,
+   "target": "UBC",
+   "via": "urn:mavedb:00000191-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000196-0-1",
+   "pos": 3,
+   "rho_control": 0.22704,
+   "rho_test": 0.98555,
+   "target": "UBC",
+   "via": "urn:mavedb:00000197-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000196-0-1",
+   "pos": 3,
+   "rho_control": 0.24458,
+   "rho_test": 0.98142,
+   "target": "UBC",
+   "via": "urn:mavedb:00000197-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000196-0-1",
+   "pos": 3,
+   "rho_control": 0.25181,
+   "rho_test": 0.98555,
+   "target": "UBC",
+   "via": "urn:mavedb:00000197-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000196-0-1",
+   "pos": 15,
+   "rho_control": 0.23013,
+   "rho_test": 0.98968,
+   "target": "UBC",
+   "via": "urn:mavedb:00000198-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000196-0-1",
+   "pos": 15,
+   "rho_control": 0.29309,
+   "rho_test": 0.9773,
+   "target": "UBC",
+   "via": "urn:mavedb:00000198-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000196-0-1",
+   "pos": 15,
+   "rho_control": 0.30341,
+   "rho_test": 0.98762,
+   "target": "UBC",
+   "via": "urn:mavedb:00000198-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000196-0-1",
+   "pos": 43,
+   "rho_control": 0.125,
+   "rho_test": 0.98529,
+   "target": "UBC",
+   "via": "urn:mavedb:00000199-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000196-0-1",
+   "pos": 43,
+   "rho_control": 0.21029,
+   "rho_test": 0.98529,
+   "target": "UBC",
+   "via": "urn:mavedb:00000199-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000196-0-1",
+   "pos": 43,
+   "rho_control": 0.18676,
+   "rho_test": 0.97647,
+   "target": "UBC",
+   "via": "urn:mavedb:00000199-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000196-0-1",
+   "pos": 67,
+   "rho_control": 0.25697,
+   "rho_test": 0.96078,
+   "target": "UBC",
+   "via": "urn:mavedb:00000200-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000196-0-1",
+   "pos": 67,
+   "rho_control": 0.26522,
+   "rho_test": 0.96491,
+   "target": "UBC",
+   "via": "urn:mavedb:00000200-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000196-0-1",
+   "pos": 67,
+   "rho_control": 0.14448,
+   "rho_test": 0.95459,
+   "target": "UBC",
+   "via": "urn:mavedb:00000200-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000196-0-1",
+   "pos": 64,
+   "rho_control": 0.23039,
+   "rho_test": 0.1299,
+   "target": "UBC",
+   "via": "urn:mavedb:00000202-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000196-0-1",
+   "pos": 64,
+   "rho_control": 0.18627,
+   "rho_test": 0.17647,
+   "target": "UBC",
+   "via": "urn:mavedb:00000202-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000196-0-1",
+   "pos": 64,
+   "rho_control": 0.27206,
+   "rho_test": 0.32843,
+   "target": "UBC",
+   "via": "urn:mavedb:00000202-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000196-a-1",
+   "pos": 3,
+   "rho_control": 0.10423,
+   "rho_test": 0.97317,
+   "target": "UBC",
+   "via": "urn:mavedb:00000197-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000196-a-1",
+   "pos": 3,
+   "rho_control": 0.19505,
+   "rho_test": 0.9773,
+   "target": "UBC",
+   "via": "urn:mavedb:00000197-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000196-a-1",
+   "pos": 3,
+   "rho_control": 0.17853,
+   "rho_test": 0.9711,
+   "target": "UBC",
+   "via": "urn:mavedb:00000197-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000196-a-1",
+   "pos": 15,
+   "rho_control": 0.17647,
+   "rho_test": 0.98349,
+   "target": "UBC",
+   "via": "urn:mavedb:00000198-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000196-a-1",
+   "pos": 15,
+   "rho_control": 0.2322,
+   "rho_test": 0.9773,
+   "target": "UBC",
+   "via": "urn:mavedb:00000198-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000196-a-1",
+   "pos": 15,
+   "rho_control": 0.18473,
+   "rho_test": 0.97936,
+   "target": "UBC",
+   "via": "urn:mavedb:00000198-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000196-a-1",
+   "pos": 43,
+   "rho_control": 0.14853,
+   "rho_test": 0.97353,
+   "target": "UBC",
+   "via": "urn:mavedb:00000199-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000196-a-1",
+   "pos": 43,
+   "rho_control": 0.21471,
+   "rho_test": 0.97353,
+   "target": "UBC",
+   "via": "urn:mavedb:00000199-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000196-a-1",
+   "pos": 43,
+   "rho_control": 0.19412,
+   "rho_test": 0.96765,
+   "target": "UBC",
+   "via": "urn:mavedb:00000199-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000196-a-1",
+   "pos": 67,
+   "rho_control": 0.12487,
+   "rho_test": 0.91125,
+   "target": "UBC",
+   "via": "urn:mavedb:00000200-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000196-a-1",
+   "pos": 67,
+   "rho_control": 0.14964,
+   "rho_test": 0.89886,
+   "target": "UBC",
+   "via": "urn:mavedb:00000200-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000196-a-1",
+   "pos": 67,
+   "rho_control": 0.11146,
+   "rho_test": 0.90918,
+   "target": "UBC",
+   "via": "urn:mavedb:00000200-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000196-a-1",
+   "pos": 64,
+   "rho_control": 0.06373,
+   "rho_test": -0.23775,
+   "target": "UBC",
+   "via": "urn:mavedb:00000202-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000196-a-1",
+   "pos": 64,
+   "rho_control": 0.36887,
+   "rho_test": 0.66422,
+   "target": "UBC",
+   "via": "urn:mavedb:00000202-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000196-a-1",
+   "pos": 64,
+   "rho_control": 0.24755,
+   "rho_test": 0.22794,
+   "target": "UBC",
+   "via": "urn:mavedb:00000202-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000196-a-2",
+   "pos": 3,
+   "rho_control": 0.35397,
+   "rho_test": 0.99381,
+   "target": "UBC",
+   "via": "urn:mavedb:00000197-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000196-a-2",
+   "pos": 3,
+   "rho_control": 0.3839,
+   "rho_test": 0.99381,
+   "target": "UBC",
+   "via": "urn:mavedb:00000197-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000196-a-2",
+   "pos": 3,
+   "rho_control": 0.38803,
+   "rho_test": 0.99381,
+   "target": "UBC",
+   "via": "urn:mavedb:00000197-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000196-a-2",
+   "pos": 15,
+   "rho_control": 0.26109,
+   "rho_test": 0.98762,
+   "target": "UBC",
+   "via": "urn:mavedb:00000198-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000196-a-2",
+   "pos": 15,
+   "rho_control": 0.31992,
+   "rho_test": 0.97523,
+   "target": "UBC",
+   "via": "urn:mavedb:00000198-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000196-a-2",
+   "pos": 15,
+   "rho_control": 0.34572,
+   "rho_test": 0.98555,
+   "target": "UBC",
+   "via": "urn:mavedb:00000198-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000196-a-2",
+   "pos": 43,
+   "rho_control": 0.24265,
+   "rho_test": 0.97941,
+   "target": "UBC",
+   "via": "urn:mavedb:00000199-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000196-a-2",
+   "pos": 43,
+   "rho_control": 0.30294,
+   "rho_test": 0.97941,
+   "target": "UBC",
+   "via": "urn:mavedb:00000199-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000196-a-2",
+   "pos": 43,
+   "rho_control": 0.41765,
+   "rho_test": 0.97353,
+   "target": "UBC",
+   "via": "urn:mavedb:00000199-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000196-a-2",
+   "pos": 67,
+   "rho_control": 0.21053,
+   "rho_test": 0.95253,
+   "target": "UBC",
+   "via": "urn:mavedb:00000200-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000196-a-2",
+   "pos": 67,
+   "rho_control": 0.33953,
+   "rho_test": 0.93602,
+   "target": "UBC",
+   "via": "urn:mavedb:00000200-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000196-a-2",
+   "pos": 67,
+   "rho_control": 0.30134,
+   "rho_test": 0.96078,
+   "target": "UBC",
+   "via": "urn:mavedb:00000200-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000196-a-2",
+   "pos": 64,
+   "rho_control": 0.22426,
+   "rho_test": 0.36275,
+   "target": "UBC",
+   "via": "urn:mavedb:00000202-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000196-a-2",
+   "pos": 64,
+   "rho_control": 0.19118,
+   "rho_test": 0.30392,
+   "target": "UBC",
+   "via": "urn:mavedb:00000202-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000196-a-2",
+   "pos": 64,
+   "rho_control": 0.35172,
+   "rho_test": 0.64461,
+   "target": "UBC",
+   "via": "urn:mavedb:00000202-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000201-0-1",
+   "pos": 46,
+   "rho_control": 0.21936,
+   "rho_test": 0.35784,
+   "target": "UBC",
+   "via": "urn:mavedb:00000202-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000201-0-1",
+   "pos": 46,
+   "rho_control": 0.09314,
+   "rho_test": 0.64461,
+   "target": "UBC",
+   "via": "urn:mavedb:00000202-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000201-0-1",
+   "pos": 46,
+   "rho_control": 0.2549,
+   "rho_test": 0.36765,
+   "target": "UBC",
+   "via": "urn:mavedb:00000202-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000201-a-1",
+   "pos": 46,
+   "rho_control": 0.12745,
+   "rho_test": -0.00735,
+   "target": "UBC",
+   "via": "urn:mavedb:00000202-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000201-a-1",
+   "pos": 46,
+   "rho_control": 0.3125,
+   "rho_test": 0.78186,
+   "target": "UBC",
+   "via": "urn:mavedb:00000202-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000201-a-1",
+   "pos": 46,
+   "rho_control": 0.16054,
+   "rho_test": 0.0,
+   "target": "UBC",
+   "via": "urn:mavedb:00000202-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000201-a-2",
+   "pos": 46,
+   "rho_control": 0.15809,
+   "rho_test": 0.20588,
+   "target": "UBC",
+   "via": "urn:mavedb:00000202-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000201-a-2",
+   "pos": 46,
+   "rho_control": 0.13358,
+   "rho_test": 0.30392,
+   "target": "UBC",
+   "via": "urn:mavedb:00000202-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000201-a-2",
+   "pos": 46,
+   "rho_control": 0.30637,
+   "rho_test": 0.42402,
+   "target": "UBC",
+   "via": "urn:mavedb:00000202-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000203-0-1",
+   "pos": 59,
+   "rho_control": 0.42647,
+   "rho_test": 0.15588,
+   "target": "Ice-structuring protein RD1",
+   "via": "urn:mavedb:00000204-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000203-0-1",
+   "pos": 59,
+   "rho_control": 0.27206,
+   "rho_test": 0.25294,
+   "target": "Ice-structuring protein RD1",
+   "via": "urn:mavedb:00000204-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000203-0-1",
+   "pos": 59,
+   "rho_control": 0.18529,
+   "rho_test": 0.23824,
+   "target": "Ice-structuring protein RD1",
+   "via": "urn:mavedb:00000204-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000203-a-1",
+   "pos": 59,
+   "rho_control": 0.17059,
+   "rho_test": 0.20294,
+   "target": "Ice-structuring protein RD1",
+   "via": "urn:mavedb:00000204-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000203-a-1",
+   "pos": 59,
+   "rho_control": 0.15147,
+   "rho_test": 0.44118,
+   "target": "Ice-structuring protein RD1",
+   "via": "urn:mavedb:00000204-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000203-a-1",
+   "pos": 59,
+   "rho_control": 0.11765,
+   "rho_test": 0.25588,
+   "target": "Ice-structuring protein RD1",
+   "via": "urn:mavedb:00000204-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000203-a-2",
+   "pos": 59,
+   "rho_control": 0.33235,
+   "rho_test": 0.16176,
+   "target": "Ice-structuring protein RD1",
+   "via": "urn:mavedb:00000204-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000203-a-2",
+   "pos": 59,
+   "rho_control": 0.20147,
+   "rho_test": 0.27353,
+   "target": "Ice-structuring protein RD1",
+   "via": "urn:mavedb:00000204-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000203-a-2",
+   "pos": 59,
+   "rho_control": 0.31765,
+   "rho_test": 0.12353,
+   "target": "Ice-structuring protein RD1",
+   "via": "urn:mavedb:00000204-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000225-0-1",
+   "pos": 15,
+   "rho_control": 0.82721,
+   "rho_test": 0.94118,
+   "target": "spa",
+   "via": "urn:mavedb:00000226-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000225-0-1",
+   "pos": 15,
+   "rho_control": 0.64828,
+   "rho_test": 0.83088,
+   "target": "spa",
+   "via": "urn:mavedb:00000226-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000225-0-1",
+   "pos": 15,
+   "rho_control": 0.73775,
+   "rho_test": 0.76471,
+   "target": "spa",
+   "via": "urn:mavedb:00000226-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000225-a-1",
+   "pos": 15,
+   "rho_control": 0.58824,
+   "rho_test": 0.79412,
+   "target": "spa",
+   "via": "urn:mavedb:00000226-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000225-a-1",
+   "pos": 15,
+   "rho_control": 0.66054,
+   "rho_test": 0.78186,
+   "target": "spa",
+   "via": "urn:mavedb:00000226-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000225-a-1",
+   "pos": 15,
+   "rho_control": 0.64216,
+   "rho_test": 0.79412,
+   "target": "spa",
+   "via": "urn:mavedb:00000226-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000225-a-2",
+   "pos": 15,
+   "rho_control": 0.67157,
+   "rho_test": 0.66667,
+   "target": "spa",
+   "via": "urn:mavedb:00000226-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000225-a-2",
+   "pos": 15,
+   "rho_control": 0.6299,
+   "rho_test": 0.66176,
+   "target": "spa",
+   "via": "urn:mavedb:00000226-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000225-a-2",
+   "pos": 15,
+   "rho_control": 0.83946,
+   "rho_test": 0.88971,
+   "target": "spa",
+   "via": "urn:mavedb:00000226-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000226-0-1",
+   "pos": 33,
+   "rho_control": 0.89951,
+   "rho_test": 0.96078,
+   "target": "spa",
+   "via": "urn:mavedb:00000227-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000226-0-1",
+   "pos": 33,
+   "rho_control": 0.78064,
+   "rho_test": 0.84559,
+   "target": "spa",
+   "via": "urn:mavedb:00000227-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000226-0-1",
+   "pos": 33,
+   "rho_control": 0.80515,
+   "rho_test": 0.93137,
+   "target": "spa",
+   "via": "urn:mavedb:00000227-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000226-a-1",
+   "pos": 33,
+   "rho_control": 0.6826,
+   "rho_test": 0.77206,
+   "target": "spa",
+   "via": "urn:mavedb:00000227-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000226-a-1",
+   "pos": 33,
+   "rho_control": 0.74755,
+   "rho_test": 0.61275,
+   "target": "spa",
+   "via": "urn:mavedb:00000227-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000226-a-1",
+   "pos": 33,
+   "rho_control": 0.67647,
+   "rho_test": 0.71814,
+   "target": "spa",
+   "via": "urn:mavedb:00000227-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000226-a-2",
+   "pos": 33,
+   "rho_control": 0.7451,
+   "rho_test": 0.93873,
+   "target": "spa",
+   "via": "urn:mavedb:00000227-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000226-a-2",
+   "pos": 33,
+   "rho_control": 0.74387,
+   "rho_test": 0.88725,
+   "target": "spa",
+   "via": "urn:mavedb:00000227-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000226-a-2",
+   "pos": 33,
+   "rho_control": 0.81618,
+   "rho_test": 0.91912,
+   "target": "spa",
+   "via": "urn:mavedb:00000227-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000235-0-1",
+   "pos": 23,
+   "rho_control": 0.65841,
+   "rho_test": 0.98349,
+   "target": "NfeD domain-containing protein",
+   "via": "urn:mavedb:00000236-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000235-0-1",
+   "pos": 23,
+   "rho_control": 0.41486,
+   "rho_test": 0.9773,
+   "target": "NfeD domain-containing protein",
+   "via": "urn:mavedb:00000236-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000235-0-1",
+   "pos": 23,
+   "rho_control": 0.44479,
+   "rho_test": 0.96698,
+   "target": "NfeD domain-containing protein",
+   "via": "urn:mavedb:00000236-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000235-0-1",
+   "pos": 54,
+   "rho_control": 0.56966,
+   "rho_test": 0.99381,
+   "target": "NfeD domain-containing protein",
+   "via": "urn:mavedb:00000237-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000235-0-1",
+   "pos": 54,
+   "rho_control": 0.3612,
+   "rho_test": 0.95253,
+   "target": "NfeD domain-containing protein",
+   "via": "urn:mavedb:00000237-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000235-0-1",
+   "pos": 54,
+   "rho_control": 0.39835,
+   "rho_test": 0.91538,
+   "target": "NfeD domain-containing protein",
+   "via": "urn:mavedb:00000237-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000235-a-1",
+   "pos": 23,
+   "rho_control": 0.24871,
+   "rho_test": 0.95666,
+   "target": "NfeD domain-containing protein",
+   "via": "urn:mavedb:00000236-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000235-a-1",
+   "pos": 23,
+   "rho_control": 0.23736,
+   "rho_test": 0.96491,
+   "target": "NfeD domain-containing protein",
+   "via": "urn:mavedb:00000236-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000235-a-1",
+   "pos": 23,
+   "rho_control": 0.32714,
+   "rho_test": 0.9257,
+   "target": "NfeD domain-containing protein",
+   "via": "urn:mavedb:00000236-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000235-a-1",
+   "pos": 54,
+   "rho_control": 0.3581,
+   "rho_test": 0.98142,
+   "target": "NfeD domain-containing protein",
+   "via": "urn:mavedb:00000237-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000235-a-1",
+   "pos": 54,
+   "rho_control": 0.13209,
+   "rho_test": 0.9773,
+   "target": "NfeD domain-containing protein",
+   "via": "urn:mavedb:00000237-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000235-a-1",
+   "pos": 54,
+   "rho_control": 0.26729,
+   "rho_test": 0.95666,
+   "target": "NfeD domain-containing protein",
+   "via": "urn:mavedb:00000237-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000235-a-2",
+   "pos": 23,
+   "rho_control": 0.44479,
+   "rho_test": 0.98762,
+   "target": "NfeD domain-containing protein",
+   "via": "urn:mavedb:00000236-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000235-a-2",
+   "pos": 23,
+   "rho_control": 0.3839,
+   "rho_test": 0.9711,
+   "target": "NfeD domain-containing protein",
+   "via": "urn:mavedb:00000236-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000235-a-2",
+   "pos": 23,
+   "rho_control": 0.57172,
+   "rho_test": 0.9773,
+   "target": "NfeD domain-containing protein",
+   "via": "urn:mavedb:00000236-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000235-a-2",
+   "pos": 54,
+   "rho_control": 0.59649,
+   "rho_test": 0.89474,
+   "target": "NfeD domain-containing protein",
+   "via": "urn:mavedb:00000237-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000235-a-2",
+   "pos": 54,
+   "rho_control": 0.37255,
+   "rho_test": 0.92363,
+   "target": "NfeD domain-containing protein",
+   "via": "urn:mavedb:00000237-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000235-a-2",
+   "pos": 54,
+   "rho_control": 0.3354,
+   "rho_test": 0.96698,
+   "target": "NfeD domain-containing protein",
+   "via": "urn:mavedb:00000237-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000240-0-1",
+   "pos": 27,
+   "rho_control": 0.89951,
+   "rho_test": 0.98039,
+   "target": "rplI",
+   "via": "urn:mavedb:00000242-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000240-0-1",
+   "pos": 27,
+   "rho_control": 0.84926,
+   "rho_test": 0.96569,
+   "target": "rplI",
+   "via": "urn:mavedb:00000242-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000240-0-1",
+   "pos": 27,
+   "rho_control": 0.87377,
+   "rho_test": 0.85784,
+   "target": "rplI",
+   "via": "urn:mavedb:00000242-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000240-a-1",
+   "pos": 27,
+   "rho_control": 0.84314,
+   "rho_test": 0.90196,
+   "target": "rplI",
+   "via": "urn:mavedb:00000242-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000240-a-1",
+   "pos": 27,
+   "rho_control": 0.79289,
+   "rho_test": 0.90686,
+   "target": "rplI",
+   "via": "urn:mavedb:00000242-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000240-a-1",
+   "pos": 27,
+   "rho_control": 0.84681,
+   "rho_test": 0.80882,
+   "target": "rplI",
+   "via": "urn:mavedb:00000242-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000240-a-2",
+   "pos": 27,
+   "rho_control": 0.86275,
+   "rho_test": 0.93137,
+   "target": "rplI",
+   "via": "urn:mavedb:00000242-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000240-a-2",
+   "pos": 27,
+   "rho_control": 0.80147,
+   "rho_test": 0.94853,
+   "target": "rplI",
+   "via": "urn:mavedb:00000242-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000240-a-2",
+   "pos": 27,
+   "rho_control": 0.86152,
+   "rho_test": 0.89706,
+   "target": "rplI",
+   "via": "urn:mavedb:00000242-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000241-0-1",
+   "pos": 12,
+   "rho_control": 0.88929,
+   "rho_test": 0.93929,
+   "target": "rplI",
+   "via": "urn:mavedb:00000240-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000241-0-1",
+   "pos": 12,
+   "rho_control": 0.76786,
+   "rho_test": 0.78929,
+   "target": "rplI",
+   "via": "urn:mavedb:00000240-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000241-0-1",
+   "pos": 12,
+   "rho_control": 0.80893,
+   "rho_test": 0.82143,
+   "target": "rplI",
+   "via": "urn:mavedb:00000240-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000241-a-1",
+   "pos": 12,
+   "rho_control": 0.71607,
+   "rho_test": 0.89286,
+   "target": "rplI",
+   "via": "urn:mavedb:00000240-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000241-a-1",
+   "pos": 12,
+   "rho_control": 0.65536,
+   "rho_test": 0.87143,
+   "target": "rplI",
+   "via": "urn:mavedb:00000240-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000241-a-1",
+   "pos": 12,
+   "rho_control": 0.6875,
+   "rho_test": 0.88571,
+   "target": "rplI",
+   "via": "urn:mavedb:00000240-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000241-a-2",
+   "pos": 12,
+   "rho_control": 0.78036,
+   "rho_test": 0.76429,
+   "target": "rplI",
+   "via": "urn:mavedb:00000240-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000241-a-2",
+   "pos": 12,
+   "rho_control": 0.76786,
+   "rho_test": 0.76071,
+   "target": "rplI",
+   "via": "urn:mavedb:00000240-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000241-a-2",
+   "pos": 12,
+   "rho_control": 0.81071,
+   "rho_test": 0.875,
+   "target": "rplI",
+   "via": "urn:mavedb:00000240-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000242-0-1",
+   "pos": 46,
+   "rho_control": 0.92892,
+   "rho_test": 0.92892,
+   "target": "rplI",
+   "via": "urn:mavedb:00000243-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000242-0-1",
+   "pos": 46,
+   "rho_control": 0.90931,
+   "rho_test": 0.43137,
+   "target": "rplI",
+   "via": "urn:mavedb:00000243-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000242-0-1",
+   "pos": 46,
+   "rho_control": 0.91912,
+   "rho_test": 0.92402,
+   "target": "rplI",
+   "via": "urn:mavedb:00000243-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000242-a-1",
+   "pos": 46,
+   "rho_control": 0.8848,
+   "rho_test": 0.45833,
+   "target": "rplI",
+   "via": "urn:mavedb:00000243-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000242-a-1",
+   "pos": 46,
+   "rho_control": 0.88358,
+   "rho_test": 0.56863,
+   "target": "rplI",
+   "via": "urn:mavedb:00000243-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000242-a-1",
+   "pos": 46,
+   "rho_control": 0.86887,
+   "rho_test": 0.45343,
+   "target": "rplI",
+   "via": "urn:mavedb:00000243-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000242-a-2",
+   "pos": 46,
+   "rho_control": 0.89828,
+   "rho_test": 0.91667,
+   "target": "rplI",
+   "via": "urn:mavedb:00000243-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000242-a-2",
+   "pos": 46,
+   "rho_control": 0.89828,
+   "rho_test": 0.55637,
+   "target": "rplI",
+   "via": "urn:mavedb:00000243-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000242-a-2",
+   "pos": 46,
+   "rho_control": 0.90196,
+   "rho_test": 0.88971,
+   "target": "rplI",
+   "via": "urn:mavedb:00000243-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000261-0-1",
+   "pos": 21,
+   "rho_control": 0.85036,
+   "rho_test": 0.98762,
+   "target": "Uncharacterized protein MJ1198",
+   "via": "urn:mavedb:00000262-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000261-0-1",
+   "pos": 21,
+   "rho_control": 0.84314,
+   "rho_test": 0.98968,
+   "target": "Uncharacterized protein MJ1198",
+   "via": "urn:mavedb:00000262-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000261-0-1",
+   "pos": 21,
+   "rho_control": 0.82353,
+   "rho_test": 0.98762,
+   "target": "Uncharacterized protein MJ1198",
+   "via": "urn:mavedb:00000262-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000261-0-1",
+   "pos": 42,
+   "rho_control": 0.80908,
+   "rho_test": 0.97936,
+   "target": "Uncharacterized protein MJ1198",
+   "via": "urn:mavedb:00000263-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000261-0-1",
+   "pos": 42,
+   "rho_control": 0.81011,
+   "rho_test": 0.9773,
+   "target": "Uncharacterized protein MJ1198",
+   "via": "urn:mavedb:00000263-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000261-0-1",
+   "pos": 42,
+   "rho_control": 0.79257,
+   "rho_test": 0.9711,
+   "target": "Uncharacterized protein MJ1198",
+   "via": "urn:mavedb:00000263-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000261-a-1",
+   "pos": 21,
+   "rho_control": 0.75851,
+   "rho_test": 0.99174,
+   "target": "Uncharacterized protein MJ1198",
+   "via": "urn:mavedb:00000262-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000261-a-1",
+   "pos": 21,
+   "rho_control": 0.74819,
+   "rho_test": 0.99174,
+   "target": "Uncharacterized protein MJ1198",
+   "via": "urn:mavedb:00000262-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000261-a-1",
+   "pos": 21,
+   "rho_control": 0.75748,
+   "rho_test": 0.99174,
+   "target": "Uncharacterized protein MJ1198",
+   "via": "urn:mavedb:00000262-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000261-a-1",
+   "pos": 42,
+   "rho_control": 0.79257,
+   "rho_test": 0.97317,
+   "target": "Uncharacterized protein MJ1198",
+   "via": "urn:mavedb:00000263-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000261-a-1",
+   "pos": 42,
+   "rho_control": 0.76574,
+   "rho_test": 0.96698,
+   "target": "Uncharacterized protein MJ1198",
+   "via": "urn:mavedb:00000263-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000261-a-1",
+   "pos": 42,
+   "rho_control": 0.78328,
+   "rho_test": 0.96904,
+   "target": "Uncharacterized protein MJ1198",
+   "via": "urn:mavedb:00000263-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000261-a-2",
+   "pos": 21,
+   "rho_control": 0.79257,
+   "rho_test": 0.98555,
+   "target": "Uncharacterized protein MJ1198",
+   "via": "urn:mavedb:00000262-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000261-a-2",
+   "pos": 21,
+   "rho_control": 0.80805,
+   "rho_test": 0.98142,
+   "target": "Uncharacterized protein MJ1198",
+   "via": "urn:mavedb:00000262-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000261-a-2",
+   "pos": 21,
+   "rho_control": 0.85243,
+   "rho_test": 0.98555,
+   "target": "Uncharacterized protein MJ1198",
+   "via": "urn:mavedb:00000262-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000261-a-2",
+   "pos": 42,
+   "rho_control": 0.79876,
+   "rho_test": 0.98349,
+   "target": "Uncharacterized protein MJ1198",
+   "via": "urn:mavedb:00000263-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000261-a-2",
+   "pos": 42,
+   "rho_control": 0.78019,
+   "rho_test": 0.99174,
+   "target": "Uncharacterized protein MJ1198",
+   "via": "urn:mavedb:00000263-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000261-a-2",
+   "pos": 42,
+   "rho_control": 0.83179,
+   "rho_test": 0.98142,
+   "target": "Uncharacterized protein MJ1198",
+   "via": "urn:mavedb:00000263-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000264-0-1",
+   "pos": 11,
+   "rho_control": 0.62023,
+   "rho_test": 0.99587,
+   "target": "O26789_METTH",
+   "via": "urn:mavedb:00000265-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000264-0-1",
+   "pos": 11,
+   "rho_control": 0.49432,
+   "rho_test": 0.96904,
+   "target": "O26789_METTH",
+   "via": "urn:mavedb:00000265-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000264-0-1",
+   "pos": 11,
+   "rho_control": 0.43344,
+   "rho_test": 0.94014,
+   "target": "O26789_METTH",
+   "via": "urn:mavedb:00000265-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000264-0-1",
+   "pos": 23,
+   "rho_control": 0.48297,
+   "rho_test": 0.99587,
+   "target": "O26789_METTH",
+   "via": "urn:mavedb:00000266-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000264-0-1",
+   "pos": 23,
+   "rho_control": 0.45304,
+   "rho_test": 0.97936,
+   "target": "O26789_METTH",
+   "via": "urn:mavedb:00000266-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000264-0-1",
+   "pos": 23,
+   "rho_control": 0.3323,
+   "rho_test": 0.98555,
+   "target": "O26789_METTH",
+   "via": "urn:mavedb:00000266-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000264-a-1",
+   "pos": 11,
+   "rho_control": 0.50671,
+   "rho_test": 0.95666,
+   "target": "O26789_METTH",
+   "via": "urn:mavedb:00000265-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000264-a-1",
+   "pos": 11,
+   "rho_control": 0.48813,
+   "rho_test": 0.98762,
+   "target": "O26789_METTH",
+   "via": "urn:mavedb:00000265-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000264-a-1",
+   "pos": 11,
+   "rho_control": 0.42621,
+   "rho_test": 0.92776,
+   "target": "O26789_METTH",
+   "via": "urn:mavedb:00000265-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000264-a-1",
+   "pos": 23,
+   "rho_control": 0.47884,
+   "rho_test": 0.98555,
+   "target": "O26789_METTH",
+   "via": "urn:mavedb:00000266-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000264-a-1",
+   "pos": 23,
+   "rho_control": 0.47884,
+   "rho_test": 0.98968,
+   "target": "O26789_METTH",
+   "via": "urn:mavedb:00000266-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000264-a-1",
+   "pos": 23,
+   "rho_control": 0.43137,
+   "rho_test": 0.99174,
+   "target": "O26789_METTH",
+   "via": "urn:mavedb:00000266-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000264-a-2",
+   "pos": 11,
+   "rho_control": 0.47988,
+   "rho_test": 0.9257,
+   "target": "O26789_METTH",
+   "via": "urn:mavedb:00000265-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000264-a-2",
+   "pos": 11,
+   "rho_control": 0.56037,
+   "rho_test": 0.94634,
+   "target": "O26789_METTH",
+   "via": "urn:mavedb:00000265-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000264-a-2",
+   "pos": 11,
+   "rho_control": 0.57792,
+   "rho_test": 0.9773,
+   "target": "O26789_METTH",
+   "via": "urn:mavedb:00000265-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000264-a-2",
+   "pos": 23,
+   "rho_control": 0.49329,
+   "rho_test": 0.98968,
+   "target": "O26789_METTH",
+   "via": "urn:mavedb:00000266-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000264-a-2",
+   "pos": 23,
+   "rho_control": 0.52632,
+   "rho_test": 0.97936,
+   "target": "O26789_METTH",
+   "via": "urn:mavedb:00000266-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000264-a-2",
+   "pos": 23,
+   "rho_control": 0.49226,
+   "rho_test": 0.98349,
+   "target": "O26789_METTH",
+   "via": "urn:mavedb:00000266-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000274-0-1",
+   "pos": 42,
+   "rho_control": 0.56863,
+   "rho_test": 0.9902,
+   "target": "entD",
+   "via": "urn:mavedb:00000275-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000274-0-1",
+   "pos": 42,
+   "rho_control": 0.57598,
+   "rho_test": 0.9951,
+   "target": "entD",
+   "via": "urn:mavedb:00000275-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000274-0-1",
+   "pos": 42,
+   "rho_control": 0.65564,
+   "rho_test": 0.96814,
+   "target": "entD",
+   "via": "urn:mavedb:00000275-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000274-0-1",
+   "pos": 53,
+   "rho_control": 0.63055,
+   "rho_test": 0.99587,
+   "target": "entD",
+   "via": "urn:mavedb:00000276-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000274-0-1",
+   "pos": 53,
+   "rho_control": 0.53973,
+   "rho_test": 0.99794,
+   "target": "entD",
+   "via": "urn:mavedb:00000276-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000274-0-1",
+   "pos": 53,
+   "rho_control": 0.64396,
+   "rho_test": 0.99174,
+   "target": "entD",
+   "via": "urn:mavedb:00000276-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000274-a-1",
+   "pos": 42,
+   "rho_control": 0.49632,
+   "rho_test": 0.98775,
+   "target": "entD",
+   "via": "urn:mavedb:00000275-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000274-a-1",
+   "pos": 42,
+   "rho_control": 0.64216,
+   "rho_test": 0.9951,
+   "target": "entD",
+   "via": "urn:mavedb:00000275-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000274-a-1",
+   "pos": 42,
+   "rho_control": 0.5576,
+   "rho_test": 0.96569,
+   "target": "entD",
+   "via": "urn:mavedb:00000275-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000274-a-1",
+   "pos": 53,
+   "rho_control": 0.41383,
+   "rho_test": 0.98349,
+   "target": "entD",
+   "via": "urn:mavedb:00000276-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000274-a-1",
+   "pos": 53,
+   "rho_control": 0.48091,
+   "rho_test": 0.98555,
+   "target": "entD",
+   "via": "urn:mavedb:00000276-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000274-a-1",
+   "pos": 53,
+   "rho_control": 0.59236,
+   "rho_test": 0.98555,
+   "target": "entD",
+   "via": "urn:mavedb:00000276-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000274-a-2",
+   "pos": 42,
+   "rho_control": 0.53186,
+   "rho_test": 0.98529,
+   "target": "entD",
+   "via": "urn:mavedb:00000275-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000274-a-2",
+   "pos": 42,
+   "rho_control": 0.61152,
+   "rho_test": 0.99265,
+   "target": "entD",
+   "via": "urn:mavedb:00000275-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000274-a-2",
+   "pos": 42,
+   "rho_control": 0.60294,
+   "rho_test": 0.96324,
+   "target": "entD",
+   "via": "urn:mavedb:00000275-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000274-a-2",
+   "pos": 53,
+   "rho_control": 0.60475,
+   "rho_test": 1.0,
+   "target": "entD",
+   "via": "urn:mavedb:00000276-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000274-a-2",
+   "pos": 53,
+   "rho_control": 0.60475,
+   "rho_test": 0.99794,
+   "target": "entD",
+   "via": "urn:mavedb:00000276-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000274-a-2",
+   "pos": 53,
+   "rho_control": 0.62642,
+   "rho_test": 0.99794,
+   "target": "entD",
+   "via": "urn:mavedb:00000276-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000278-0-1",
+   "pos": 54,
+   "rho_control": 0.74923,
+   "rho_test": 0.98762,
+   "target": "N-acetylglucosaminidase",
+   "via": "urn:mavedb:00000279-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000278-0-1",
+   "pos": 54,
+   "rho_control": 0.70588,
+   "rho_test": 0.95459,
+   "target": "N-acetylglucosaminidase",
+   "via": "urn:mavedb:00000279-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000278-0-1",
+   "pos": 54,
+   "rho_control": 0.78638,
+   "rho_test": 0.98762,
+   "target": "N-acetylglucosaminidase",
+   "via": "urn:mavedb:00000279-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000278-0-1",
+   "pos": 15,
+   "rho_control": 0.60578,
+   "rho_test": 0.95666,
+   "target": "N-acetylglucosaminidase",
+   "via": "urn:mavedb:00000280-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000278-0-1",
+   "pos": 15,
+   "rho_control": 0.6161,
+   "rho_test": 0.90712,
+   "target": "N-acetylglucosaminidase",
+   "via": "urn:mavedb:00000280-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000278-0-1",
+   "pos": 15,
+   "rho_control": 0.68627,
+   "rho_test": 0.9195,
+   "target": "N-acetylglucosaminidase",
+   "via": "urn:mavedb:00000280-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000278-a-1",
+   "pos": 54,
+   "rho_control": 0.49123,
+   "rho_test": 0.96491,
+   "target": "N-acetylglucosaminidase",
+   "via": "urn:mavedb:00000279-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000278-a-1",
+   "pos": 54,
+   "rho_control": 0.37461,
+   "rho_test": 0.98349,
+   "target": "N-acetylglucosaminidase",
+   "via": "urn:mavedb:00000279-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000278-a-1",
+   "pos": 54,
+   "rho_control": 0.60372,
+   "rho_test": 0.96285,
+   "target": "N-acetylglucosaminidase",
+   "via": "urn:mavedb:00000279-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000278-a-1",
+   "pos": 15,
+   "rho_control": 0.32198,
+   "rho_test": 0.88854,
+   "target": "N-acetylglucosaminidase",
+   "via": "urn:mavedb:00000280-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000278-a-1",
+   "pos": 15,
+   "rho_control": 0.4386,
+   "rho_test": 0.93808,
+   "target": "N-acetylglucosaminidase",
+   "via": "urn:mavedb:00000280-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000278-a-1",
+   "pos": 15,
+   "rho_control": 0.4613,
+   "rho_test": 0.87822,
+   "target": "N-acetylglucosaminidase",
+   "via": "urn:mavedb:00000280-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000278-a-2",
+   "pos": 54,
+   "rho_control": 0.74819,
+   "rho_test": 0.98142,
+   "target": "N-acetylglucosaminidase",
+   "via": "urn:mavedb:00000279-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000278-a-2",
+   "pos": 54,
+   "rho_control": 0.68834,
+   "rho_test": 0.94427,
+   "target": "N-acetylglucosaminidase",
+   "via": "urn:mavedb:00000279-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000278-a-2",
+   "pos": 54,
+   "rho_control": 0.75335,
+   "rho_test": 0.9773,
+   "target": "N-acetylglucosaminidase",
+   "via": "urn:mavedb:00000279-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000278-a-2",
+   "pos": 15,
+   "rho_control": 0.63777,
+   "rho_test": 0.87203,
+   "target": "N-acetylglucosaminidase",
+   "via": "urn:mavedb:00000280-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000278-a-2",
+   "pos": 15,
+   "rho_control": 0.56037,
+   "rho_test": 0.92363,
+   "target": "N-acetylglucosaminidase",
+   "via": "urn:mavedb:00000280-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000278-a-2",
+   "pos": 15,
+   "rho_control": 0.60784,
+   "rho_test": 0.84933,
+   "target": "N-acetylglucosaminidase",
+   "via": "urn:mavedb:00000280-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000285-0-1",
+   "pos": 2,
+   "rho_control": 0.89577,
+   "rho_test": 0.98968,
+   "target": "entD",
+   "via": "urn:mavedb:00000286-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000285-0-1",
+   "pos": 2,
+   "rho_control": 0.89267,
+   "rho_test": 0.84727,
+   "target": "entD",
+   "via": "urn:mavedb:00000286-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000285-0-1",
+   "pos": 2,
+   "rho_control": 0.90506,
+   "rho_test": 0.92776,
+   "target": "entD",
+   "via": "urn:mavedb:00000286-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000285-0-1",
+   "pos": 55,
+   "rho_control": 0.89061,
+   "rho_test": 0.99174,
+   "target": "entD",
+   "via": "urn:mavedb:00000287-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000285-0-1",
+   "pos": 55,
+   "rho_control": 0.88338,
+   "rho_test": 0.98142,
+   "target": "entD",
+   "via": "urn:mavedb:00000287-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000285-0-1",
+   "pos": 55,
+   "rho_control": 0.91641,
+   "rho_test": 0.98762,
+   "target": "entD",
+   "via": "urn:mavedb:00000287-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000285-a-1",
+   "pos": 2,
+   "rho_control": 0.82972,
+   "rho_test": 0.8225,
+   "target": "entD",
+   "via": "urn:mavedb:00000286-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000285-a-1",
+   "pos": 2,
+   "rho_control": 0.86378,
+   "rho_test": 0.92776,
+   "target": "entD",
+   "via": "urn:mavedb:00000286-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000285-a-1",
+   "pos": 2,
+   "rho_control": 0.79463,
+   "rho_test": 0.60991,
+   "target": "entD",
+   "via": "urn:mavedb:00000286-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000285-a-1",
+   "pos": 55,
+   "rho_control": 0.81115,
+   "rho_test": 0.98762,
+   "target": "entD",
+   "via": "urn:mavedb:00000287-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000285-a-1",
+   "pos": 55,
+   "rho_control": 0.82353,
+   "rho_test": 0.98555,
+   "target": "entD",
+   "via": "urn:mavedb:00000287-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000285-a-1",
+   "pos": 55,
+   "rho_control": 0.84417,
+   "rho_test": 0.98968,
+   "target": "entD",
+   "via": "urn:mavedb:00000287-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000285-a-2",
+   "pos": 2,
+   "rho_control": 0.89164,
+   "rho_test": 0.90918,
+   "target": "entD",
+   "via": "urn:mavedb:00000286-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000285-a-2",
+   "pos": 2,
+   "rho_control": 0.86481,
+   "rho_test": 0.69866,
+   "target": "entD",
+   "via": "urn:mavedb:00000286-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000285-a-2",
+   "pos": 2,
+   "rho_control": 0.89577,
+   "rho_test": 0.9711,
+   "target": "entD",
+   "via": "urn:mavedb:00000286-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000285-a-2",
+   "pos": 55,
+   "rho_control": 0.85036,
+   "rho_test": 0.98555,
+   "target": "entD",
+   "via": "urn:mavedb:00000287-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000285-a-2",
+   "pos": 55,
+   "rho_control": 0.87926,
+   "rho_test": 0.9773,
+   "target": "entD",
+   "via": "urn:mavedb:00000287-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000285-a-2",
+   "pos": 55,
+   "rho_control": 0.8937,
+   "rho_test": 0.98349,
+   "target": "entD",
+   "via": "urn:mavedb:00000287-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000307-0-1",
+   "pos": 17,
+   "rho_control": 0.55934,
+   "rho_test": 0.99174,
+   "target": "Cold shock-like protein CspA",
+   "via": "urn:mavedb:00000308-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000307-0-1",
+   "pos": 17,
+   "rho_control": 0.54386,
+   "rho_test": 0.98968,
+   "target": "Cold shock-like protein CspA",
+   "via": "urn:mavedb:00000308-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000307-0-1",
+   "pos": 17,
+   "rho_control": 0.49742,
+   "rho_test": 0.98349,
+   "target": "Cold shock-like protein CspA",
+   "via": "urn:mavedb:00000308-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000307-0-1",
+   "pos": 6,
+   "rho_control": 0.5098,
+   "rho_test": 0.9773,
+   "target": "Cold shock-like protein CspA",
+   "via": "urn:mavedb:00000309-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000307-0-1",
+   "pos": 6,
+   "rho_control": 0.52116,
+   "rho_test": 0.94221,
+   "target": "Cold shock-like protein CspA",
+   "via": "urn:mavedb:00000309-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000307-0-1",
+   "pos": 6,
+   "rho_control": 0.53767,
+   "rho_test": 0.96491,
+   "target": "Cold shock-like protein CspA",
+   "via": "urn:mavedb:00000309-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000307-a-1",
+   "pos": 17,
+   "rho_control": 0.60888,
+   "rho_test": 0.97317,
+   "target": "Cold shock-like protein CspA",
+   "via": "urn:mavedb:00000308-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000307-a-1",
+   "pos": 17,
+   "rho_control": 0.55831,
+   "rho_test": 0.9773,
+   "target": "Cold shock-like protein CspA",
+   "via": "urn:mavedb:00000308-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000307-a-1",
+   "pos": 17,
+   "rho_control": 0.57688,
+   "rho_test": 0.98349,
+   "target": "Cold shock-like protein CspA",
+   "via": "urn:mavedb:00000308-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000307-a-1",
+   "pos": 6,
+   "rho_control": 0.48504,
+   "rho_test": 0.98555,
+   "target": "Cold shock-like protein CspA",
+   "via": "urn:mavedb:00000309-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000307-a-1",
+   "pos": 6,
+   "rho_control": 0.5934,
+   "rho_test": 0.97523,
+   "target": "Cold shock-like protein CspA",
+   "via": "urn:mavedb:00000309-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000307-a-1",
+   "pos": 6,
+   "rho_control": 0.5903,
+   "rho_test": 0.98142,
+   "target": "Cold shock-like protein CspA",
+   "via": "urn:mavedb:00000309-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000307-a-2",
+   "pos": 17,
+   "rho_control": 0.72239,
+   "rho_test": 0.98968,
+   "target": "Cold shock-like protein CspA",
+   "via": "urn:mavedb:00000308-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000307-a-2",
+   "pos": 17,
+   "rho_control": 0.67389,
+   "rho_test": 0.99381,
+   "target": "Cold shock-like protein CspA",
+   "via": "urn:mavedb:00000308-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000307-a-2",
+   "pos": 17,
+   "rho_control": 0.71207,
+   "rho_test": 0.98762,
+   "target": "Cold shock-like protein CspA",
+   "via": "urn:mavedb:00000308-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000307-a-2",
+   "pos": 6,
+   "rho_control": 0.71517,
+   "rho_test": 0.94427,
+   "target": "Cold shock-like protein CspA",
+   "via": "urn:mavedb:00000309-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000307-a-2",
+   "pos": 6,
+   "rho_control": 0.6161,
+   "rho_test": 0.90093,
+   "target": "Cold shock-like protein CspA",
+   "via": "urn:mavedb:00000309-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000307-a-2",
+   "pos": 6,
+   "rho_control": 0.5676,
+   "rho_test": 0.93189,
+   "target": "Cold shock-like protein CspA",
+   "via": "urn:mavedb:00000309-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000313-0-1",
+   "pos": 32,
+   "rho_control": 0.25181,
+   "rho_test": 0.89061,
+   "target": "Ice-structuring protein",
+   "via": "urn:mavedb:00000314-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000313-0-1",
+   "pos": 32,
+   "rho_control": 0.28277,
+   "rho_test": 0.9257,
+   "target": "Ice-structuring protein",
+   "via": "urn:mavedb:00000314-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000313-0-1",
+   "pos": 32,
+   "rho_control": 0.15273,
+   "rho_test": 0.87822,
+   "target": "Ice-structuring protein",
+   "via": "urn:mavedb:00000314-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000313-a-1",
+   "pos": 32,
+   "rho_control": 0.2033,
+   "rho_test": 0.87616,
+   "target": "Ice-structuring protein",
+   "via": "urn:mavedb:00000314-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000313-a-1",
+   "pos": 32,
+   "rho_control": 0.27657,
+   "rho_test": 0.93602,
+   "target": "Ice-structuring protein",
+   "via": "urn:mavedb:00000314-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000313-a-1",
+   "pos": 32,
+   "rho_control": 0.24871,
+   "rho_test": 0.89267,
+   "target": "Ice-structuring protein",
+   "via": "urn:mavedb:00000314-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000313-a-2",
+   "pos": 32,
+   "rho_control": 0.09804,
+   "rho_test": 0.83075,
+   "target": "Ice-structuring protein",
+   "via": "urn:mavedb:00000314-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000313-a-2",
+   "pos": 32,
+   "rho_control": 0.13106,
+   "rho_test": 0.85759,
+   "target": "Ice-structuring protein",
+   "via": "urn:mavedb:00000314-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000313-a-2",
+   "pos": 32,
+   "rho_control": 0.21878,
+   "rho_test": 0.82456,
+   "target": "Ice-structuring protein",
+   "via": "urn:mavedb:00000314-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000316-0-1",
+   "pos": 15,
+   "rho_control": 0.75955,
+   "rho_test": 0.99174,
+   "target": "cspLA",
+   "via": "urn:mavedb:00000317-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000316-0-1",
+   "pos": 15,
+   "rho_control": 0.71207,
+   "rho_test": 0.99174,
+   "target": "cspLA",
+   "via": "urn:mavedb:00000317-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000316-0-1",
+   "pos": 15,
+   "rho_control": 0.66976,
+   "rho_test": 0.99381,
+   "target": "cspLA",
+   "via": "urn:mavedb:00000317-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000316-0-1",
+   "pos": 4,
+   "rho_control": 0.78019,
+   "rho_test": 0.70485,
+   "target": "cspLA",
+   "via": "urn:mavedb:00000318-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000316-0-1",
+   "pos": 4,
+   "rho_control": 0.69247,
+   "rho_test": 0.75026,
+   "target": "cspLA",
+   "via": "urn:mavedb:00000318-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000316-0-1",
+   "pos": 4,
+   "rho_control": 0.73065,
+   "rho_test": 0.64087,
+   "target": "cspLA",
+   "via": "urn:mavedb:00000318-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000316-a-1",
+   "pos": 15,
+   "rho_control": 0.62848,
+   "rho_test": 0.98762,
+   "target": "cspLA",
+   "via": "urn:mavedb:00000317-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000316-a-1",
+   "pos": 15,
+   "rho_control": 0.58927,
+   "rho_test": 0.98762,
+   "target": "cspLA",
+   "via": "urn:mavedb:00000317-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000316-a-1",
+   "pos": 15,
+   "rho_control": 0.5614,
+   "rho_test": 0.98762,
+   "target": "cspLA",
+   "via": "urn:mavedb:00000317-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000316-a-1",
+   "pos": 4,
+   "rho_control": 0.69866,
+   "rho_test": 0.62642,
+   "target": "cspLA",
+   "via": "urn:mavedb:00000318-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000316-a-1",
+   "pos": 4,
+   "rho_control": 0.61816,
+   "rho_test": 0.86997,
+   "target": "cspLA",
+   "via": "urn:mavedb:00000318-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000316-a-1",
+   "pos": 4,
+   "rho_control": 0.57998,
+   "rho_test": 0.57895,
+   "target": "cspLA",
+   "via": "urn:mavedb:00000318-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000316-a-2",
+   "pos": 15,
+   "rho_control": 0.75129,
+   "rho_test": 0.96904,
+   "target": "cspLA",
+   "via": "urn:mavedb:00000317-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000316-a-2",
+   "pos": 15,
+   "rho_control": 0.72755,
+   "rho_test": 0.9773,
+   "target": "cspLA",
+   "via": "urn:mavedb:00000317-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000316-a-2",
+   "pos": 15,
+   "rho_control": 0.71723,
+   "rho_test": 0.97317,
+   "target": "cspLA",
+   "via": "urn:mavedb:00000317-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000316-a-2",
+   "pos": 4,
+   "rho_control": 0.81424,
+   "rho_test": 0.50258,
+   "target": "cspLA",
+   "via": "urn:mavedb:00000318-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000316-a-2",
+   "pos": 4,
+   "rho_control": 0.74407,
+   "rho_test": 0.55624,
+   "target": "cspLA",
+   "via": "urn:mavedb:00000318-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000316-a-2",
+   "pos": 4,
+   "rho_control": 0.78019,
+   "rho_test": 0.42621,
+   "target": "cspLA",
+   "via": "urn:mavedb:00000318-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000319-0-1",
+   "pos": 41,
+   "rho_control": 0.81527,
+   "rho_test": 0.95872,
+   "target": "cylR2",
+   "via": "urn:mavedb:00000320-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000319-0-1",
+   "pos": 41,
+   "rho_control": 0.79567,
+   "rho_test": 0.95253,
+   "target": "cylR2",
+   "via": "urn:mavedb:00000320-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000319-0-1",
+   "pos": 41,
+   "rho_control": 0.83901,
+   "rho_test": 0.9711,
+   "target": "cylR2",
+   "via": "urn:mavedb:00000320-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000319-0-1",
+   "pos": 26,
+   "rho_control": 0.78328,
+   "rho_test": 0.98762,
+   "target": "cylR2",
+   "via": "urn:mavedb:00000321-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000319-0-1",
+   "pos": 26,
+   "rho_control": 0.72859,
+   "rho_test": 0.9773,
+   "target": "cylR2",
+   "via": "urn:mavedb:00000321-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000319-0-1",
+   "pos": 26,
+   "rho_control": 0.80392,
+   "rho_test": 0.98968,
+   "target": "cylR2",
+   "via": "urn:mavedb:00000321-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000319-a-1",
+   "pos": 41,
+   "rho_control": 0.72033,
+   "rho_test": 0.96491,
+   "target": "cylR2",
+   "via": "urn:mavedb:00000320-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000319-a-1",
+   "pos": 41,
+   "rho_control": 0.71001,
+   "rho_test": 0.95046,
+   "target": "cylR2",
+   "via": "urn:mavedb:00000320-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000319-a-1",
+   "pos": 41,
+   "rho_control": 0.7162,
+   "rho_test": 0.96078,
+   "target": "cylR2",
+   "via": "urn:mavedb:00000320-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000319-a-1",
+   "pos": 26,
+   "rho_control": 0.68834,
+   "rho_test": 0.96491,
+   "target": "cylR2",
+   "via": "urn:mavedb:00000321-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000319-a-1",
+   "pos": 26,
+   "rho_control": 0.613,
+   "rho_test": 0.98555,
+   "target": "cylR2",
+   "via": "urn:mavedb:00000321-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000319-a-1",
+   "pos": 26,
+   "rho_control": 0.73891,
+   "rho_test": 0.97523,
+   "target": "cylR2",
+   "via": "urn:mavedb:00000321-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000319-a-2",
+   "pos": 41,
+   "rho_control": 0.742,
+   "rho_test": 0.96285,
+   "target": "cylR2",
+   "via": "urn:mavedb:00000320-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000319-a-2",
+   "pos": 41,
+   "rho_control": 0.71827,
+   "rho_test": 0.95666,
+   "target": "cylR2",
+   "via": "urn:mavedb:00000320-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000319-a-2",
+   "pos": 41,
+   "rho_control": 0.83179,
+   "rho_test": 0.96698,
+   "target": "cylR2",
+   "via": "urn:mavedb:00000320-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000319-a-2",
+   "pos": 26,
+   "rho_control": 0.73684,
+   "rho_test": 0.98349,
+   "target": "cylR2",
+   "via": "urn:mavedb:00000321-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000319-a-2",
+   "pos": 26,
+   "rho_control": 0.70072,
+   "rho_test": 0.98142,
+   "target": "cylR2",
+   "via": "urn:mavedb:00000321-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000319-a-2",
+   "pos": 26,
+   "rho_control": 0.76883,
+   "rho_test": 0.98762,
+   "target": "cylR2",
+   "via": "urn:mavedb:00000321-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000330-0-1",
+   "pos": 21,
+   "rho_control": 0.67802,
+   "rho_test": 0.98555,
+   "target": "DUF4651 domain-containing protein",
+   "via": "urn:mavedb:00000331-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000330-0-1",
+   "pos": 21,
+   "rho_control": 0.69453,
+   "rho_test": 0.94221,
+   "target": "DUF4651 domain-containing protein",
+   "via": "urn:mavedb:00000331-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000330-0-1",
+   "pos": 21,
+   "rho_control": 0.64499,
+   "rho_test": 0.98762,
+   "target": "DUF4651 domain-containing protein",
+   "via": "urn:mavedb:00000331-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000330-a-1",
+   "pos": 21,
+   "rho_control": 0.4097,
+   "rho_test": 0.90918,
+   "target": "DUF4651 domain-containing protein",
+   "via": "urn:mavedb:00000331-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000330-a-1",
+   "pos": 21,
+   "rho_control": 0.52838,
+   "rho_test": 0.90093,
+   "target": "DUF4651 domain-containing protein",
+   "via": "urn:mavedb:00000331-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000330-a-1",
+   "pos": 21,
+   "rho_control": 0.44479,
+   "rho_test": 0.92157,
+   "target": "DUF4651 domain-containing protein",
+   "via": "urn:mavedb:00000331-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000330-a-2",
+   "pos": 21,
+   "rho_control": 0.71207,
+   "rho_test": 0.96904,
+   "target": "DUF4651 domain-containing protein",
+   "via": "urn:mavedb:00000331-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000330-a-2",
+   "pos": 21,
+   "rho_control": 0.7451,
+   "rho_test": 0.92982,
+   "target": "DUF4651 domain-containing protein",
+   "via": "urn:mavedb:00000331-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000330-a-2",
+   "pos": 21,
+   "rho_control": 0.62229,
+   "rho_test": 0.9711,
+   "target": "DUF4651 domain-containing protein",
+   "via": "urn:mavedb:00000331-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000344-0-1",
+   "pos": 11,
+   "rho_control": 0.72549,
+   "rho_test": 0.98349,
+   "target": "Autolysin",
+   "via": "urn:mavedb:00000345-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000344-0-1",
+   "pos": 11,
+   "rho_control": 0.76987,
+   "rho_test": 0.98349,
+   "target": "Autolysin",
+   "via": "urn:mavedb:00000345-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000344-0-1",
+   "pos": 11,
+   "rho_control": 0.73478,
+   "rho_test": 0.98142,
+   "target": "Autolysin",
+   "via": "urn:mavedb:00000345-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000344-0-1",
+   "pos": 29,
+   "rho_control": 0.82456,
+   "rho_test": 0.93395,
+   "target": "Autolysin",
+   "via": "urn:mavedb:00000346-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000344-0-1",
+   "pos": 29,
+   "rho_control": 0.81734,
+   "rho_test": 0.91331,
+   "target": "Autolysin",
+   "via": "urn:mavedb:00000346-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000344-0-1",
+   "pos": 29,
+   "rho_control": 0.79876,
+   "rho_test": 0.95459,
+   "target": "Autolysin",
+   "via": "urn:mavedb:00000346-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000344-a-1",
+   "pos": 11,
+   "rho_control": 0.56966,
+   "rho_test": 0.99794,
+   "target": "Autolysin",
+   "via": "urn:mavedb:00000345-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000344-a-1",
+   "pos": 11,
+   "rho_control": 0.60165,
+   "rho_test": 0.99794,
+   "target": "Autolysin",
+   "via": "urn:mavedb:00000345-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000344-a-1",
+   "pos": 11,
+   "rho_control": 0.61507,
+   "rho_test": 0.99587,
+   "target": "Autolysin",
+   "via": "urn:mavedb:00000345-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000344-a-1",
+   "pos": 29,
+   "rho_control": 0.70898,
+   "rho_test": 0.90093,
+   "target": "Autolysin",
+   "via": "urn:mavedb:00000346-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000344-a-1",
+   "pos": 29,
+   "rho_control": 0.66667,
+   "rho_test": 0.88854,
+   "target": "Autolysin",
+   "via": "urn:mavedb:00000346-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000344-a-1",
+   "pos": 29,
+   "rho_control": 0.62848,
+   "rho_test": 0.94427,
+   "target": "Autolysin",
+   "via": "urn:mavedb:00000346-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000344-a-2",
+   "pos": 11,
+   "rho_control": 0.77296,
+   "rho_test": 0.97936,
+   "target": "Autolysin",
+   "via": "urn:mavedb:00000345-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000344-a-2",
+   "pos": 11,
+   "rho_control": 0.73684,
+   "rho_test": 0.97936,
+   "target": "Autolysin",
+   "via": "urn:mavedb:00000345-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000344-a-2",
+   "pos": 11,
+   "rho_control": 0.74716,
+   "rho_test": 0.98349,
+   "target": "Autolysin",
+   "via": "urn:mavedb:00000345-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000344-a-2",
+   "pos": 29,
+   "rho_control": 0.79051,
+   "rho_test": 0.93189,
+   "target": "Autolysin",
+   "via": "urn:mavedb:00000346-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000344-a-2",
+   "pos": 29,
+   "rho_control": 0.81837,
+   "rho_test": 0.92157,
+   "target": "Autolysin",
+   "via": "urn:mavedb:00000346-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000344-a-2",
+   "pos": 29,
+   "rho_control": 0.77915,
+   "rho_test": 0.93602,
+   "target": "Autolysin",
+   "via": "urn:mavedb:00000346-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000370-0-1",
+   "pos": 58,
+   "rho_control": 0.72549,
+   "rho_test": 0.97059,
+   "target": "Protein LG",
+   "via": "urn:mavedb:00000371-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000370-0-1",
+   "pos": 58,
+   "rho_control": 0.57598,
+   "rho_test": 0.94363,
+   "target": "Protein LG",
+   "via": "urn:mavedb:00000371-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000370-0-1",
+   "pos": 58,
+   "rho_control": 0.61029,
+   "rho_test": 0.96814,
+   "target": "Protein LG",
+   "via": "urn:mavedb:00000371-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000370-0-1",
+   "pos": 38,
+   "rho_control": 0.77606,
+   "rho_test": 0.97936,
+   "target": "Protein LG",
+   "via": "urn:mavedb:00000372-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000370-0-1",
+   "pos": 38,
+   "rho_control": 0.74303,
+   "rho_test": 0.87203,
+   "target": "Protein LG",
+   "via": "urn:mavedb:00000372-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000370-0-1",
+   "pos": 38,
+   "rho_control": 0.72239,
+   "rho_test": 0.96285,
+   "target": "Protein LG",
+   "via": "urn:mavedb:00000372-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000370-a-1",
+   "pos": 58,
+   "rho_control": 0.32598,
+   "rho_test": 0.93137,
+   "target": "Protein LG",
+   "via": "urn:mavedb:00000371-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000370-a-1",
+   "pos": 58,
+   "rho_control": 0.29289,
+   "rho_test": 0.96324,
+   "target": "Protein LG",
+   "via": "urn:mavedb:00000371-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000370-a-1",
+   "pos": 58,
+   "rho_control": 0.39951,
+   "rho_test": 0.95588,
+   "target": "Protein LG",
+   "via": "urn:mavedb:00000371-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000370-a-1",
+   "pos": 38,
+   "rho_control": 0.26522,
+   "rho_test": 0.79567,
+   "target": "Protein LG",
+   "via": "urn:mavedb:00000372-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000370-a-1",
+   "pos": 38,
+   "rho_control": 0.51187,
+   "rho_test": 0.67595,
+   "target": "Protein LG",
+   "via": "urn:mavedb:00000372-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000370-a-1",
+   "pos": 38,
+   "rho_control": 0.3808,
+   "rho_test": 0.81011,
+   "target": "Protein LG",
+   "via": "urn:mavedb:00000372-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000370-a-2",
+   "pos": 58,
+   "rho_control": 0.58578,
+   "rho_test": 0.92402,
+   "target": "Protein LG",
+   "via": "urn:mavedb:00000371-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000370-a-2",
+   "pos": 58,
+   "rho_control": 0.65319,
+   "rho_test": 0.97059,
+   "target": "Protein LG",
+   "via": "urn:mavedb:00000371-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000370-a-2",
+   "pos": 58,
+   "rho_control": 0.53064,
+   "rho_test": 0.99265,
+   "target": "Protein LG",
+   "via": "urn:mavedb:00000371-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000370-a-2",
+   "pos": 38,
+   "rho_control": 0.73787,
+   "rho_test": 0.97317,
+   "target": "Protein LG",
+   "via": "urn:mavedb:00000372-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000370-a-2",
+   "pos": 38,
+   "rho_control": 0.65428,
+   "rho_test": 0.85139,
+   "target": "Protein LG",
+   "via": "urn:mavedb:00000372-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000370-a-2",
+   "pos": 38,
+   "rho_control": 0.66563,
+   "rho_test": 0.96078,
+   "target": "Protein LG",
+   "via": "urn:mavedb:00000372-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000375-0-1",
+   "pos": 60,
+   "rho_control": 0.82559,
+   "rho_test": 0.99174,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000376-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000375-0-1",
+   "pos": 60,
+   "rho_control": 0.82663,
+   "rho_test": 0.98762,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000376-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000375-0-1",
+   "pos": 60,
+   "rho_control": 0.81218,
+   "rho_test": 0.99174,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000376-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000375-0-1",
+   "pos": 41,
+   "rho_control": 0.81837,
+   "rho_test": 0.98142,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000377-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000375-0-1",
+   "pos": 41,
+   "rho_control": 0.77709,
+   "rho_test": 0.98968,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000377-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000375-0-1",
+   "pos": 41,
+   "rho_control": 0.75439,
+   "rho_test": 0.97523,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000377-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000375-a-1",
+   "pos": 60,
+   "rho_control": 0.76058,
+   "rho_test": 0.98555,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000376-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000375-a-1",
+   "pos": 60,
+   "rho_control": 0.7451,
+   "rho_test": 0.96904,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000376-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000375-a-1",
+   "pos": 60,
+   "rho_control": 0.77606,
+   "rho_test": 0.98555,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000376-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000375-a-1",
+   "pos": 41,
+   "rho_control": 0.73375,
+   "rho_test": 0.98349,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000377-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000375-a-1",
+   "pos": 41,
+   "rho_control": 0.74819,
+   "rho_test": 0.98762,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000377-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000375-a-1",
+   "pos": 41,
+   "rho_control": 0.77709,
+   "rho_test": 0.9773,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000377-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000375-a-2",
+   "pos": 60,
+   "rho_control": 0.81011,
+   "rho_test": 0.99381,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000376-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000375-a-2",
+   "pos": 60,
+   "rho_control": 0.80186,
+   "rho_test": 0.98555,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000376-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000375-a-2",
+   "pos": 60,
+   "rho_control": 0.81115,
+   "rho_test": 0.99381,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000376-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000375-a-2",
+   "pos": 41,
+   "rho_control": 0.82456,
+   "rho_test": 0.97523,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000377-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000375-a-2",
+   "pos": 41,
+   "rho_control": 0.81011,
+   "rho_test": 0.99381,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000377-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000375-a-2",
+   "pos": 41,
+   "rho_control": 0.80083,
+   "rho_test": 0.96904,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000377-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000409-0-1",
+   "pos": 51,
+   "rho_control": 0.88235,
+   "rho_test": 0.97317,
+   "target": "SRC",
+   "via": "urn:mavedb:00000410-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000409-0-1",
+   "pos": 51,
+   "rho_control": 0.85243,
+   "rho_test": 0.94427,
+   "target": "SRC",
+   "via": "urn:mavedb:00000410-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000409-0-1",
+   "pos": 51,
+   "rho_control": 0.85139,
+   "rho_test": 0.95459,
+   "target": "SRC",
+   "via": "urn:mavedb:00000410-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000409-0-1",
+   "pos": 37,
+   "rho_control": 0.90931,
+   "rho_test": 0.99755,
+   "target": "SRC",
+   "via": "urn:mavedb:00000411-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000409-0-1",
+   "pos": 37,
+   "rho_control": 0.88358,
+   "rho_test": 0.9951,
+   "target": "SRC",
+   "via": "urn:mavedb:00000411-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000409-0-1",
+   "pos": 37,
+   "rho_control": 0.85907,
+   "rho_test": 0.99755,
+   "target": "SRC",
+   "via": "urn:mavedb:00000411-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000409-a-1",
+   "pos": 51,
+   "rho_control": 0.76161,
+   "rho_test": 0.86171,
+   "target": "SRC",
+   "via": "urn:mavedb:00000410-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000409-a-1",
+   "pos": 51,
+   "rho_control": 0.67802,
+   "rho_test": 0.89886,
+   "target": "SRC",
+   "via": "urn:mavedb:00000410-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000409-a-1",
+   "pos": 51,
+   "rho_control": 0.76161,
+   "rho_test": 0.8968,
+   "target": "SRC",
+   "via": "urn:mavedb:00000410-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000409-a-1",
+   "pos": 37,
+   "rho_control": 0.73775,
+   "rho_test": 0.9951,
+   "target": "SRC",
+   "via": "urn:mavedb:00000411-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000409-a-1",
+   "pos": 37,
+   "rho_control": 0.69975,
+   "rho_test": 0.99755,
+   "target": "SRC",
+   "via": "urn:mavedb:00000411-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000409-a-1",
+   "pos": 37,
+   "rho_control": 0.71446,
+   "rho_test": 0.9951,
+   "target": "SRC",
+   "via": "urn:mavedb:00000411-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000409-a-2",
+   "pos": 51,
+   "rho_control": 0.8452,
+   "rho_test": 0.91125,
+   "target": "SRC",
+   "via": "urn:mavedb:00000410-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000409-a-2",
+   "pos": 51,
+   "rho_control": 0.85862,
+   "rho_test": 0.88235,
+   "target": "SRC",
+   "via": "urn:mavedb:00000410-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000409-a-2",
+   "pos": 51,
+   "rho_control": 0.86068,
+   "rho_test": 0.94634,
+   "target": "SRC",
+   "via": "urn:mavedb:00000410-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000409-a-2",
+   "pos": 37,
+   "rho_control": 0.84191,
+   "rho_test": 0.99265,
+   "target": "SRC",
+   "via": "urn:mavedb:00000411-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000409-a-2",
+   "pos": 37,
+   "rho_control": 0.8848,
+   "rho_test": 0.9951,
+   "target": "SRC",
+   "via": "urn:mavedb:00000411-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000409-a-2",
+   "pos": 37,
+   "rho_control": 0.88358,
+   "rho_test": 0.99265,
+   "target": "SRC",
+   "via": "urn:mavedb:00000411-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000413-0-1",
+   "pos": 10,
+   "rho_control": 0.94427,
+   "rho_test": 0.97317,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000414-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000413-0-1",
+   "pos": 10,
+   "rho_control": 0.94221,
+   "rho_test": 0.97936,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000414-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000413-0-1",
+   "pos": 10,
+   "rho_control": 0.9257,
+   "rho_test": 0.96078,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000414-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000413-0-1",
+   "pos": 24,
+   "rho_control": 0.80908,
+   "rho_test": 0.95046,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000415-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000413-0-1",
+   "pos": 24,
+   "rho_control": 0.77193,
+   "rho_test": 0.95872,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000415-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000413-0-1",
+   "pos": 24,
+   "rho_control": 0.79051,
+   "rho_test": 0.96491,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000415-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000413-a-1",
+   "pos": 10,
+   "rho_control": 0.91022,
+   "rho_test": 0.96078,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000414-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000413-a-1",
+   "pos": 10,
+   "rho_control": 0.90299,
+   "rho_test": 0.96698,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000414-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000413-a-1",
+   "pos": 10,
+   "rho_control": 0.86378,
+   "rho_test": 0.96904,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000414-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000413-a-1",
+   "pos": 24,
+   "rho_control": 0.66563,
+   "rho_test": 0.95666,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000415-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000413-a-1",
+   "pos": 24,
+   "rho_control": 0.69969,
+   "rho_test": 0.96698,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000415-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000413-a-1",
+   "pos": 24,
+   "rho_control": 0.65944,
+   "rho_test": 0.95666,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000415-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000413-a-2",
+   "pos": 10,
+   "rho_control": 0.92157,
+   "rho_test": 0.95666,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000414-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000413-a-2",
+   "pos": 10,
+   "rho_control": 0.92363,
+   "rho_test": 0.96904,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000414-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000413-a-2",
+   "pos": 10,
+   "rho_control": 0.92054,
+   "rho_test": 0.96078,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000414-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000413-a-2",
+   "pos": 24,
+   "rho_control": 0.78638,
+   "rho_test": 0.95046,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000415-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000413-a-2",
+   "pos": 24,
+   "rho_control": 0.78019,
+   "rho_test": 0.96285,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000415-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000413-a-2",
+   "pos": 24,
+   "rho_control": 0.81424,
+   "rho_test": 0.96698,
+   "target": "SPTAN1",
+   "via": "urn:mavedb:00000415-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000416-0-1",
+   "pos": 66,
+   "rho_control": -0.06295,
+   "rho_test": 0.70072,
+   "target": "O59021_PYRHO",
+   "via": "urn:mavedb:00000417-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000416-0-1",
+   "pos": 66,
+   "rho_control": -0.06089,
+   "rho_test": 0.75026,
+   "target": "O59021_PYRHO",
+   "via": "urn:mavedb:00000417-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000416-0-1",
+   "pos": 66,
+   "rho_control": -0.0547,
+   "rho_test": 0.5934,
+   "target": "O59021_PYRHO",
+   "via": "urn:mavedb:00000417-a-2"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000416-0-1",
+   "pos": 60,
+   "rho_control": -0.03509,
+   "rho_test": 0.32714,
+   "target": "O59021_PYRHO",
+   "via": "urn:mavedb:00000418-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000416-0-1",
+   "pos": 60,
+   "rho_control": 0.05366,
+   "rho_test": 0.62642,
+   "target": "O59021_PYRHO",
+   "via": "urn:mavedb:00000418-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000416-0-1",
+   "pos": 60,
+   "rho_control": -0.06914,
+   "rho_test": 0.66151,
+   "target": "O59021_PYRHO",
+   "via": "urn:mavedb:00000418-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000416-a-1",
+   "pos": 66,
+   "rho_control": -0.02786,
+   "rho_test": 0.52528,
+   "target": "O59021_PYRHO",
+   "via": "urn:mavedb:00000417-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000416-a-1",
+   "pos": 66,
+   "rho_control": -0.0258,
+   "rho_test": 0.88648,
+   "target": "O59021_PYRHO",
+   "via": "urn:mavedb:00000417-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000416-a-1",
+   "pos": 66,
+   "rho_control": 0.01548,
+   "rho_test": 0.57482,
+   "target": "O59021_PYRHO",
+   "via": "urn:mavedb:00000417-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000416-a-1",
+   "pos": 60,
+   "rho_control": -0.00516,
+   "rho_test": 0.26729,
+   "target": "O59021_PYRHO",
+   "via": "urn:mavedb:00000418-0-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000416-a-1",
+   "pos": 60,
+   "rho_control": 0.03922,
+   "rho_test": 0.71517,
+   "target": "O59021_PYRHO",
+   "via": "urn:mavedb:00000418-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000416-a-1",
+   "pos": 60,
+   "rho_control": 0.0258,
+   "rho_test": 0.45098,
+   "target": "O59021_PYRHO",
+   "via": "urn:mavedb:00000418-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000416-a-2",
+   "pos": 66,
+   "rho_control": 0.01858,
+   "rho_test": 0.71104,
+   "target": "O59021_PYRHO",
+   "via": "urn:mavedb:00000417-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000416-a-2",
+   "pos": 66,
+   "rho_control": -0.02786,
+   "rho_test": 0.67389,
+   "target": "O59021_PYRHO",
+   "via": "urn:mavedb:00000417-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000416-a-2",
+   "pos": 66,
+   "rho_control": 0.02993,
+   "rho_test": 0.70485,
+   "target": "O59021_PYRHO",
+   "via": "urn:mavedb:00000417-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000416-a-2",
+   "pos": 60,
+   "rho_control": -0.00413,
+   "rho_test": 0.22394,
+   "target": "O59021_PYRHO",
+   "via": "urn:mavedb:00000418-0-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000416-a-2",
+   "pos": 60,
+   "rho_control": -0.00619,
+   "rho_test": 0.7193,
+   "target": "O59021_PYRHO",
+   "via": "urn:mavedb:00000418-a-1"
+  },
+  {
+   "assay": "same assay",
+   "assay_basis": "one score set title",
+   "from": "urn:mavedb:00000416-a-2",
+   "pos": 60,
+   "rho_control": 0.12281,
+   "rho_test": 0.49639,
+   "target": "O59021_PYRHO",
+   "via": "urn:mavedb:00000418-a-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000830-a-1",
+   "pos": 4,
+   "rho_control": 0.69866,
+   "rho_test": 1.0,
+   "target": "GLI1 Zinc finger C2H2-type domain",
+   "via": "urn:mavedb:00000832-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000831-a-1",
+   "pos": 1,
+   "rho_control": 0.70691,
+   "rho_test": 1.0,
+   "target": "GLI2 Zinc finger C2H2-type domain",
+   "via": "urn:mavedb:00000832-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000967-a-1",
+   "pos": 9,
+   "rho_control": 0.50877,
+   "rho_test": 1.0,
+   "target": "POU2F1 POU-specific domain",
+   "via": "urn:mavedb:00000968-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00000971-a-1",
+   "pos": 31,
+   "rho_control": 0.5418,
+   "rho_test": 1.0,
+   "target": "POU3F2 Homeobox domain",
+   "via": "urn:mavedb:00000973-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00001050-a-1",
+   "pos": 7,
+   "rho_control": 0.57482,
+   "rho_test": 1.0,
+   "target": "SIX1 Homeobox domain",
+   "via": "urn:mavedb:00001051-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00001052-a-1",
+   "pos": 8,
+   "rho_control": 0.53251,
+   "rho_test": 1.0,
+   "target": "SIX3 Homeobox domain",
+   "via": "urn:mavedb:00001053-a-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00001214-b-1",
+   "pos": 25,
+   "rho_control": 0.62436,
+   "rho_test": -0.10836,
+   "target": "S505N MPL",
+   "via": "urn:mavedb:00001214-c-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00001214-b-1",
+   "pos": 25,
+   "rho_control": 0.57998,
+   "rho_test": -0.19298,
+   "target": "S505N MPL",
+   "via": "urn:mavedb:00001214-d-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00001214-b-1",
+   "pos": 25,
+   "rho_control": 0.56037,
+   "rho_test": -0.29825,
+   "target": "S505N MPL",
+   "via": "urn:mavedb:00001214-f-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00001214-b-1",
+   "pos": 25,
+   "rho_control": 0.54283,
+   "rho_test": -0.19092,
+   "target": "S505N MPL",
+   "via": "urn:mavedb:00001214-g-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00001214-b-1",
+   "pos": 25,
+   "rho_control": 0.516,
+   "rho_test": -0.36429,
+   "target": "S505N MPL",
+   "via": "urn:mavedb:00001214-h-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00001214-b-1",
+   "pos": 25,
+   "rho_control": 0.48504,
+   "rho_test": -0.32095,
+   "target": "S505N MPL",
+   "via": "urn:mavedb:00001214-i-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00001214-b-1",
+   "pos": 25,
+   "rho_control": 0.42621,
+   "rho_test": -0.24458,
+   "target": "S505N MPL",
+   "via": "urn:mavedb:00001214-j-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00001214-b-1",
+   "pos": 25,
+   "rho_control": 0.43653,
+   "rho_test": -0.28173,
+   "target": "S505N MPL",
+   "via": "urn:mavedb:00001214-l-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00001214-b-1",
+   "pos": 25,
+   "rho_control": 0.53664,
+   "rho_test": -0.25077,
+   "target": "S505N MPL",
+   "via": "urn:mavedb:00001214-n-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00001214-b-1",
+   "pos": 25,
+   "rho_control": 0.58101,
+   "rho_test": -0.07946,
+   "target": "S505N MPL",
+   "via": "urn:mavedb:00001214-o-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00001214-b-1",
+   "pos": 25,
+   "rho_control": 0.62539,
+   "rho_test": -0.31063,
+   "target": "S505N MPL",
+   "via": "urn:mavedb:00001214-p-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00001214-c-1",
+   "pos": 25,
+   "rho_control": 0.3581,
+   "rho_test": 0.3581,
+   "target": "MPL",
+   "via": "urn:mavedb:00001214-e-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00001214-c-1",
+   "pos": 35,
+   "rho_control": 0.60907,
+   "rho_test": 0.0,
+   "target": "MPL",
+   "via": "urn:mavedb:00001214-k-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00001214-c-1",
+   "pos": 35,
+   "rho_control": 0.43873,
+   "rho_test": 0.45343,
+   "target": "MPL",
+   "via": "urn:mavedb:00001214-m-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00001214-d-2",
+   "pos": 25,
+   "rho_control": 0.45408,
+   "rho_test": 0.55212,
+   "target": "MPL",
+   "via": "urn:mavedb:00001214-e-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00001214-d-2",
+   "pos": 35,
+   "rho_control": 0.66667,
+   "rho_test": -0.23013,
+   "target": "MPL",
+   "via": "urn:mavedb:00001214-k-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00001214-d-2",
+   "pos": 35,
+   "rho_control": 0.37049,
+   "rho_test": 0.46336,
+   "target": "MPL",
+   "via": "urn:mavedb:00001214-m-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00001214-e-2",
+   "pos": 25,
+   "rho_control": 0.34675,
+   "rho_test": 0.31889,
+   "target": "S505N MPL",
+   "via": "urn:mavedb:00001214-f-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00001214-e-2",
+   "pos": 25,
+   "rho_control": 0.36636,
+   "rho_test": 0.67802,
+   "target": "S505N MPL",
+   "via": "urn:mavedb:00001214-g-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00001214-e-2",
+   "pos": 25,
+   "rho_control": 0.45201,
+   "rho_test": 0.75645,
+   "target": "S505N MPL",
+   "via": "urn:mavedb:00001214-h-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00001214-e-2",
+   "pos": 25,
+   "rho_control": 0.54489,
+   "rho_test": 0.77503,
+   "target": "S505N MPL",
+   "via": "urn:mavedb:00001214-i-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00001214-e-2",
+   "pos": 25,
+   "rho_control": 0.64087,
+   "rho_test": 0.90093,
+   "target": "S505N MPL",
+   "via": "urn:mavedb:00001214-j-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00001214-e-2",
+   "pos": 25,
+   "rho_control": 0.13313,
+   "rho_test": 0.58514,
+   "target": "S505N MPL",
+   "via": "urn:mavedb:00001214-l-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00001214-e-2",
+   "pos": 25,
+   "rho_control": 0.51496,
+   "rho_test": 0.74407,
+   "target": "S505N MPL",
+   "via": "urn:mavedb:00001214-n-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00001214-e-2",
+   "pos": 25,
+   "rho_control": 0.37874,
+   "rho_test": 0.50671,
+   "target": "S505N MPL",
+   "via": "urn:mavedb:00001214-o-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00001214-e-2",
+   "pos": 25,
+   "rho_control": 0.516,
+   "rho_test": 0.63674,
+   "target": "S505N MPL",
+   "via": "urn:mavedb:00001214-p-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00001214-f-2",
+   "pos": 35,
+   "rho_control": 0.53664,
+   "rho_test": 0.07121,
+   "target": "MPL",
+   "via": "urn:mavedb:00001214-k-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00001214-f-2",
+   "pos": 35,
+   "rho_control": 0.39525,
+   "rho_test": 0.49226,
+   "target": "MPL",
+   "via": "urn:mavedb:00001214-m-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00001214-g-1",
+   "pos": 35,
+   "rho_control": 0.50052,
+   "rho_test": 0.54386,
+   "target": "MPL",
+   "via": "urn:mavedb:00001214-k-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00001214-g-1",
+   "pos": 35,
+   "rho_control": 0.24974,
+   "rho_test": 0.30444,
+   "target": "MPL",
+   "via": "urn:mavedb:00001214-m-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00001214-h-1",
+   "pos": 35,
+   "rho_control": 0.62377,
+   "rho_test": 0.07598,
+   "target": "MPL",
+   "via": "urn:mavedb:00001214-k-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00001214-h-1",
+   "pos": 35,
+   "rho_control": 0.33946,
+   "rho_test": 0.47549,
+   "target": "MPL",
+   "via": "urn:mavedb:00001214-m-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00001214-i-1",
+   "pos": 35,
+   "rho_control": 0.50464,
+   "rho_test": 0.36429,
+   "target": "MPL",
+   "via": "urn:mavedb:00001214-k-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00001214-i-1",
+   "pos": 35,
+   "rho_control": 0.55934,
+   "rho_test": 0.11042,
+   "target": "MPL",
+   "via": "urn:mavedb:00001214-m-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00001214-j-1",
+   "pos": 35,
+   "rho_control": 0.44892,
+   "rho_test": -0.03199,
+   "target": "MPL",
+   "via": "urn:mavedb:00001214-k-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00001214-j-1",
+   "pos": 35,
+   "rho_control": 0.55831,
+   "rho_test": 0.59959,
+   "target": "MPL",
+   "via": "urn:mavedb:00001214-m-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00001214-k-2",
+   "pos": 35,
+   "rho_control": 0.55025,
+   "rho_test": 0.34559,
+   "target": "W515K MPL",
+   "via": "urn:mavedb:00001214-l-2"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00001214-k-2",
+   "pos": 35,
+   "rho_control": 0.54076,
+   "rho_test": 0.34365,
+   "target": "W515K MPL",
+   "via": "urn:mavedb:00001214-n-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00001214-k-2",
+   "pos": 35,
+   "rho_control": 0.55624,
+   "rho_test": 0.39319,
+   "target": "W515K MPL",
+   "via": "urn:mavedb:00001214-o-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00001214-k-2",
+   "pos": 35,
+   "rho_control": 0.69247,
+   "rho_test": -0.56244,
+   "target": "W515K MPL",
+   "via": "urn:mavedb:00001214-p-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00001214-l-2",
+   "pos": 35,
+   "rho_control": 0.23162,
+   "rho_test": 0.27696,
+   "target": "MPL",
+   "via": "urn:mavedb:00001214-m-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00001214-m-1",
+   "pos": 35,
+   "rho_control": 0.45408,
+   "rho_test": 0.1806,
+   "target": "W515K MPL",
+   "via": "urn:mavedb:00001214-n-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00001214-m-1",
+   "pos": 35,
+   "rho_control": 0.3323,
+   "rho_test": 0.47575,
+   "target": "W515K MPL",
+   "via": "urn:mavedb:00001214-o-1"
+  },
+  {
+   "assay": "different assay",
+   "assay_basis": "titles differ",
+   "from": "urn:mavedb:00001214-m-1",
+   "pos": 35,
+   "rho_control": 0.5418,
+   "rho_test": 0.42002,
+   "target": "W515K MPL",
+   "via": "urn:mavedb:00001214-p-1"
+  }
+ ],
+ "rule": [
+  "two deposits of one MaveDB experiment are one assay",
+  "two deposits whose score set titles agree once the target name is removed are one assay",
+  "anything else is counted as a different assay, and a pair whose title is empty after the removal is undetermined"
+ ],
+ "same_assay_basis": {
+  "one experiment": 1,
+  "one score set title": 222
+ },
+ "targets_failing_0.9": [
+  "Ice-structuring protein RD1",
+  "TEM-1 \u03b2-lactamase",
+  "TEM-19 \u03b2-lactamase",
+  "S505N MPL",
+  "MPL",
+  "W515K MPL",
+  "O59021_PYRHO",
+  "cspA Cold-shock protein, DNA-binding domain",
+  "cspB Cold-shock protein, DNA-binding domain",
+  "spa",
+  "Ice-structuring protein",
+  "rplI"
+ ],
+ "targets_passing_0.9": [
+  "cspLA",
+  "cspA",
+  "DUF4651 domain-containing protein",
+  "TEM-15 \u03b2-lactamase",
+  "TEM-17 \u03b2-lactamase",
+  "Ice-structuring protein SP2",
+  "N-acetylglucosaminidase",
+  "Protein LG",
+  "NfeD domain-containing protein",
+  "Autolysin",
+  "spg",
+  "cylR2",
+  "FYN SH3 domain",
+  "SPTAN1",
+  "cspB",
+  "UBC",
+  "sso7d",
+  "Cold shock-like protein CspA",
+  "O26789_METTH",
+  "SRC",
+  "Uncharacterized protein MJ1198",
+  "entD",
+  "NPHP1",
+  "GLI1 Zinc finger C2H2-type domain",
+  "GLI3 Zinc finger C2H2-type domain",
+  "GLI2 Zinc finger C2H2-type domain",
+  "POU2F1 POU-specific domain",
+  "POU2F2 POU-specific domain",
+  "POU3F2 Homeobox domain",
+  "POU3F3 Homeobox domain",
+  "SIX1 Homeobox domain",
+  "SIX2 Homeobox domain",
+  "SIX3 Homeobox domain",
+  "SIX6 Homeobox domain"
+ ]
+}

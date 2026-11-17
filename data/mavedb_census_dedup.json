@@ -1,0 +1,11 @@
+{
+ "background_pairs_by_sequence": 568,
+ "census_rows": 49562,
+ "deduplicated_routes": 102421,
+ "deduplicated_routes_via_alanine": 12230,
+ "note": "a route fan is one sequence pair at one position in one direction; its count is the largest achieved by any of the redundant score-set pairings that realise it",
+ "protein_clusters": 65,
+ "route_fans": 5847,
+ "route_fans_via_alanine": 693,
+ "score_sets_unmappable": []
+}

@@ -1,0 +1,29 @@
+{
+ "basis": "deduplicated route fans, one per sequence pair, position and pair of parental residues, as in 09_dedup_census.py",
+ "code_distribution": {
+  "1": 150,
+  "2": 202,
+  "3": 28
+ },
+ "code_pairs_total": 380,
+ "code_pairs_two_or_more": 230,
+ "direct_base_changes": {
+  "1": 42065,
+  "2": 57742,
+  "3": 5439
+ },
+ "direct_two_or_more": 63181,
+ "direct_two_or_more_fraction": 0.6003,
+ "first_leg_base_changes": {
+  "1": 4108,
+  "2": 1705,
+  "3": 34
+ },
+ "opened_by_the_route": 20073,
+ "opened_fraction": 0.1907,
+ "route_fans": 5847,
+ "route_fans_raw_census_rows": 47782,
+ "target_slots": 105246,
+ "two_via_one_and_one": 15478,
+ "two_via_one_and_one_fraction": 0.1471
+}

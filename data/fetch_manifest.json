@@ -1,0 +1,154 @@
+{
+ "api": "https://api.mavedb.org/api/v1/score-sets/",
+ "sets": [
+  {
+   "background": "Wuhan",
+   "bytes": 503013,
+   "columns": [
+    "accession",
+    "hgvs_nt",
+    "hgvs_splice",
+    "hgvs_pro",
+    "score",
+    "average",
+    "library"
+   ],
+   "data_rows": 8040,
+   "file": "data/scores_urn_mavedb_00000044-a-1.csv",
+   "md5": "34b61ccd4e408779ad0e447052e15bdd",
+   "num_variants_declared": 8040,
+   "phenotype": "binding",
+   "target_name": "SARS-CoV-2 receptor binding domain",
+   "urn": "urn:mavedb:00000044-a-1"
+  },
+  {
+   "background": "Wuhan",
+   "bytes": 505486,
+   "columns": [
+    "accession",
+    "hgvs_nt",
+    "hgvs_splice",
+    "hgvs_pro",
+    "score",
+    "average",
+    "library"
+   ],
+   "data_rows": 8040,
+   "file": "data/scores_urn_mavedb_00000044-b-2.csv",
+   "md5": "e0101efe13d31aeb62010803bad158ed",
+   "num_variants_declared": 8040,
+   "phenotype": "expression",
+   "target_name": "SARS-CoV-2 receptor binding domain",
+   "urn": "urn:mavedb:00000044-b-2"
+  },
+  {
+   "background": "BA.1",
+   "bytes": 323306,
+   "columns": [
+    "accession",
+    "hgvs_nt",
+    "hgvs_splice",
+    "hgvs_pro",
+    "score",
+    "bind",
+    "n_bc_bind",
+    "n_libs_bind",
+    "bind_rep1",
+    "bind_rep2"
+   ],
+   "data_rows": 3819,
+   "file": "data/scores_urn_mavedb_00000668-a-1.csv",
+   "md5": "23e77d97df94b0234dedfa65e9e54f8f",
+   "num_variants_declared": 3819,
+   "phenotype": "binding",
+   "target_name": "SARS-CoV-2 Omicron BA.1 receptor binding domain",
+   "urn": "urn:mavedb:00000668-a-1"
+  },
+  {
+   "background": "BA.1",
+   "bytes": 323400,
+   "columns": [
+    "accession",
+    "hgvs_nt",
+    "hgvs_splice",
+    "hgvs_pro",
+    "score",
+    "expr",
+    "n_bc_expr",
+    "n_libs_expr",
+    "expr_rep1",
+    "expr_rep2"
+   ],
+   "data_rows": 3819,
+   "file": "data/scores_urn_mavedb_00000669-a-1.csv",
+   "md5": "e463aaeab2d6534a15e260081302fc3b",
+   "num_variants_declared": 3819,
+   "phenotype": "expression",
+   "target_name": "SARS-CoV-2 Omicron BA.1 receptor binding domain",
+   "urn": "urn:mavedb:00000669-a-1"
+  },
+  {
+   "background": "BA.2",
+   "bytes": 339562,
+   "columns": [
+    "accession",
+    "hgvs_nt",
+    "hgvs_splice",
+    "hgvs_pro",
+    "score",
+    "bind",
+    "n_bc_bind",
+    "n_libs_bind",
+    "bind_rep1",
+    "bind_rep2"
+   ],
+   "data_rows": 4020,
+   "file": "data/scores_urn_mavedb_00000670-a-1.csv",
+   "md5": "d49e4b6b6865698196ea6fef5d53699e",
+   "num_variants_declared": 4020,
+   "phenotype": "binding",
+   "target_name": "SARS-CoV-2 Omicron BA.2 receptor binding domain",
+   "urn": "urn:mavedb:00000670-a-1"
+  },
+  {
+   "background": "BA.2",
+   "bytes": 339865,
+   "columns": [
+    "accession",
+    "hgvs_nt",
+    "hgvs_splice",
+    "hgvs_pro",
+    "score",
+    "expr",
+    "n_bc_expr",
+    "n_libs_expr",
+    "expr_rep1",
+    "expr_rep2"
+   ],
+   "data_rows": 4020,
+   "file": "data/scores_urn_mavedb_00000671-a-1.csv",
+   "md5": "e9dc5bef4ab3db85acb98979610b00e8",
+   "num_variants_declared": 4020,
+   "phenotype": "expression",
+   "target_name": "SARS-CoV-2 Omicron BA.2 receptor binding domain",
+   "urn": "urn:mavedb:00000671-a-1"
+  }
+ ],
+ "targets": {
+  "BA.1": {
+   "file": "data/target_BA1.txt",
+   "md5": "0d1ed101f601779fccafb9fd5b09c191",
+   "nt_length": 603
+  },
+  "BA.2": {
+   "file": "data/target_BA2.txt",
+   "md5": "c3558db3663c6ce805e9b973ba3ef46b",
+   "nt_length": 603
+  },
+  "Wuhan": {
+   "file": "data/target_Wuhan.txt",
+   "md5": "6086e0fe7540b67d6fcbd57622866f5c",
+   "nt_length": 603
+  }
+ }
+}

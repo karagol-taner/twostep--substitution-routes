@@ -1,0 +1,32 @@
+{
+ "by_phenotype": [
+  {
+   "cells": 37,
+   "departing": 0,
+   "departing_spike_positions": [],
+   "median_null_rho": 0.7772,
+   "median_rho": 0.6915,
+   "phenotype": "binding"
+  },
+  {
+   "cells": 37,
+   "departing": 1,
+   "departing_spike_positions": [
+    371
+   ],
+   "median_null_rho": 0.8197,
+   "median_rho": 0.8052,
+   "phenotype": "expression"
+  }
+ ],
+ "calibration_draws": 74,
+ "calibration_rejection_at_nominal_05": 0.027,
+ "cells": 74,
+ "departing": 1,
+ "departing_spike_positions_either_phenotype": [
+  371
+ ],
+ "draws": 10000,
+ "min_targets": 6,
+ "seed": 20261111
+}

@@ -1,0 +1,42 @@
+{
+ "BA.1|binding": {
+  "column": "bind",
+  "constant_offset": false,
+  "max_deviation_from_median": 0.01724,
+  "n_rows_compared": 3819,
+  "n_rows_outside_tolerance": 1,
+  "parental_absolute": 9.22224,
+  "relation": "offset varies by more than the tolerance",
+  "tolerance": 0.005
+ },
+ "BA.1|expression": {
+  "column": "expr",
+  "constant_offset": true,
+  "max_deviation_from_median": 5e-05,
+  "n_rows_compared": 3819,
+  "n_rows_outside_tolerance": 0,
+  "parental_absolute": 9.73227,
+  "relation": "absolute = parental + delta, to within the deposited rounding",
+  "tolerance": 0.005
+ },
+ "BA.2|binding": {
+  "column": "bind",
+  "constant_offset": false,
+  "max_deviation_from_median": 0.01714,
+  "n_rows_compared": 4002,
+  "n_rows_outside_tolerance": 1,
+  "parental_absolute": 9.25549,
+  "relation": "offset varies by more than the tolerance",
+  "tolerance": 0.005
+ },
+ "BA.2|expression": {
+  "column": "expr",
+  "constant_offset": false,
+  "max_deviation_from_median": 0.02592,
+  "n_rows_compared": 4002,
+  "n_rows_outside_tolerance": 1,
+  "parental_absolute": 9.85355,
+  "relation": "offset varies by more than the tolerance",
+  "tolerance": 0.005
+ }
+}

@@ -1,0 +1,7 @@
+pair,phenotype,shared_parent_positions,control_substitution_pairs
+BA.1|BA.2,binding,195,3687
+BA.1|BA.2,expression,195,3687
+Wuhan|BA.1,binding,186,3517
+Wuhan|BA.1,expression,186,3513
+Wuhan|BA.2,binding,185,3480
+Wuhan|BA.2,expression,185,3476

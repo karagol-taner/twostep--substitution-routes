@@ -1,0 +1,1329 @@
+{
+ "by_threshold": [
+  {
+   "alanine_cells": 599,
+   "both": 19,
+   "by_system": [
+    {
+     "cells": 1544,
+     "magnitude_departing": 1479,
+     "median_abs_residual": 2.4413,
+     "median_residual_null": 0.2657,
+     "median_rho": 0.8429,
+     "median_rho_null": 0.826,
+     "rank_departing": 5,
+     "system": "protein G"
+    },
+    {
+     "cells": 1264,
+     "magnitude_departing": 1239,
+     "median_abs_residual": 2.2823,
+     "median_residual_null": 0.2268,
+     "median_rho": 0.6275,
+     "median_rho_null": 0.5664,
+     "rank_departing": 6,
+     "system": "ice-structuring protein"
+    },
+    {
+     "cells": 423,
+     "magnitude_departing": 374,
+     "median_abs_residual": 1.6198,
+     "median_residual_null": 0.276,
+     "median_rho": 0.8307,
+     "median_rho_null": 0.8349,
+     "rank_departing": 0,
+     "system": "SPTAN1"
+    },
+    {
+     "cells": 244,
+     "magnitude_departing": 28,
+     "median_abs_residual": 0.1523,
+     "median_residual_null": 0.1554,
+     "median_rho": 0.4923,
+     "median_rho_null": 0.4923,
+     "rank_departing": 2,
+     "system": "homeobox domain"
+    },
+    {
+     "cells": 213,
+     "magnitude_departing": 186,
+     "median_abs_residual": 2.8056,
+     "median_residual_null": 0.2291,
+     "median_rho": 0.7157,
+     "median_rho_null": 0.6118,
+     "rank_departing": 1,
+     "system": "spa"
+    },
+    {
+     "cells": 165,
+     "magnitude_departing": 148,
+     "median_abs_residual": 1.7688,
+     "median_residual_null": 0.1593,
+     "median_rho": 0.7,
+     "median_rho_null": 0.5417,
+     "rank_departing": 1,
+     "system": "affibody"
+    },
+    {
+     "cells": 161,
+     "magnitude_departing": 152,
+     "median_abs_residual": 2.1605,
+     "median_residual_null": 0.2541,
+     "median_rho": 0.6698,
+     "median_rho_null": 0.5955,
+     "rank_departing": 4,
+     "system": "ubiquitin"
+    },
+    {
+     "cells": 149,
+     "magnitude_departing": 149,
+     "median_abs_residual": 2.3657,
+     "median_residual_null": 0.2247,
+     "median_rho": 0.6177,
+     "median_rho_null": 0.598,
+     "rank_departing": 0,
+     "system": "HPLC 12"
+    },
+    {
+     "cells": 95,
+     "magnitude_departing": 70,
+     "median_abs_residual": 2.737,
+     "median_residual_null": 0.2415,
+     "median_rho": 0.9534,
+     "median_rho_null": 0.8922,
+     "rank_departing": 0,
+     "system": "rplI"
+    },
+    {
+     "cells": 74,
+     "magnitude_departing": 21,
+     "median_abs_residual": 0.2224,
+     "median_residual_null": 0.2608,
+     "median_rho": 0.8406,
+     "median_rho_null": 0.8142,
+     "rank_departing": 0,
+     "system": "SARS-CoV-2 RBD"
+    },
+    {
+     "cells": 63,
+     "magnitude_departing": 63,
+     "median_abs_residual": 0.9358,
+     "median_residual_null": 0.1288,
+     "median_rho": 0.533,
+     "median_rho_null": 0.6485,
+     "rank_departing": 1,
+     "system": "CYP2C"
+    },
+    {
+     "cells": 60,
+     "magnitude_departing": 6,
+     "median_abs_residual": 0.1189,
+     "median_residual_null": 0.1289,
+     "median_rho": 0.3478,
+     "median_rho_null": 0.3518,
+     "rank_departing": 0,
+     "system": "zinc finger"
+    },
+    {
+     "cells": 57,
+     "magnitude_departing": 57,
+     "median_abs_residual": 2.3804,
+     "median_residual_null": 0.1831,
+     "median_rho": 0.5412,
+     "median_rho_null": 0.5542,
+     "rank_departing": 0,
+     "system": "HPLC 12 isoform"
+    },
+    {
+     "cells": 50,
+     "magnitude_departing": 49,
+     "median_abs_residual": 2.4357,
+     "median_residual_null": 0.3854,
+     "median_rho": 0.7724,
+     "median_rho_null": 0.7853,
+     "rank_departing": 0,
+     "system": "U14Ub1"
+    },
+    {
+     "cells": 43,
+     "magnitude_departing": 43,
+     "median_abs_residual": 5.1006,
+     "median_residual_null": 0.2791,
+     "median_rho": 0.7936,
+     "median_rho_null": 0.7513,
+     "rank_departing": 0,
+     "system": "Spectrin alpha, non-erythroc"
+    },
+    {
+     "cells": 30,
+     "magnitude_departing": 26,
+     "median_abs_residual": 2.1141,
+     "median_residual_null": 0.2702,
+     "median_rho": 0.9118,
+     "median_rho_null": 0.852,
+     "rank_departing": 1,
+     "system": "Protein LG"
+    },
+    {
+     "cells": 28,
+     "magnitude_departing": 27,
+     "median_abs_residual": 1.6889,
+     "median_residual_null": 0.1374,
+     "median_rho": 0.9257,
+     "median_rho_null": 0.9179,
+     "rank_departing": 0,
+     "system": "FYN SH3 domain"
+    },
+    {
+     "cells": 16,
+     "magnitude_departing": 15,
+     "median_abs_residual": 0.9642,
+     "median_residual_null": 0.1907,
+     "median_rho": 0.9907,
+     "median_rho_null": 0.8973,
+     "rank_departing": 0,
+     "system": "entD"
+    },
+    {
+     "cells": 13,
+     "magnitude_departing": 10,
+     "median_abs_residual": 1.8344,
+     "median_residual_null": 0.2366,
+     "median_rho": 0.8906,
+     "median_rho_null": 0.8309,
+     "rank_departing": 0,
+     "system": "StoA"
+    },
+    {
+     "cells": 13,
+     "magnitude_departing": 12,
+     "median_abs_residual": 1.5755,
+     "median_residual_null": 0.1808,
+     "median_rho": 0.8906,
+     "median_rho_null": 0.8328,
+     "rank_departing": 0,
+     "system": "StoC"
+    },
+    {
+     "cells": 8,
+     "magnitude_departing": 8,
+     "median_abs_residual": 1.4809,
+     "median_residual_null": 0.2493,
+     "median_rho": 0.9185,
+     "median_rho_null": 0.6863,
+     "rank_departing": 0,
+     "system": "cspB"
+    },
+    {
+     "cells": 8,
+     "magnitude_departing": 8,
+     "median_abs_residual": 3.5162,
+     "median_residual_null": 0.2616,
+     "median_rho": 0.9948,
+     "median_rho_null": 0.8762,
+     "rank_departing": 0,
+     "system": "influenza NP"
+    },
+    {
+     "cells": 8,
+     "magnitude_departing": 7,
+     "median_abs_residual": 2.2379,
+     "median_residual_null": 0.1593,
+     "median_rho": 0.9577,
+     "median_rho_null": 0.6202,
+     "rank_departing": 0,
+     "system": "NfeD domain-containing prote"
+    },
+    {
+     "cells": 8,
+     "magnitude_departing": 7,
+     "median_abs_residual": 1.4749,
+     "median_residual_null": 0.1808,
+     "median_rho": 0.9855,
+     "median_rho_null": 0.8215,
+     "rank_departing": 0,
+     "system": "Uncharacterized protein MJ11"
+    },
+    {
+     "cells": 8,
+     "magnitude_departing": 8,
+     "median_abs_residual": 6.5713,
+     "median_residual_null": 0.2686,
+     "median_rho": 0.9051,
+     "median_rho_null": 0.8462,
+     "rank_departing": 0,
+     "system": "N-acetylglucosaminidase"
+    },
+    {
+     "cells": 8,
+     "magnitude_departing": 6,
+     "median_abs_residual": 1.6522,
+     "median_residual_null": 0.3328,
+     "median_rho": 0.9556,
+     "median_rho_null": 0.8019,
+     "rank_departing": 0,
+     "system": "Cold shock-like protein CspA"
+    },
+    {
+     "cells": 8,
+     "magnitude_departing": 8,
+     "median_abs_residual": 1.5731,
+     "median_residual_null": 0.2035,
+     "median_rho": 0.8916,
+     "median_rho_null": 0.7492,
+     "rank_departing": 0,
+     "system": "cspLA"
+    },
+    {
+     "cells": 8,
+     "magnitude_departing": 8,
+     "median_abs_residual": 1.6588,
+     "median_residual_null": 0.1579,
+     "median_rho": 0.902,
+     "median_rho_null": 0.8555,
+     "rank_departing": 0,
+     "system": "cylR2"
+    },
+    {
+     "cells": 8,
+     "magnitude_departing": 8,
+     "median_abs_residual": 3.4628,
+     "median_residual_null": 0.2032,
+     "median_rho": 0.9682,
+     "median_rho_null": 0.8676,
+     "rank_departing": 0,
+     "system": "SRC"
+    }
+   ],
+   "cells": 36780,
+   "dedup_cells": 4859,
+   "magnitude_departing": 4265,
+   "median_abs_residual": 2.0816,
+   "median_intermediate_cost": 2.1973,
+   "median_residual_null": 0.2305,
+   "median_rho": 0.7317,
+   "median_rho_null": 0.6446,
+   "pairs": 7669,
+   "rank_departing": 24,
+   "systems": 56,
+   "threshold": 0.7
+  },
+  {
+   "alanine_cells": 545,
+   "both": 22,
+   "by_system": [
+    {
+     "cells": 1387,
+     "magnitude_departing": 1330,
+     "median_abs_residual": 2.4102,
+     "median_residual_null": 0.2597,
+     "median_rho": 0.8658,
+     "median_rho_null": 0.8407,
+     "rank_departing": 8,
+     "system": "protein G"
+    },
+    {
+     "cells": 1144,
+     "magnitude_departing": 1135,
+     "median_abs_residual": 2.3018,
+     "median_residual_null": 0.2032,
+     "median_rho": 0.6285,
+     "median_rho_null": 0.5686,
+     "rank_departing": 2,
+     "system": "ice-structuring protein"
+    },
+    {
+     "cells": 423,
+     "magnitude_departing": 379,
+     "median_abs_residual": 1.6715,
+     "median_residual_null": 0.2771,
+     "median_rho": 0.8266,
+     "median_rho_null": 0.8349,
+     "rank_departing": 0,
+     "system": "SPTAN1"
+    },
+    {
+     "cells": 213,
+     "magnitude_departing": 187,
+     "median_abs_residual": 2.8422,
+     "median_residual_null": 0.2305,
+     "median_rho": 0.7029,
+     "median_rho_null": 0.6128,
+     "rank_departing": 1,
+     "system": "spa"
+    },
+    {
+     "cells": 165,
+     "magnitude_departing": 152,
+     "median_abs_residual": 1.99,
+     "median_residual_null": 0.1629,
+     "median_rho": 0.674,
+     "median_rho_null": 0.5343,
+     "rank_departing": 1,
+     "system": "affibody"
+    },
+    {
+     "cells": 143,
+     "magnitude_departing": 143,
+     "median_abs_residual": 2.3542,
+     "median_residual_null": 0.2139,
+     "median_rho": 0.6161,
+     "median_rho_null": 0.6058,
+     "rank_departing": 0,
+     "system": "HPLC 12"
+    },
+    {
+     "cells": 137,
+     "magnitude_departing": 128,
+     "median_abs_residual": 2.0531,
+     "median_residual_null": 0.2541,
+     "median_rho": 0.6985,
+     "median_rho_null": 0.7069,
+     "rank_departing": 4,
+     "system": "ubiquitin"
+    },
+    {
+     "cells": 107,
+     "magnitude_departing": 7,
+     "median_abs_residual": 0.1276,
+     "median_residual_null": 0.1329,
+     "median_rho": 0.5686,
+     "median_rho_null": 0.5439,
+     "rank_departing": 0,
+     "system": "homeobox domain"
+    },
+    {
+     "cells": 95,
+     "magnitude_departing": 70,
+     "median_abs_residual": 2.737,
+     "median_residual_null": 0.2415,
+     "median_rho": 0.9534,
+     "median_rho_null": 0.8922,
+     "rank_departing": 0,
+     "system": "rplI"
+    },
+    {
+     "cells": 74,
+     "magnitude_departing": 21,
+     "median_abs_residual": 0.2224,
+     "median_residual_null": 0.2608,
+     "median_rho": 0.8406,
+     "median_rho_null": 0.8142,
+     "rank_departing": 0,
+     "system": "SARS-CoV-2 RBD"
+    },
+    {
+     "cells": 57,
+     "magnitude_departing": 57,
+     "median_abs_residual": 2.3804,
+     "median_residual_null": 0.1831,
+     "median_rho": 0.5412,
+     "median_rho_null": 0.5542,
+     "rank_departing": 0,
+     "system": "HPLC 12 isoform"
+    },
+    {
+     "cells": 51,
+     "magnitude_departing": 51,
+     "median_abs_residual": 0.9302,
+     "median_residual_null": 0.1151,
+     "median_rho": 0.5758,
+     "median_rho_null": 0.6485,
+     "rank_departing": 2,
+     "system": "CYP2C"
+    },
+    {
+     "cells": 43,
+     "magnitude_departing": 43,
+     "median_abs_residual": 3.0177,
+     "median_residual_null": 0.308,
+     "median_rho": 0.7771,
+     "median_rho_null": 0.8266,
+     "rank_departing": 0,
+     "system": "U14Ub1"
+    },
+    {
+     "cells": 43,
+     "magnitude_departing": 43,
+     "median_abs_residual": 5.1006,
+     "median_residual_null": 0.2678,
+     "median_rho": 0.7709,
+     "median_rho_null": 0.7513,
+     "rank_departing": 0,
+     "system": "Spectrin alpha, non-erythroc"
+    },
+    {
+     "cells": 32,
+     "magnitude_departing": 4,
+     "median_abs_residual": 0.0933,
+     "median_residual_null": 0.1139,
+     "median_rho": 0.4356,
+     "median_rho_null": 0.3612,
+     "rank_departing": 0,
+     "system": "zinc finger"
+    },
+    {
+     "cells": 28,
+     "magnitude_departing": 27,
+     "median_abs_residual": 1.6889,
+     "median_residual_null": 0.1374,
+     "median_rho": 0.9257,
+     "median_rho_null": 0.9179,
+     "rank_departing": 0,
+     "system": "FYN SH3 domain"
+    },
+    {
+     "cells": 28,
+     "magnitude_departing": 24,
+     "median_abs_residual": 1.7109,
+     "median_residual_null": 0.2514,
+     "median_rho": 0.902,
+     "median_rho_null": 0.8535,
+     "rank_departing": 2,
+     "system": "Protein LG"
+    },
+    {
+     "cells": 14,
+     "magnitude_departing": 13,
+     "median_abs_residual": 0.9642,
+     "median_residual_null": 0.1463,
+     "median_rho": 0.9897,
+     "median_rho_null": 0.8989,
+     "rank_departing": 0,
+     "system": "entD"
+    },
+    {
+     "cells": 13,
+     "magnitude_departing": 10,
+     "median_abs_residual": 1.8344,
+     "median_residual_null": 0.2366,
+     "median_rho": 0.8906,
+     "median_rho_null": 0.8309,
+     "rank_departing": 0,
+     "system": "StoA"
+    },
+    {
+     "cells": 13,
+     "magnitude_departing": 12,
+     "median_abs_residual": 1.5755,
+     "median_residual_null": 0.1808,
+     "median_rho": 0.8906,
+     "median_rho_null": 0.8328,
+     "rank_departing": 0,
+     "system": "StoC"
+    },
+    {
+     "cells": 8,
+     "magnitude_departing": 8,
+     "median_abs_residual": 1.4809,
+     "median_residual_null": 0.2493,
+     "median_rho": 0.9185,
+     "median_rho_null": 0.6863,
+     "rank_departing": 0,
+     "system": "cspB"
+    },
+    {
+     "cells": 8,
+     "magnitude_departing": 8,
+     "median_abs_residual": 3.5162,
+     "median_residual_null": 0.2616,
+     "median_rho": 0.9948,
+     "median_rho_null": 0.8762,
+     "rank_departing": 0,
+     "system": "influenza NP"
+    },
+    {
+     "cells": 8,
+     "magnitude_departing": 7,
+     "median_abs_residual": 2.2379,
+     "median_residual_null": 0.1593,
+     "median_rho": 0.9577,
+     "median_rho_null": 0.6202,
+     "rank_departing": 0,
+     "system": "NfeD domain-containing prote"
+    },
+    {
+     "cells": 8,
+     "magnitude_departing": 7,
+     "median_abs_residual": 1.4749,
+     "median_residual_null": 0.1808,
+     "median_rho": 0.9855,
+     "median_rho_null": 0.8215,
+     "rank_departing": 0,
+     "system": "Uncharacterized protein MJ11"
+    },
+    {
+     "cells": 8,
+     "magnitude_departing": 8,
+     "median_abs_residual": 6.5713,
+     "median_residual_null": 0.2686,
+     "median_rho": 0.9051,
+     "median_rho_null": 0.8462,
+     "rank_departing": 0,
+     "system": "N-acetylglucosaminidase"
+    },
+    {
+     "cells": 8,
+     "magnitude_departing": 7,
+     "median_abs_residual": 2.7025,
+     "median_residual_null": 0.3328,
+     "median_rho": 0.9556,
+     "median_rho_null": 0.743,
+     "rank_departing": 0,
+     "system": "Cold shock-like protein CspA"
+    },
+    {
+     "cells": 8,
+     "magnitude_departing": 8,
+     "median_abs_residual": 1.5731,
+     "median_residual_null": 0.2035,
+     "median_rho": 0.8916,
+     "median_rho_null": 0.7492,
+     "rank_departing": 0,
+     "system": "cspLA"
+    },
+    {
+     "cells": 8,
+     "magnitude_departing": 8,
+     "median_abs_residual": 1.6588,
+     "median_residual_null": 0.1579,
+     "median_rho": 0.902,
+     "median_rho_null": 0.8555,
+     "rank_departing": 0,
+     "system": "cylR2"
+    },
+    {
+     "cells": 8,
+     "magnitude_departing": 8,
+     "median_abs_residual": 3.4628,
+     "median_residual_null": 0.2032,
+     "median_rho": 0.9682,
+     "median_rho_null": 0.8676,
+     "rank_departing": 0,
+     "system": "SRC"
+    }
+   ],
+   "cells": 33337,
+   "dedup_cells": 4349,
+   "magnitude_departing": 3939,
+   "median_abs_residual": 2.1843,
+   "median_intermediate_cost": 2.2502,
+   "median_residual_null": 0.2281,
+   "median_rho": 0.7476,
+   "median_rho_null": 0.6801,
+   "pairs": 7059,
+   "rank_departing": 23,
+   "systems": 49,
+   "threshold": 0.75
+  },
+  {
+   "alanine_cells": 499,
+   "both": 21,
+   "by_system": [
+    {
+     "cells": 1337,
+     "magnitude_departing": 1288,
+     "median_abs_residual": 2.4453,
+     "median_residual_null": 0.2578,
+     "median_rho": 0.8679,
+     "median_rho_null": 0.8473,
+     "rank_departing": 12,
+     "system": "protein G"
+    },
+    {
+     "cells": 1006,
+     "magnitude_departing": 1003,
+     "median_abs_residual": 2.3245,
+     "median_residual_null": 0.1966,
+     "median_rho": 0.6326,
+     "median_rho_null": 0.5851,
+     "rank_departing": 0,
+     "system": "ice-structuring protein"
+    },
+    {
+     "cells": 387,
+     "magnitude_departing": 358,
+     "median_abs_residual": 1.7488,
+     "median_residual_null": 0.2675,
+     "median_rho": 0.8246,
+     "median_rho_null": 0.8452,
+     "rank_departing": 0,
+     "system": "SPTAN1"
+    },
+    {
+     "cells": 180,
+     "magnitude_departing": 164,
+     "median_abs_residual": 2.9437,
+     "median_residual_null": 0.2291,
+     "median_rho": 0.7157,
+     "median_rho_null": 0.6397,
+     "rank_departing": 1,
+     "system": "spa"
+    },
+    {
+     "cells": 139,
+     "magnitude_departing": 139,
+     "median_abs_residual": 2.3542,
+     "median_residual_null": 0.2139,
+     "median_rho": 0.6152,
+     "median_rho_null": 0.612,
+     "rank_departing": 0,
+     "system": "HPLC 12"
+    },
+    {
+     "cells": 132,
+     "magnitude_departing": 122,
+     "median_abs_residual": 3.0297,
+     "median_residual_null": 0.1608,
+     "median_rho": 0.685,
+     "median_rho_null": 0.6054,
+     "rank_departing": 1,
+     "system": "affibody"
+    },
+    {
+     "cells": 130,
+     "magnitude_departing": 125,
+     "median_abs_residual": 1.9894,
+     "median_residual_null": 0.239,
+     "median_rho": 0.7069,
+     "median_rho_null": 0.7688,
+     "rank_departing": 2,
+     "system": "ubiquitin"
+    },
+    {
+     "cells": 95,
+     "magnitude_departing": 70,
+     "median_abs_residual": 2.737,
+     "median_residual_null": 0.2415,
+     "median_rho": 0.9534,
+     "median_rho_null": 0.8922,
+     "rank_departing": 0,
+     "system": "rplI"
+    },
+    {
+     "cells": 74,
+     "magnitude_departing": 21,
+     "median_abs_residual": 0.2224,
+     "median_residual_null": 0.2608,
+     "median_rho": 0.8406,
+     "median_rho_null": 0.8142,
+     "rank_departing": 0,
+     "system": "SARS-CoV-2 RBD"
+    },
+    {
+     "cells": 55,
+     "magnitude_departing": 55,
+     "median_abs_residual": 2.3743,
+     "median_residual_null": 0.183,
+     "median_rho": 0.5412,
+     "median_rho_null": 0.5588,
+     "rank_departing": 0,
+     "system": "HPLC 12 isoform"
+    },
+    {
+     "cells": 37,
+     "magnitude_departing": 37,
+     "median_abs_residual": 2.7657,
+     "median_residual_null": 0.2769,
+     "median_rho": 0.7874,
+     "median_rho_null": 0.8535,
+     "rank_departing": 0,
+     "system": "U14Ub1"
+    },
+    {
+     "cells": 32,
+     "magnitude_departing": 4,
+     "median_abs_residual": 0.0933,
+     "median_residual_null": 0.1139,
+     "median_rho": 0.4356,
+     "median_rho_null": 0.3612,
+     "rank_departing": 0,
+     "system": "zinc finger"
+    },
+    {
+     "cells": 28,
+     "magnitude_departing": 27,
+     "median_abs_residual": 1.8025,
+     "median_residual_null": 0.1374,
+     "median_rho": 0.9257,
+     "median_rho_null": 0.9179,
+     "rank_departing": 0,
+     "system": "FYN SH3 domain"
+    },
+    {
+     "cells": 28,
+     "magnitude_departing": 24,
+     "median_abs_residual": 1.7109,
+     "median_residual_null": 0.2514,
+     "median_rho": 0.902,
+     "median_rho_null": 0.8535,
+     "rank_departing": 2,
+     "system": "Protein LG"
+    },
+    {
+     "cells": 27,
+     "magnitude_departing": 27,
+     "median_abs_residual": 5.1245,
+     "median_residual_null": 0.2291,
+     "median_rho": 0.8204,
+     "median_rho_null": 0.7792,
+     "rank_departing": 0,
+     "system": "Spectrin alpha, non-erythroc"
+    },
+    {
+     "cells": 16,
+     "magnitude_departing": 2,
+     "median_abs_residual": 0.0922,
+     "median_residual_null": 0.1042,
+     "median_rho": 0.5065,
+     "median_rho_null": 0.5459,
+     "rank_departing": 0,
+     "system": "homeobox domain"
+    },
+    {
+     "cells": 13,
+     "magnitude_departing": 10,
+     "median_abs_residual": 1.8344,
+     "median_residual_null": 0.2366,
+     "median_rho": 0.8906,
+     "median_rho_null": 0.8309,
+     "rank_departing": 0,
+     "system": "StoA"
+    },
+    {
+     "cells": 13,
+     "magnitude_departing": 12,
+     "median_abs_residual": 1.5755,
+     "median_residual_null": 0.1808,
+     "median_rho": 0.8906,
+     "median_rho_null": 0.8328,
+     "rank_departing": 0,
+     "system": "StoC"
+    },
+    {
+     "cells": 12,
+     "magnitude_departing": 11,
+     "median_abs_residual": 0.9642,
+     "median_residual_null": 0.1312,
+     "median_rho": 0.8658,
+     "median_rho_null": 0.9082,
+     "rank_departing": 0,
+     "system": "entD"
+    },
+    {
+     "cells": 8,
+     "magnitude_departing": 8,
+     "median_abs_residual": 3.5162,
+     "median_residual_null": 0.2616,
+     "median_rho": 0.9948,
+     "median_rho_null": 0.8762,
+     "rank_departing": 0,
+     "system": "influenza NP"
+    },
+    {
+     "cells": 8,
+     "magnitude_departing": 7,
+     "median_abs_residual": 2.2379,
+     "median_residual_null": 0.1593,
+     "median_rho": 0.9577,
+     "median_rho_null": 0.6202,
+     "rank_departing": 0,
+     "system": "NfeD domain-containing prote"
+    },
+    {
+     "cells": 8,
+     "magnitude_departing": 7,
+     "median_abs_residual": 1.4749,
+     "median_residual_null": 0.1808,
+     "median_rho": 0.9855,
+     "median_rho_null": 0.8215,
+     "rank_departing": 0,
+     "system": "Uncharacterized protein MJ11"
+    },
+    {
+     "cells": 8,
+     "magnitude_departing": 8,
+     "median_abs_residual": 1.8928,
+     "median_residual_null": 0.21,
+     "median_rho": 0.8318,
+     "median_rho_null": 0.7874,
+     "rank_departing": 0,
+     "system": "cspLA"
+    },
+    {
+     "cells": 8,
+     "magnitude_departing": 8,
+     "median_abs_residual": 1.6588,
+     "median_residual_null": 0.1579,
+     "median_rho": 0.902,
+     "median_rho_null": 0.8555,
+     "rank_departing": 0,
+     "system": "cylR2"
+    },
+    {
+     "cells": 8,
+     "magnitude_departing": 8,
+     "median_abs_residual": 3.4628,
+     "median_residual_null": 0.2032,
+     "median_rho": 0.9682,
+     "median_rho_null": 0.8676,
+     "rank_departing": 0,
+     "system": "SRC"
+    }
+   ],
+   "cells": 28532,
+   "dedup_cells": 3842,
+   "magnitude_departing": 3588,
+   "median_abs_residual": 2.3022,
+   "median_intermediate_cost": 2.2982,
+   "median_residual_null": 0.2291,
+   "median_rho": 0.7672,
+   "median_rho_null": 0.7329,
+   "pairs": 6232,
+   "rank_departing": 21,
+   "systems": 39,
+   "threshold": 0.8
+  },
+  {
+   "alanine_cells": 432,
+   "both": 23,
+   "by_system": [
+    {
+     "cells": 1149,
+     "magnitude_departing": 1115,
+     "median_abs_residual": 2.4768,
+     "median_residual_null": 0.24,
+     "median_rho": 0.8803,
+     "median_rho_null": 0.8597,
+     "rank_departing": 8,
+     "system": "protein G"
+    },
+    {
+     "cells": 828,
+     "magnitude_departing": 827,
+     "median_abs_residual": 2.3539,
+     "median_residual_null": 0.186,
+     "median_rho": 0.6182,
+     "median_rho_null": 0.5867,
+     "rank_departing": 2,
+     "system": "ice-structuring protein"
+    },
+    {
+     "cells": 285,
+     "magnitude_departing": 272,
+     "median_abs_residual": 1.749,
+     "median_residual_null": 0.2376,
+     "median_rho": 0.8204,
+     "median_rho_null": 0.8493,
+     "rank_departing": 0,
+     "system": "SPTAN1"
+    },
+    {
+     "cells": 131,
+     "magnitude_departing": 121,
+     "median_abs_residual": 2.9471,
+     "median_residual_null": 0.2182,
+     "median_rho": 0.6936,
+     "median_rho_null": 0.6936,
+     "rank_departing": 1,
+     "system": "spa"
+    },
+    {
+     "cells": 123,
+     "magnitude_departing": 123,
+     "median_abs_residual": 2.3657,
+     "median_residual_null": 0.2028,
+     "median_rho": 0.6244,
+     "median_rho_null": 0.614,
+     "rank_departing": 0,
+     "system": "HPLC 12"
+    },
+    {
+     "cells": 105,
+     "magnitude_departing": 103,
+     "median_abs_residual": 2.0606,
+     "median_residual_null": 0.2264,
+     "median_rho": 0.6698,
+     "median_rho_null": 0.7709,
+     "rank_departing": 4,
+     "system": "ubiquitin"
+    },
+    {
+     "cells": 95,
+     "magnitude_departing": 70,
+     "median_abs_residual": 2.737,
+     "median_residual_null": 0.2415,
+     "median_rho": 0.9534,
+     "median_rho_null": 0.8922,
+     "rank_departing": 0,
+     "system": "rplI"
+    },
+    {
+     "cells": 83,
+     "magnitude_departing": 79,
+     "median_abs_residual": 3.1911,
+     "median_residual_null": 0.1604,
+     "median_rho": 0.6544,
+     "median_rho_null": 0.6495,
+     "rank_departing": 1,
+     "system": "affibody"
+    },
+    {
+     "cells": 74,
+     "magnitude_departing": 22,
+     "median_abs_residual": 0.2137,
+     "median_residual_null": 0.2608,
+     "median_rho": 0.8397,
+     "median_rho_null": 0.8142,
+     "rank_departing": 2,
+     "system": "SARS-CoV-2 RBD"
+    },
+    {
+     "cells": 49,
+     "magnitude_departing": 49,
+     "median_abs_residual": 2.3804,
+     "median_residual_null": 0.1654,
+     "median_rho": 0.5232,
+     "median_rho_null": 0.5637,
+     "rank_departing": 0,
+     "system": "HPLC 12 isoform"
+    },
+    {
+     "cells": 28,
+     "magnitude_departing": 27,
+     "median_abs_residual": 1.8772,
+     "median_residual_null": 0.1374,
+     "median_rho": 0.9257,
+     "median_rho_null": 0.9179,
+     "rank_departing": 0,
+     "system": "FYN SH3 domain"
+    },
+    {
+     "cells": 27,
+     "magnitude_departing": 27,
+     "median_abs_residual": 5.2002,
+     "median_residual_null": 0.2291,
+     "median_rho": 0.8204,
+     "median_rho_null": 0.7853,
+     "rank_departing": 0,
+     "system": "Spectrin alpha, non-erythroc"
+    },
+    {
+     "cells": 26,
+     "magnitude_departing": 26,
+     "median_abs_residual": 2.9669,
+     "median_residual_null": 0.2413,
+     "median_rho": 0.7946,
+     "median_rho_null": 0.8731,
+     "rank_departing": 0,
+     "system": "U14Ub1"
+    },
+    {
+     "cells": 26,
+     "magnitude_departing": 22,
+     "median_abs_residual": 1.2757,
+     "median_residual_null": 0.2481,
+     "median_rho": 0.8885,
+     "median_rho_null": 0.8566,
+     "rank_departing": 2,
+     "system": "Protein LG"
+    },
+    {
+     "cells": 13,
+     "magnitude_departing": 10,
+     "median_abs_residual": 1.8344,
+     "median_residual_null": 0.2366,
+     "median_rho": 0.8906,
+     "median_rho_null": 0.8309,
+     "rank_departing": 0,
+     "system": "StoA"
+    },
+    {
+     "cells": 13,
+     "magnitude_departing": 12,
+     "median_abs_residual": 1.5755,
+     "median_residual_null": 0.1808,
+     "median_rho": 0.8906,
+     "median_rho_null": 0.8328,
+     "rank_departing": 0,
+     "system": "StoC"
+    },
+    {
+     "cells": 12,
+     "magnitude_departing": 11,
+     "median_abs_residual": 0.9642,
+     "median_residual_null": 0.1312,
+     "median_rho": 0.8658,
+     "median_rho_null": 0.9082,
+     "rank_departing": 0,
+     "system": "entD"
+    },
+    {
+     "cells": 8,
+     "magnitude_departing": 8,
+     "median_abs_residual": 3.5162,
+     "median_residual_null": 0.2616,
+     "median_rho": 0.9948,
+     "median_rho_null": 0.8762,
+     "rank_departing": 0,
+     "system": "influenza NP"
+    },
+    {
+     "cells": 8,
+     "magnitude_departing": 7,
+     "median_abs_residual": 1.4749,
+     "median_residual_null": 0.1808,
+     "median_rho": 0.9855,
+     "median_rho_null": 0.8215,
+     "rank_departing": 0,
+     "system": "Uncharacterized protein MJ11"
+    },
+    {
+     "cells": 8,
+     "magnitude_departing": 8,
+     "median_abs_residual": 1.6588,
+     "median_residual_null": 0.1579,
+     "median_rho": 0.902,
+     "median_rho_null": 0.8555,
+     "rank_departing": 0,
+     "system": "cylR2"
+    },
+    {
+     "cells": 8,
+     "magnitude_departing": 8,
+     "median_abs_residual": 3.4628,
+     "median_residual_null": 0.2032,
+     "median_rho": 0.9682,
+     "median_rho_null": 0.8676,
+     "rank_departing": 0,
+     "system": "SRC"
+    }
+   ],
+   "cells": 21811,
+   "dedup_cells": 3164,
+   "magnitude_departing": 2997,
+   "median_abs_residual": 2.3261,
+   "median_intermediate_cost": 2.3158,
+   "median_residual_null": 0.214,
+   "median_rho": 0.7688,
+   "median_rho_null": 0.7833,
+   "pairs": 4942,
+   "rank_departing": 23,
+   "systems": 39,
+   "threshold": 0.85
+  },
+  {
+   "alanine_cells": 308,
+   "both": 16,
+   "by_system": [
+    {
+     "cells": 811,
+     "magnitude_departing": 791,
+     "median_abs_residual": 2.3909,
+     "median_residual_null": 0.2094,
+     "median_rho": 0.8906,
+     "median_rho_null": 0.8679,
+     "rank_departing": 6,
+     "system": "protein G"
+    },
+    {
+     "cells": 600,
+     "magnitude_departing": 599,
+     "median_abs_residual": 2.3077,
+     "median_residual_null": 0.1456,
+     "median_rho": 0.614,
+     "median_rho_null": 0.5955,
+     "rank_departing": 0,
+     "system": "ice-structuring protein"
+    },
+    {
+     "cells": 160,
+     "magnitude_departing": 156,
+     "median_abs_residual": 2.1701,
+     "median_residual_null": 0.2253,
+     "median_rho": 0.8421,
+     "median_rho_null": 0.8679,
+     "rank_departing": 2,
+     "system": "SPTAN1"
+    },
+    {
+     "cells": 96,
+     "magnitude_departing": 96,
+     "median_abs_residual": 2.3293,
+     "median_residual_null": 0.1727,
+     "median_rho": 0.6194,
+     "median_rho_null": 0.6264,
+     "rank_departing": 0,
+     "system": "HPLC 12"
+    },
+    {
+     "cells": 95,
+     "magnitude_departing": 54,
+     "median_abs_residual": 1.199,
+     "median_residual_null": 0.1918,
+     "median_rho": 0.9387,
+     "median_rho_null": 0.8681,
+     "rank_departing": 0,
+     "system": "rplI"
+    },
+    {
+     "cells": 81,
+     "magnitude_departing": 80,
+     "median_abs_residual": 2.0602,
+     "median_residual_null": 0.1721,
+     "median_rho": 0.6698,
+     "median_rho_null": 0.7895,
+     "rank_departing": 2,
+     "system": "ubiquitin"
+    },
+    {
+     "cells": 50,
+     "magnitude_departing": 44,
+     "median_abs_residual": 3.0635,
+     "median_residual_null": 0.1251,
+     "median_rho": 0.8603,
+     "median_rho_null": 0.7622,
+     "rank_departing": 4,
+     "system": "spa"
+    },
+    {
+     "cells": 44,
+     "magnitude_departing": 15,
+     "median_abs_residual": 0.2027,
+     "median_residual_null": 0.1572,
+     "median_rho": 0.7823,
+     "median_rho_null": 0.8198,
+     "rank_departing": 2,
+     "system": "SARS-CoV-2 RBD"
+    },
+    {
+     "cells": 43,
+     "magnitude_departing": 43,
+     "median_abs_residual": 2.3708,
+     "median_residual_null": 0.1416,
+     "median_rho": 0.5221,
+     "median_rho_null": 0.5707,
+     "rank_departing": 0,
+     "system": "HPLC 12 isoform"
+    },
+    {
+     "cells": 26,
+     "magnitude_departing": 26,
+     "median_abs_residual": 1.6889,
+     "median_residual_null": 0.1372,
+     "median_rho": 0.9142,
+     "median_rho_null": 0.9252,
+     "rank_departing": 0,
+     "system": "FYN SH3 domain"
+    },
+    {
+     "cells": 26,
+     "magnitude_departing": 26,
+     "median_abs_residual": 1.7857,
+     "median_residual_null": 0.2329,
+     "median_rho": 0.7833,
+     "median_rho_null": 0.8772,
+     "rank_departing": 0,
+     "system": "U14Ub1"
+    },
+    {
+     "cells": 24,
+     "magnitude_departing": 23,
+     "median_abs_residual": 1.4143,
+     "median_residual_null": 0.1425,
+     "median_rho": 0.5919,
+     "median_rho_null": 0.5762,
+     "rank_departing": 0,
+     "system": "affibody"
+    },
+    {
+     "cells": 24,
+     "magnitude_departing": 24,
+     "median_abs_residual": 5.3676,
+     "median_residual_null": 0.2452,
+     "median_rho": 0.8029,
+     "median_rho_null": 0.7853,
+     "rank_departing": 0,
+     "system": "Spectrin alpha, non-erythroc"
+    },
+    {
+     "cells": 17,
+     "magnitude_departing": 15,
+     "median_abs_residual": 2.1017,
+     "median_residual_null": 0.198,
+     "median_rho": 0.9216,
+     "median_rho_null": 0.8906,
+     "rank_departing": 0,
+     "system": "Protein LG"
+    },
+    {
+     "cells": 13,
+     "magnitude_departing": 10,
+     "median_abs_residual": 1.8344,
+     "median_residual_null": 0.1685,
+     "median_rho": 0.8906,
+     "median_rho_null": 0.8309,
+     "rank_departing": 0,
+     "system": "StoA"
+    },
+    {
+     "cells": 13,
+     "magnitude_departing": 11,
+     "median_abs_residual": 1.464,
+     "median_residual_null": 0.1684,
+     "median_rho": 0.8906,
+     "median_rho_null": 0.8328,
+     "rank_departing": 0,
+     "system": "StoC"
+    },
+    {
+     "cells": 12,
+     "magnitude_departing": 11,
+     "median_abs_residual": 0.9642,
+     "median_residual_null": 0.1312,
+     "median_rho": 0.8658,
+     "median_rho_null": 0.9082,
+     "rank_departing": 0,
+     "system": "entD"
+    },
+    {
+     "cells": 8,
+     "magnitude_departing": 8,
+     "median_abs_residual": 3.4628,
+     "median_residual_null": 0.2032,
+     "median_rho": 0.9682,
+     "median_rho_null": 0.8676,
+     "rank_departing": 0,
+     "system": "SRC"
+    }
+   ],
+   "cells": 13096,
+   "dedup_cells": 2191,
+   "magnitude_departing": 2078,
+   "median_abs_residual": 2.2776,
+   "median_intermediate_cost": 2.2778,
+   "median_residual_null": 0.1888,
+   "median_rho": 0.7709,
+   "median_rho_null": 0.8188,
+   "pairs": 3178,
+   "rank_departing": 17,
+   "systems": 31,
+   "threshold": 0.9
+  }
+ ],
+ "calibration": "least-squares affine map carrying the second deposit onto the first, fitted on shared-parent positions only",
+ "draws": 10000,
+ "min_fit_points": 100,
+ "min_targets": 6,
+ "seed": 20261111,
+ "set_aside": {
+  "affine fit below the lowest threshold": 10827
+ },
+ "thresholds": [
+  0.7,
+  0.75,
+  0.8,
+  0.85,
+  0.9
+ ]
+}

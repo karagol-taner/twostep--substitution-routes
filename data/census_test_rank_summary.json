@@ -1,0 +1,42 @@
+{
+ "alanine": {
+  "cells": 692,
+  "cells_with_rho_below_null_median": 245,
+  "label": "alanine as intermediate",
+  "median_null_rho": 0.6161,
+  "median_rho": 0.7152,
+  "significant": 2,
+  "significant_fraction": 0.0029
+ },
+ "all": {
+  "cells": 5827,
+  "cells_with_rho_below_null_median": 2074,
+  "label": "all cells",
+  "median_null_rho": 0.2574,
+  "median_rho": 0.7028,
+  "significant": 25,
+  "significant_fraction": 0.0043
+ },
+ "calibration_draws": 4000,
+ "calibration_rejection_at_nominal_05": 0.0493,
+ "cells_before_dedup": 47607,
+ "draws": 10000,
+ "invariance": "unchanged by any increasing affine rescaling of either deposit, so no offset or scale is estimated",
+ "min_null_positions": 8,
+ "min_targets": 6,
+ "null": "the same statistic at shared-parent positions of the same two deposits, matched on the number of targets",
+ "pairs_with_a_departing_cell": 23,
+ "rbd": {
+  "cells": 296,
+  "cells_with_rho_below_null_median": 208,
+  "label": "receptor binding domain",
+  "median_null_rho": 0.77,
+  "median_rho": 0.6474,
+  "significant": 2,
+  "significant_fraction": 0.0068
+ },
+ "seed": 20261111,
+ "sequence_pairs": 3435,
+ "set_aside": {},
+ "statistic": "Spearman rank correlation between the one-step vector and the second-leg vector over the target residues at one position; additivity predicts 1"
+}

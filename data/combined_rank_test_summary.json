@@ -1,0 +1,15 @@
+{
+ "calibration_draws": 44,
+ "calibration_rejection_at_nominal_05": 0.0682,
+ "draws": 10000,
+ "median_shift": -0.02534,
+ "min_cells_per_system": 8,
+ "min_targets": 6,
+ "null": "same count of shared-parent positions from the same deposit pairs, matched on target count and cell count",
+ "seed": 20261111,
+ "set_aside": {},
+ "statistic": "mean rank correlation over a system test cells",
+ "systems_below_their_null": 26,
+ "systems_departing": 15,
+ "systems_tested": 44
+}

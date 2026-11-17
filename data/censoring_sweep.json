@@ -1,0 +1,255 @@
+{
+ "clip_value_source": "detected from the deposited scores, not sourced from a published limit of detection",
+ "margins": [
+  0.0,
+  0.01,
+  0.05,
+  0.1,
+  0.2,
+  0.3,
+  0.5
+ ],
+ "min_repeats_to_call_a_clip": 20,
+ "per_set": {
+  "BA.1|binding": {
+   "delta_column": "score",
+   "detected_clip": null,
+   "minimum": -3.9216,
+   "n_at_detected_clip": 0,
+   "n_measured": 3819,
+   "tail_repeats": [
+    [
+     -3.503,
+     3
+    ],
+    [
+     -3.157,
+     3
+    ],
+    [
+     -3.725,
+     2
+    ]
+   ],
+   "urn": "urn:mavedb:00000668-a-1"
+  },
+  "BA.1|expression": {
+   "delta_column": "score",
+   "detected_clip": null,
+   "minimum": -1.9957,
+   "n_at_detected_clip": 0,
+   "n_measured": 3819,
+   "tail_repeats": [
+    [
+     -1.694,
+     3
+    ],
+    [
+     -1.635,
+     3
+    ],
+    [
+     -1.506,
+     3
+    ]
+   ],
+   "urn": "urn:mavedb:00000669-a-1"
+  },
+  "BA.2|binding": {
+   "delta_column": "score",
+   "detected_clip": null,
+   "minimum": -3.9253,
+   "n_at_detected_clip": 0,
+   "n_measured": 4002,
+   "tail_repeats": [
+    [
+     -2.768,
+     3
+    ],
+    [
+     -2.749,
+     3
+    ],
+    [
+     -3.545,
+     2
+    ]
+   ],
+   "urn": "urn:mavedb:00000670-a-1"
+  },
+  "BA.2|expression": {
+   "delta_column": "score",
+   "detected_clip": null,
+   "minimum": -2.1392,
+   "n_at_detected_clip": 0,
+   "n_measured": 4002,
+   "tail_repeats": [
+    [
+     -1.732,
+     4
+    ],
+    [
+     -1.8,
+     3
+    ],
+    [
+     -1.772,
+     3
+    ]
+   ],
+   "urn": "urn:mavedb:00000671-a-1"
+  },
+  "Wuhan|binding": {
+   "delta_column": "average",
+   "detected_clip": -4.8,
+   "minimum": -4.84,
+   "n_at_detected_clip": 101,
+   "n_measured": 3802,
+   "tail_repeats": [
+    [
+     -4.8,
+     101
+    ],
+    [
+     -4.79,
+     13
+    ],
+    [
+     -4.77,
+     8
+    ]
+   ],
+   "urn": "urn:mavedb:00000044-a-1"
+  },
+  "Wuhan|expression": {
+   "delta_column": "average",
+   "detected_clip": null,
+   "minimum": -4.07,
+   "n_at_detected_clip": 0,
+   "n_measured": 3798,
+   "tail_repeats": [
+    [
+     -2.87,
+     13
+    ],
+    [
+     -2.85,
+     11
+    ],
+    [
+     -2.86,
+     10
+    ]
+   ],
+   "urn": "urn:mavedb:00000044-b-2"
+  }
+ },
+ "sweep": [
+  {
+   "by_phenotype": {
+    "binding": {
+     "excluded": 0,
+     "routes": 666,
+     "usable": 666
+    },
+    "expression": {
+     "excluded": 0,
+     "routes": 666,
+     "usable": 666
+    }
+   },
+   "margin": 0.0
+  },
+  {
+   "by_phenotype": {
+    "binding": {
+     "excluded": 1,
+     "routes": 666,
+     "usable": 665
+    },
+    "expression": {
+     "excluded": 0,
+     "routes": 666,
+     "usable": 666
+    }
+   },
+   "margin": 0.01
+  },
+  {
+   "by_phenotype": {
+    "binding": {
+     "excluded": 2,
+     "routes": 666,
+     "usable": 664
+    },
+    "expression": {
+     "excluded": 0,
+     "routes": 666,
+     "usable": 666
+    }
+   },
+   "margin": 0.05
+  },
+  {
+   "by_phenotype": {
+    "binding": {
+     "excluded": 2,
+     "routes": 666,
+     "usable": 664
+    },
+    "expression": {
+     "excluded": 0,
+     "routes": 666,
+     "usable": 666
+    }
+   },
+   "margin": 0.1
+  },
+  {
+   "by_phenotype": {
+    "binding": {
+     "excluded": 6,
+     "routes": 666,
+     "usable": 660
+    },
+    "expression": {
+     "excluded": 0,
+     "routes": 666,
+     "usable": 666
+    }
+   },
+   "margin": 0.2
+  },
+  {
+   "by_phenotype": {
+    "binding": {
+     "excluded": 8,
+     "routes": 666,
+     "usable": 658
+    },
+    "expression": {
+     "excluded": 0,
+     "routes": 666,
+     "usable": 666
+    }
+   },
+   "margin": 0.3
+  },
+  {
+   "by_phenotype": {
+    "binding": {
+     "excluded": 11,
+     "routes": 666,
+     "usable": 655
+    },
+    "expression": {
+     "excluded": 0,
+     "routes": 666,
+     "usable": 666
+    }
+   },
+   "margin": 0.5
+  }
+ ],
+ "tail_fraction_searched": 0.05
+}

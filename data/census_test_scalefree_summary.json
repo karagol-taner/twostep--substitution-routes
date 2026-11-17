@@ -1,0 +1,101 @@
+{
+ "alanine_subset": {
+  "cells": 692,
+  "significant_bh_0.05": 173
+ },
+ "departures_from_the_plan": [
+  "each scan is centred on its own wild-type value and divided by its own robust spread, so residuals are in units of each scan's own variation and not in the units of either deposit",
+  "the wild-type value is deposited for a few score sets and estimated as the 90th percentile of the effect distribution for the rest; the estimator was validated against the deposits that carry the true value and the quantile is swept here",
+  "permutation draws are taken with replacement, not without",
+  "multiplicity is controlled within a score-set pair, not within a phenotype, because the census spans assays with no common phenotype label",
+  "the censoring margin is held at zero, because a published limit of detection is not available for most deposits"
+ ],
+ "draws_headline": 10000,
+ "draws_sweep": 2000,
+ "headline": {
+  "cells": 5827,
+  "median_abs_residual": 0.9106,
+  "median_intermediate_cost": -0.4277,
+  "median_null_abs": 0.8018,
+  "negative_fraction": 0.2669,
+  "negative_median_residual_cells": 1555,
+  "significant_bh_0.05": 1584,
+  "significant_fraction": 0.2718
+ },
+ "headline_quantile": 90,
+ "min_control_pool": 100,
+ "min_mad": 0.01,
+ "min_routes": 6,
+ "quantile_sweep": [
+  {
+   "cells": 5827,
+   "draws": 2000,
+   "median_abs_residual": 0.7929,
+   "median_intermediate_cost": 0.1099,
+   "median_null_abs": 0.7758,
+   "negative_fraction": 0.5897,
+   "negative_median_residual_cells": 3436,
+   "quantile": 75,
+   "set_aside": {
+    "score set unusable or degenerate spread": 274
+   },
+   "significant_bh_0.05": 1287,
+   "significant_fraction": 0.2209
+  },
+  {
+   "cells": 5827,
+   "draws": 2000,
+   "median_abs_residual": 0.8245,
+   "median_intermediate_cost": -0.2008,
+   "median_null_abs": 0.792,
+   "negative_fraction": 0.3896,
+   "negative_median_residual_cells": 2270,
+   "quantile": 85,
+   "set_aside": {
+    "score set unusable or degenerate spread": 274
+   },
+   "significant_bh_0.05": 1377,
+   "significant_fraction": 0.2363
+  },
+  {
+   "cells": 5827,
+   "draws": 2000,
+   "median_abs_residual": 0.9106,
+   "median_intermediate_cost": -0.4277,
+   "median_null_abs": 0.8024,
+   "negative_fraction": 0.2669,
+   "negative_median_residual_cells": 1555,
+   "quantile": 90,
+   "set_aside": {
+    "score set unusable or degenerate spread": 274
+   },
+   "significant_bh_0.05": 1580,
+   "significant_fraction": 0.2712
+  },
+  {
+   "cells": 5827,
+   "draws": 2000,
+   "median_abs_residual": 1.124,
+   "median_intermediate_cost": -0.8024,
+   "median_null_abs": 0.8463,
+   "negative_fraction": 0.1584,
+   "negative_median_residual_cells": 923,
+   "quantile": 95,
+   "set_aside": {
+    "score set unusable or degenerate spread": 274
+   },
+   "significant_bh_0.05": 2194,
+   "significant_fraction": 0.3765
+  }
+ ],
+ "receptor_binding_domain_subset": {
+  "cells": 74,
+  "significant_bh_0.05": 16
+ },
+ "seed": 20261111,
+ "sequence_pairs": 1125,
+ "sequence_pairs_with_significant_cell": 628,
+ "set_aside_headline": {
+  "score set unusable or degenerate spread": 274
+ }
+}

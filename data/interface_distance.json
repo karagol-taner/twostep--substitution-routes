@@ -1,0 +1,71 @@
+{
+ "by_phenotype": {
+  "binding": {
+   "departing": [
+    373,
+    477,
+    493,
+    496,
+    498,
+    501,
+    505
+   ],
+   "departing_median_angstrom": 3.48,
+   "departing_within_contact": 6,
+   "other_median_angstrom": 8.91,
+   "other_within_contact": 0,
+   "p_departing_closer": 0.002074,
+   "p_departing_farther": 0.998586,
+   "positions": 18,
+   "splits_enumerated": 31824
+  },
+  "expression": {
+   "departing": [
+    373,
+    376,
+    408
+   ],
+   "departing_median_angstrom": 11.64,
+   "departing_within_contact": 0,
+   "other_median_angstrom": 5.94,
+   "other_within_contact": 6,
+   "p_departing_closer": 0.98652,
+   "p_departing_farther": 0.019608,
+   "positions": 18,
+   "splits_enumerated": 816
+  }
+ },
+ "chain": "A",
+ "contact_angstrom": 5.0,
+ "departing_rank": [
+  371
+ ],
+ "distance_angstrom": {
+  "339": 25.0,
+  "371": 13.73,
+  "373": 11.64,
+  "375": 9.15,
+  "376": 13.85,
+  "405": 7.31,
+  "408": 10.27,
+  "417": 5.94,
+  "440": 8.91,
+  "446": 5.59,
+  "477": 2.59,
+  "478": 7.26,
+  "484": 6.53,
+  "493": 3.09,
+  "496": 3.48,
+  "498": 2.79,
+  "501": 3.5,
+  "505": 3.5
+ },
+ "offset": -3,
+ "partner_chain": "D",
+ "rank_distance_angstrom": {
+  "371": 13.73
+ },
+ "residues_matched": 198,
+ "residues_total": 201,
+ "structure": "7WPB"
+}

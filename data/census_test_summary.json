@@ -1,0 +1,21 @@
+{
+ "alanine_cells": 692,
+ "alanine_significant": 545,
+ "cells": 5827,
+ "cells_tested_before_dedup": 47607,
+ "censoring_margin": 0.0,
+ "departures_from_the_plan": [
+  "multiplicity controlled within a score-set pair, not within a phenotype, because the census spans assays with no common phenotype label",
+  "censoring margin held at zero, because a published limit of detection is not available for most deposits; the receptor binding domain sweep was flat across the whole margin range"
+ ],
+ "draws": 10000,
+ "median_intermediate_cost": 4.8178,
+ "min_control_pool": 100,
+ "min_routes": 6,
+ "negative_median_residual_cells": 5460,
+ "seed": 20261111,
+ "sequence_pairs": 566,
+ "sequence_pairs_with_significant_cell": 544,
+ "set_aside": {},
+ "significant_bh_0.05": 4644
+}

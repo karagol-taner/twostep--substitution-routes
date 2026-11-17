@@ -1,0 +1,38 @@
+{
+ "by_kind": {
+  "designed background": {
+   "departing": 8,
+   "median_cells": 70.0,
+   "median_shift": -0.0461,
+   "shift_vs_log_cells": -0.201,
+   "systems": 19,
+   "systems_below_null": 12
+  },
+  "natural variant": {
+   "departing": 7,
+   "median_cells": 22.0,
+   "median_shift": -0.0157,
+   "shift_vs_log_cells": -0.273,
+   "systems": 25,
+   "systems_below_null": 14
+  }
+ },
+ "calibration_draws": 8800,
+ "calibration_draws_per_system": 200,
+ "calibration_is_disjoint_from_the_reference": true,
+ "calibration_rejection_at_nominal_05": 0.0492,
+ "cells_before_collapse": 47607,
+ "cells_tested": 4439,
+ "draws": 10000,
+ "kind_rule": "a deposit name carrying a parenthesised point substitution or design tag marks a designed background",
+ "median_shift": -0.02529,
+ "min_cells_per_system": 8,
+ "min_targets": 6,
+ "null": "same count of shared-parent positions from the same deposit pairs, matched on target count and cell count",
+ "seed": 20261111,
+ "set_aside": {},
+ "statistic": "mean rank correlation over a system test cells",
+ "systems_below_their_null": 26,
+ "systems_departing": 15,
+ "systems_tested": 44
+}

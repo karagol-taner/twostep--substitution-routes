@@ -1,0 +1,48 @@
+<!doctype html><html><head><meta charset="utf-8">
+<style>html,body{margin:0;padding:0;background:#fff}
+#v{width:1000px;height:850px;position:relative}</style>
+<script src="3Dmol-min.js"></script></head>
+<body><div id="v"></div><script>
+window.ready = false;
+async function build() {
+  const q = new URLSearchParams(location.search);
+  const pdb = await (await fetch('structure.pdb')).text();
+  const P = await (await fetch('payload.json')).json();
+  const C = {binding:'#D55E00', expression:'#0072B2', both:'#CC79A7',
+             rank:'#009E73', none:'#cfcfcf'};
+  const v = $3Dmol.createViewer(document.getElementById('v'),
+                                {backgroundColor:'white', antialias:true});
+  v.addModel(pdb, 'pdb');
+  v.setStyle({}, {});
+  v.setStyle({chain:P.rbd}, {cartoon:{color:'#b5b5b5', thickness:0.45, arrows:true}});
+  v.addStyle({chain:P.partner, resi:P.near},
+             {cartoon:{color:'#56B4E9', thickness:0.45, opacity:0.95, arrows:true}});
+  for (const g of ['none','rank','expression','binding','both']) {
+    const rs = P.groups[g];
+    if (!rs.length) continue;
+    const big = (g !== 'none');
+    v.addStyle({chain:P.rbd, resi:rs, atom:'CA'},
+               {sphere:{color:C[g], radius: big ? 1.15 : 0.7}});
+    if (big) {
+      v.addStyle({chain:P.rbd, resi:rs, not:{atom:['N','C','O']}},
+                 {stick:{color:C[g], radius:0.16}});
+    }
+  }
+  if (q.get('labels') !== '0') {
+    for (const [resi, name] of Object.entries(P.labels)) {
+      v.addLabel(name, {alignment:'center', fontSize:13, fontColor:'#1b1b1b',
+                        backgroundColor:'white', backgroundOpacity:0.55,
+                        borderThickness:0, inFront:true},
+                 {chain:P.rbd, resi:parseInt(resi), atom:'CA'});
+    }
+  }
+  v.zoomTo({chain:P.rbd});
+  const ry = parseFloat(q.get('ry') || '120'), rx = parseFloat(q.get('rx') || '0');
+  if (ry) v.rotate(ry, 'y');
+  if (rx) v.rotate(rx, 'x');
+  v.zoom(parseFloat(q.get('z') || '0.90'));
+  v.render();
+  window.ready = true;
+}
+build();
+</script></body></html>
